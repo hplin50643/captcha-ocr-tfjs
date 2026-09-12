@@ -1,0 +1,3368 @@
+{
+  "8e84303a67b23f88c4a7a205473f7c3a719ed8c41f68741fd4d2096b58e8bc29_0": {
+    "label": "1",
+    "inputHash": "08791b37dd435ecf73fc44841cf0c36aff8d3fdba4af55b8656ce273084bc413",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.872Z"
+  },
+  "79eab522059ff7b34c0adcffbbaad82332236e615c29b8ba1d349d89231fe135_3": {
+    "label": "5",
+    "inputHash": "75ba9c0b2293b08ad924c59743f3f32363f704ed0be7fcac7ca404e0fe79e95b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.875Z"
+  },
+  "b8fde391d29689958201d035e82ac78dea59988b9d78cf3c480d30c634d6a96b_2": {
+    "label": "7",
+    "inputHash": "233c7361a0f30abc51cc91c578f58e8c77d7cf24ac0128efc3cb6a8ee74ac892",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.880Z"
+  },
+  "0e720ca5bd8662ba0a4460add0a5ead03c25f2a6fc23de4e62caadf12c261bd6_3": {
+    "label": "5",
+    "inputHash": "75ba9c0b2293b08ad924c59743f3f32363f704ed0be7fcac7ca404e0fe79e95b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.882Z"
+  },
+  "a4d956dabf8e2d2f6f24aa61ab6e8b8545280330ecc06b90a4bbfff0f2fd0986_3": {
+    "label": "5",
+    "inputHash": "262fb65cfc7f1d9f1ca9293a80416294d647325549deb164b8bc8dd662c61d62",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.884Z"
+  },
+  "56d8f51a0af6a4b87f828c26f8c5b5450aa8d69fed7424614403768a9c3fffd7_2": {
+    "label": "7",
+    "inputHash": "233c7361a0f30abc51cc91c578f58e8c77d7cf24ac0128efc3cb6a8ee74ac892",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.885Z"
+  },
+  "858410f571835b32f5909b1f70bc93f3fb717bc6a6fcea1a2f7fd87c47062c38_0": {
+    "label": "3",
+    "inputHash": "c6420b122a88993f7b1b996c49455b21fb07003941796a9f8e1fd549336d5e78",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.887Z"
+  },
+  "523e7e8591a7ad987e7ab28af427c20fc81163b8b8e954cbeaf98bb4c0dfb432_0": {
+    "label": "3",
+    "inputHash": "897dd364e2b66439a8fa850745a16b8a1b0be6a2e95e5326f98c03905ffaa2a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.889Z"
+  },
+  "a312601f3151d1731db78f8eacd1d971093d6f4a47a6fffe43e7fc2a55ef9336_0": {
+    "label": "3",
+    "inputHash": "2c1cb04a272b5caea55b36b46e5b37248489b1eaf12c4adc82c75fe2b3d46b37",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.891Z"
+  },
+  "3e3c390af9f3d9b51da04fa2b12c98ab7a431a7bdfbe8b4deef2adfdb6787aed_2": {
+    "label": "7",
+    "inputHash": "73f6203575c30b016a7a9b8cefcd42fc942621daa0b9ff7046cf1184fb590d53",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.893Z"
+  },
+  "b9ac6a9c7602925a539c486d5e039343dbf05587f42eb309c2260b6bd5e91a42_0": {
+    "label": "4",
+    "inputHash": "e1b0459e495e844e9f924c4774b19878e63624ed82d67c23dea869fda20d7dcd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.894Z"
+  },
+  "71456a9b5b5d51f99b595d5f0ad95a927e7c31e9df0cd516187fdfca0fb76286_3": {
+    "label": "5",
+    "inputHash": "8f556782377fbf5af22eb3b14c1262bbed72262ccd9874f9f86a86c8828a2017",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.896Z"
+  },
+  "9dd67b5a147a3d9fa65598869fda50228b3b9152479a2ae647be886c176ace80_2": {
+    "label": "7",
+    "inputHash": "783cc1f585aab7a4fc1aaae54b499a872fa53e20c6ac58d4d061de48c698f3eb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.897Z"
+  },
+  "e588bb077e9d47d40507d4b3784b3cdfb8390e14cfe7d3731d50d6999ad00f84_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.899Z"
+  },
+  "d7295972a279884ecd5657269063d466a3151b3224e0d8510e6333e33ed272d0_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.900Z"
+  },
+  "af656e351617d8467c2f915048360b9f9fed6d8f7b94288491f8dc5d608a99d8_0": {
+    "label": "5",
+    "inputHash": "0699c925e84c61b41842b11dec3d44543f6aee103fbf9544288dbd4a46e1a544",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.901Z"
+  },
+  "d593619d2e702221bcff70e28a81712b8def2ee63198d197727d1f8e8907e598_0": {
+    "label": "5",
+    "inputHash": "0699c925e84c61b41842b11dec3d44543f6aee103fbf9544288dbd4a46e1a544",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.902Z"
+  },
+  "53440f0e3fbc3384c8b7e0462e1870fff960b9d5025c18e809fce2599f9fec54_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.903Z"
+  },
+  "6a02187d22971460a99fe93561f86bbefed2b0883209874a82e2983032082b40_3": {
+    "label": "5",
+    "inputHash": "651b3ab7feefb6dd5df60813631ad5849d0d8ae302e8713ceea0bfbfb5fcc556",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.904Z"
+  },
+  "6b10f02005b785853e046648f3c8a0c03d4c9782ca262ba19fe88e8bc141ad1c_3": {
+    "label": "5",
+    "inputHash": "75ba9c0b2293b08ad924c59743f3f32363f704ed0be7fcac7ca404e0fe79e95b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.905Z"
+  },
+  "624b6cdba833796b35d0bd5f698274a7f8fcdd457be0d91ee21768e22a8389b5_3": {
+    "label": "5",
+    "inputHash": "658b4bd78c6bdeed0bc8c9ab267627595fb2edc9961fdc74c175546107879a4e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.906Z"
+  },
+  "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8_0": {
+    "label": "1",
+    "inputHash": "aa402d90e006c9002ba0b2314c4e3b093d5055c93efb4fee9c4b4bc52fc58339",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.907Z"
+  },
+  "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8_1": {
+    "label": "1",
+    "inputHash": "0c59cfedc51819b7c3fc37f3f40de84cdaa26810acf7e6e9163ed555af2a56eb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.907Z"
+  },
+  "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8_2": {
+    "label": "2",
+    "inputHash": "c3d489847646733f5a68ab8f32ffe029ba9b5083af160fbc6972114ce5aced9c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.907Z"
+  },
+  "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8_3": {
+    "label": "3",
+    "inputHash": "3f19a8691eadd7337b6e7740bcf2428d43871c8238c43dd88e52d2fe23e671ae",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.907Z"
+  },
+  "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8_4": {
+    "label": "1",
+    "inputHash": "44deb05032761f35e83a412e623527a168075f310dae09be79d157412d0a76be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.907Z"
+  },
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660_0": {
+    "label": "1",
+    "inputHash": "5bbf9ad0dd1392fd22a1ca6b7c0a53621c5900411768c0d09b9b7aed31b33bfc",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.908Z"
+  },
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660_1": {
+    "label": "2",
+    "inputHash": "15f9a37f384fc9eb00c8c140aa6860b2b269465d8c39c61d9fcc842ad8a42eef",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.908Z"
+  },
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660_2": {
+    "label": "6",
+    "inputHash": "d7393e0d22e7019d80684a927bbb47f6c0b8cbf34e998321af3ea99d23bfdfdd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.908Z"
+  },
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660_3": {
+    "label": "5",
+    "inputHash": "9dc4ac502674abc64fc2ad40725ef77dbcff775663155044ed24d4daf3cda405",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.908Z"
+  },
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660_4": {
+    "label": "6",
+    "inputHash": "4b813ac79d55240fe2b36d66e3c26c8302b1ab99b18b238be4ebe4a303e2c604",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.908Z"
+  },
+  "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152_0": {
+    "label": "2",
+    "inputHash": "69482bcc043bb3fd62110069ed832ff38fb3bf215c5083aafff4eaea625447e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.910Z"
+  },
+  "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152_1": {
+    "label": "1",
+    "inputHash": "1a69cd0e36d1af8dd14833c2aeb1ef59f10a98ba9fb9ff2e896ee8c3674827a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.910Z"
+  },
+  "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152_2": {
+    "label": "3",
+    "inputHash": "42f9e5d8db191a14131fcf198767e5a1fc9383cc486779ba0753e6ff919611a4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.910Z"
+  },
+  "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152_3": {
+    "label": "6",
+    "inputHash": "ddf85c8451bbf720768239e0df783dd683f75051682c8fa1e22d1cef9217c9c5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.910Z"
+  },
+  "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152_4": {
+    "label": "7",
+    "inputHash": "d5b0241aa5f6f9cc602a86d070bd9e6289a1997a7f4574bf8e6c0c790729418c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.910Z"
+  },
+  "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5_0": {
+    "label": "4",
+    "inputHash": "e38990ca797a5a4ebeef61bf31c0acc108bcf0524ef1b3cedf43f8c3b9d6d33e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.911Z"
+  },
+  "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5_1": {
+    "label": "4",
+    "inputHash": "6b018dd55813c1c1f127e097e651216883043fccd6af0814e5864f496c05cf17",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.911Z"
+  },
+  "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5_2": {
+    "label": "8",
+    "inputHash": "82a2812fd61851cf4f03394a7a48d441102f3e9631d0f641210cdaf42271e1d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.911Z"
+  },
+  "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5_3": {
+    "label": "5",
+    "inputHash": "ecf1807e33d7523b6de81ed4744442089752325ac0e0c369b536acf91deebbb1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.911Z"
+  },
+  "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5_4": {
+    "label": "3",
+    "inputHash": "e37e6e5d1204b6f28c9af10270a47e7889e24e5a4ddb8a1f41fba69405b9c1d2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.911Z"
+  },
+  "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86_0": {
+    "label": "5",
+    "inputHash": "87d0021df00df0b51ff0718ba6e72b72161c6ba763d23dc4e740f3aa85cf25c4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.912Z"
+  },
+  "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86_1": {
+    "label": "1",
+    "inputHash": "ccd71fb093193fc6a36be922cf48f8b872a218023e4eb6a381c30483f28e468c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.912Z"
+  },
+  "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86_2": {
+    "label": "7",
+    "inputHash": "9c1bbd8389ddb14b227d74b11f4ac74272bf56a805be5dcbbbf3597e91b09bcf",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.912Z"
+  },
+  "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86_3": {
+    "label": "9",
+    "inputHash": "a2e710998317cc3006242262ad32af83b5d0f3977e180493ed549fed9c526586",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.912Z"
+  },
+  "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86_4": {
+    "label": "5",
+    "inputHash": "c2f9e213ed4842cf4d0748fb5121e1b91996c5a3b53effdea4879192ec9f37e8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.912Z"
+  },
+  "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2_0": {
+    "label": "6",
+    "inputHash": "cbe66c01708ee193bbb82acbacacf2a8e6175569c79e35ca088c6bdfd580931f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.913Z"
+  },
+  "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2_1": {
+    "label": "5",
+    "inputHash": "f21ec8f74f19aa26ea7c7e254878c3cd4ab95fed34770a9b57fd52df5c962dcb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.913Z"
+  },
+  "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2_2": {
+    "label": "7",
+    "inputHash": "73f6203575c30b016a7a9b8cefcd42fc942621daa0b9ff7046cf1184fb590d53",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.913Z"
+  },
+  "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2_3": {
+    "label": "7",
+    "inputHash": "2d8631fbaf262d47ee8120cad57154e560a37ff6a33cb1786f3ceae8e3a2af80",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.913Z"
+  },
+  "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2_4": {
+    "label": "4",
+    "inputHash": "4671b4f66c123982573abc7aefedd7361d2ae0eccbc4a99f71b5dc47c0fbe7d1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.913Z"
+  },
+  "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e_0": {
+    "label": "8",
+    "inputHash": "36b1809186f56bb87f9a93c80162d2ef2d1fad4b1af53bc52abd70106d93ea83",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.914Z"
+  },
+  "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e_1": {
+    "label": "3",
+    "inputHash": "fdf7d8d7818a590e35f468fe8553bef0f134ba9607de16256d139cb38231a8ab",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.914Z"
+  },
+  "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e_2": {
+    "label": "7",
+    "inputHash": "1c4fd8edcb3b970236076ad43264e6151dc612c8a8870323a7fc8c3a7a1c7635",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.914Z"
+  },
+  "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e_3": {
+    "label": "5",
+    "inputHash": "2b1379a9406c99fdb5d7807683f5318d92ea5364d1d48f6b5922683bdba6d0af",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.914Z"
+  },
+  "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e_4": {
+    "label": "2",
+    "inputHash": "01bd23894cd0455b8e4ac79beb15495e198575dcabfdc7b8c283a0454921fc43",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.914Z"
+  },
+  "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d_0": {
+    "label": "8",
+    "inputHash": "0080803c4d4af48bc33482233b3e6ef438f4cf2963cb9bf2e4ec0cdcaf856db2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.916Z"
+  },
+  "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d_1": {
+    "label": "8",
+    "inputHash": "68b962752a107ff0fee2b62484b58c23c45688df17fcca91786853987ce98806",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.916Z"
+  },
+  "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d_2": {
+    "label": "7",
+    "inputHash": "783cc1f585aab7a4fc1aaae54b499a872fa53e20c6ac58d4d061de48c698f3eb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.916Z"
+  },
+  "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d_3": {
+    "label": "5",
+    "inputHash": "9a8e07cd09bde174ca0965356820f22e7c5dcc47070e0b1716c348f5a2570cf3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.916Z"
+  },
+  "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d_4": {
+    "label": "8",
+    "inputHash": "b03a542187eb3549d1e9b97730557730e0646e4d9bd456f241c714d90f2e9412",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:12:42.916Z"
+  },
+  "ba2a72f944ffac70072f0f85748d0acaed21b33c7116932a3f4c963c13957496_0": {
+    "label": "8",
+    "inputHash": "3423b414296df9b70e7cc76c18ddb7bc72297c59614408ce4bb80620466133c0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.089Z"
+  },
+  "ba2a72f944ffac70072f0f85748d0acaed21b33c7116932a3f4c963c13957496_1": {
+    "label": "5",
+    "inputHash": "5a054ac9fbbad9cb7deeead91b98a86f8cdf0dc8741acebb4ca36802493b6488",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.089Z"
+  },
+  "ba2a72f944ffac70072f0f85748d0acaed21b33c7116932a3f4c963c13957496_2": {
+    "label": "8",
+    "inputHash": "dc81066aefbddcbdc53e1f53022cc163d4e7a240a334f00c9e8be90567b2721d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.089Z"
+  },
+  "ba2a72f944ffac70072f0f85748d0acaed21b33c7116932a3f4c963c13957496_3": {
+    "label": "1",
+    "inputHash": "15427fff23856919c3493b2d23b73c05d631f1f54da583449fa36ad066de3b01",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.089Z"
+  },
+  "ba2a72f944ffac70072f0f85748d0acaed21b33c7116932a3f4c963c13957496_4": {
+    "label": "9",
+    "inputHash": "666d1c5f07488a200f980cce46c19fabf769ce7a10dbcac237a47b35ae24e32c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.089Z"
+  },
+  "cae5d5dc97e932039ffc3cb240ea40dea2ba17a42dafd6be6042c9a2ab97943e_0": {
+    "label": "8",
+    "inputHash": "5b767490cffd7f68c81a7ff1dccc0ea46c0d967dd934867eb97fa09f446a163a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "cae5d5dc97e932039ffc3cb240ea40dea2ba17a42dafd6be6042c9a2ab97943e_1": {
+    "label": "2",
+    "inputHash": "03503953f5349598ef65e867e5341fecfddcda6790fb36078f64d6f522afa44d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "cae5d5dc97e932039ffc3cb240ea40dea2ba17a42dafd6be6042c9a2ab97943e_2": {
+    "label": "7",
+    "inputHash": "783cc1f585aab7a4fc1aaae54b499a872fa53e20c6ac58d4d061de48c698f3eb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "cae5d5dc97e932039ffc3cb240ea40dea2ba17a42dafd6be6042c9a2ab97943e_3": {
+    "label": "8",
+    "inputHash": "f845acff08bb54e31a88c5c42ed4e006449f93d86b7f25bac11aa07d8420ba3d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "cae5d5dc97e932039ffc3cb240ea40dea2ba17a42dafd6be6042c9a2ab97943e_4": {
+    "label": "7",
+    "inputHash": "e62dadb6f99bcaa6488b108c95daa614c19e56ac8fd3b0652f9378479f1855bb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "35e8dd6101e61c8d57cc5679fcb5d57e0bf687787303a12ba417cb9b781b0e11_0": {
+    "label": "6",
+    "inputHash": "6c38e279d1d1d19af714fc7e22605368dfea310cb723879e3317d8125550a882",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "35e8dd6101e61c8d57cc5679fcb5d57e0bf687787303a12ba417cb9b781b0e11_1": {
+    "label": "3",
+    "inputHash": "0030441713ca05772c4258e2bc7d353cb8d0b52b69429c5db90f2e082973ef90",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "35e8dd6101e61c8d57cc5679fcb5d57e0bf687787303a12ba417cb9b781b0e11_2": {
+    "label": "6",
+    "inputHash": "48dc6359c43adc9c7f8816728f542ed401dbbb57dc1ef582fd02ac22090d2cba",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "35e8dd6101e61c8d57cc5679fcb5d57e0bf687787303a12ba417cb9b781b0e11_3": {
+    "label": "5",
+    "inputHash": "0a529b2024579cb62f22f1a9511dbac3bd9e63b2c7d5f0b411c089efcae3e6d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "35e8dd6101e61c8d57cc5679fcb5d57e0bf687787303a12ba417cb9b781b0e11_4": {
+    "label": "9",
+    "inputHash": "ad53720ec1ef36e9f2786ef4423ab4cc49f27dbd32a264b4a51c54507322ce22",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "8961a2d44f9ff191b050e536bb31ddd381f8c794a2c5510f73415d277863b4b8_0": {
+    "label": "3",
+    "inputHash": "9c8401e539f697edfc68199d100d42b81eeaeee5918aa2a9e43e2a6482f17248",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "8961a2d44f9ff191b050e536bb31ddd381f8c794a2c5510f73415d277863b4b8_1": {
+    "label": "4",
+    "inputHash": "7596c6982109dffc5ee7d095ba263fca2f88bf3ff395c78f8c0fa36eec8b544e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "8961a2d44f9ff191b050e536bb31ddd381f8c794a2c5510f73415d277863b4b8_2": {
+    "label": "6",
+    "inputHash": "b8de817abc0c0f8faa5da8b9963039898fadbd9f90692c4852d900b6d13b0446",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "8961a2d44f9ff191b050e536bb31ddd381f8c794a2c5510f73415d277863b4b8_3": {
+    "label": "5",
+    "inputHash": "5848747093ac644d7ff1ad19db8028d6cb98fd069ae56e49dedb6bc1ee175ba7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "8961a2d44f9ff191b050e536bb31ddd381f8c794a2c5510f73415d277863b4b8_4": {
+    "label": "7",
+    "inputHash": "7a51ea59fb91e4a7fad730e1b8777ffb3bc34119b09fd0f4ab5f7a7bee2c673e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "9e388953c4ec46743a8086c2d081b82ce05d5a0f4704bb30c15812ee008c664a_0": {
+    "label": "4",
+    "inputHash": "f6527acecf513c33b970860d1595a3f98fc1f0f383221c98e572f0659784317e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "9e388953c4ec46743a8086c2d081b82ce05d5a0f4704bb30c15812ee008c664a_1": {
+    "label": "2",
+    "inputHash": "288984179d7f5c8fe28cc64ed767628334fd865b77772357245dd3f43c070fdd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "9e388953c4ec46743a8086c2d081b82ce05d5a0f4704bb30c15812ee008c664a_2": {
+    "label": "1",
+    "inputHash": "8be34b0364ea959cdb9da4093f31169159c690b977437ad1dde5212454e604ef",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "9e388953c4ec46743a8086c2d081b82ce05d5a0f4704bb30c15812ee008c664a_3": {
+    "label": "4",
+    "inputHash": "7e3a7896fdb31fb4ae6d53248ffd34f6e150461d69e1502d4ff79f8d3b771c52",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "9e388953c4ec46743a8086c2d081b82ce05d5a0f4704bb30c15812ee008c664a_4": {
+    "label": "5",
+    "inputHash": "8b78076b0c5d95d74a0af44fde9d6f318694b9aceff8b5274d40a0314e0c37f3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "16ff7f54a7f11a13f6134daca4885f2c659e70d44cdf5c0c247318fa0351369f_0": {
+    "label": "1",
+    "inputHash": "6757399428dbd6a45714dcabe474e1687685751f9899bbaab186e1484ad6b92e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "16ff7f54a7f11a13f6134daca4885f2c659e70d44cdf5c0c247318fa0351369f_1": {
+    "label": "1",
+    "inputHash": "44deb05032761f35e83a412e623527a168075f310dae09be79d157412d0a76be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "16ff7f54a7f11a13f6134daca4885f2c659e70d44cdf5c0c247318fa0351369f_2": {
+    "label": "9",
+    "inputHash": "cb40bc08505d8d1e9ab64645b0e8d6377d0f2bc5db7e8f7460f11e0b79bac384",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "16ff7f54a7f11a13f6134daca4885f2c659e70d44cdf5c0c247318fa0351369f_3": {
+    "label": "9",
+    "inputHash": "da75f796f2649dcb701aadbb48ba63bcbd61ee90b4510199090a1ed5c75217d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "16ff7f54a7f11a13f6134daca4885f2c659e70d44cdf5c0c247318fa0351369f_4": {
+    "label": "6",
+    "inputHash": "66462bb027a6f3e015acab84fbcda028cc0920271271d32331f1786294f7b61b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c583d5adafab1b54d6f5d5fc9c903a4cd008fc9c87e06900f080cc7f67380dd9_0": {
+    "label": "9",
+    "inputHash": "c04f2f0773ac73854937fb807ffe30e5e75c3e83ba4791b1279b13ff6b3cf879",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c583d5adafab1b54d6f5d5fc9c903a4cd008fc9c87e06900f080cc7f67380dd9_1": {
+    "label": "3",
+    "inputHash": "147770c05b524ca701131db69d01b23cf0b63ab165c4e6e82e9dd0ad3e6a5f2c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c583d5adafab1b54d6f5d5fc9c903a4cd008fc9c87e06900f080cc7f67380dd9_2": {
+    "label": "3",
+    "inputHash": "da9f1f04bac12b389b471c115c540ba8d8f5e3d86f8b579cf2fb3d2ae74b42d8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c583d5adafab1b54d6f5d5fc9c903a4cd008fc9c87e06900f080cc7f67380dd9_3": {
+    "label": "5",
+    "inputHash": "75ba9c0b2293b08ad924c59743f3f32363f704ed0be7fcac7ca404e0fe79e95b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c583d5adafab1b54d6f5d5fc9c903a4cd008fc9c87e06900f080cc7f67380dd9_4": {
+    "label": "3",
+    "inputHash": "a1188bdb76786ba934624d368374c56df7f7071b9f59156846a93e152aef95e8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e78471232e2b32f6dc1011c8f513ad5674b277dbd4fcfe6cbc881c3282b7b1ce_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e78471232e2b32f6dc1011c8f513ad5674b277dbd4fcfe6cbc881c3282b7b1ce_1": {
+    "label": "9",
+    "inputHash": "915a22f1bbabef70531db6dfa85569ba65e22fde3e70255791bb20d1e80aecc1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e78471232e2b32f6dc1011c8f513ad5674b277dbd4fcfe6cbc881c3282b7b1ce_2": {
+    "label": "7",
+    "inputHash": "59cb47325f61d7cdd8a86a9fd84e3fd66170a2857b94290e27a035b1369e9eeb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e78471232e2b32f6dc1011c8f513ad5674b277dbd4fcfe6cbc881c3282b7b1ce_3": {
+    "label": "5",
+    "inputHash": "f1feb9097fbced398871955992431a56023332b72bef3b53e119590beb40279b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e78471232e2b32f6dc1011c8f513ad5674b277dbd4fcfe6cbc881c3282b7b1ce_4": {
+    "label": "4",
+    "inputHash": "ad19225357d77b688b4b9db2d493b0ffb03dbfd15028f4a00c3a95b9e02fd0f0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "f90a7c90d9286658b128ea80d4507c55e4580982e8aaec316c0611adaac91591_0": {
+    "label": "8",
+    "inputHash": "46773c4beb6983daf3e7beafe20af3a64ef78c17f7ab528a29122e557410071f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "f90a7c90d9286658b128ea80d4507c55e4580982e8aaec316c0611adaac91591_1": {
+    "label": "1",
+    "inputHash": "6d114889a54ae9ce567157c9ed7c97ded5714eb7563fa968b0fbdad5c0ca489e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "f90a7c90d9286658b128ea80d4507c55e4580982e8aaec316c0611adaac91591_2": {
+    "label": "3",
+    "inputHash": "f5e4d64f25cf0ff70d731d0d6c4c2c19e08a66c20a0780695f627e07a87c16ef",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "f90a7c90d9286658b128ea80d4507c55e4580982e8aaec316c0611adaac91591_3": {
+    "label": "5",
+    "inputHash": "9a8e07cd09bde174ca0965356820f22e7c5dcc47070e0b1716c348f5a2570cf3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "f90a7c90d9286658b128ea80d4507c55e4580982e8aaec316c0611adaac91591_4": {
+    "label": "3",
+    "inputHash": "48bb2c84aa40c400246cda00ca474664d41b1cf19de34d0e5bc51757472da231",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e38fc7a15aeb0c28ba2a126e22b882046f6ad541e968b3ee5c05c542fa95fcc6_0": {
+    "label": "4",
+    "inputHash": "896a1d0c5a819716aa28d3aa0a081ff7dee7b1c21017b0abb94cad77e8feaf74",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e38fc7a15aeb0c28ba2a126e22b882046f6ad541e968b3ee5c05c542fa95fcc6_1": {
+    "label": "7",
+    "inputHash": "ce5a916a3011d981cbb77eee00edd908454b83fb88dcef62a79895698dcc37bb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e38fc7a15aeb0c28ba2a126e22b882046f6ad541e968b3ee5c05c542fa95fcc6_2": {
+    "label": "7",
+    "inputHash": "854ec7c2d18c6c0fc9f3b169a16634fcc594f6efb526f11d54ace833d86de698",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e38fc7a15aeb0c28ba2a126e22b882046f6ad541e968b3ee5c05c542fa95fcc6_3": {
+    "label": "5",
+    "inputHash": "7e09178fe36406c83c93d0ceeb8b079acb726bb7446877984a028aa19239afde",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "e38fc7a15aeb0c28ba2a126e22b882046f6ad541e968b3ee5c05c542fa95fcc6_4": {
+    "label": "4",
+    "inputHash": "4ab8df3d80c16ba136088dacd7c780d7321578b0ba799981dd1b8c3898c33cf9",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "78092194302ed81759a224363c4d3927592bca071349bde5b78e70c45a940fd8_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "78092194302ed81759a224363c4d3927592bca071349bde5b78e70c45a940fd8_1": {
+    "label": "9",
+    "inputHash": "db42628b1bac4b1dac21482a014b50a5fb8dcdfd93229eafa05bc6645d0190a8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "78092194302ed81759a224363c4d3927592bca071349bde5b78e70c45a940fd8_2": {
+    "label": "7",
+    "inputHash": "4036881dab67ab9af74fbcf8cbb9c90085bcdbd2192ef03082326d981de29b9d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "78092194302ed81759a224363c4d3927592bca071349bde5b78e70c45a940fd8_3": {
+    "label": "6",
+    "inputHash": "38a53711dcd8ce28e598dba590669858783211bf0078ab8bd796e690af2c1d3f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "78092194302ed81759a224363c4d3927592bca071349bde5b78e70c45a940fd8_4": {
+    "label": "4",
+    "inputHash": "348470bd1e924b6ffeee6ab366330749a82312775fb0d4dcb23718370218d296",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c3693cfbae07f546aa5be25af2f20b2e2e5e52f6e4161a6e4155dc8040a09220_0": {
+    "label": "9",
+    "inputHash": "094092ced9c5f153a02dd733b201586cb2a8e86789a41008db22ddea89aee4a1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c3693cfbae07f546aa5be25af2f20b2e2e5e52f6e4161a6e4155dc8040a09220_1": {
+    "label": "5",
+    "inputHash": "4a18c6ecd6e25926ceec654f73cdf77bd09c20a9b59849b68438ae50f1c5c99a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c3693cfbae07f546aa5be25af2f20b2e2e5e52f6e4161a6e4155dc8040a09220_2": {
+    "label": "2",
+    "inputHash": "a01c2e5200f5905d5a046a3e7caf09540085d1428ecec9512750d2acb04a69e4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c3693cfbae07f546aa5be25af2f20b2e2e5e52f6e4161a6e4155dc8040a09220_3": {
+    "label": "5",
+    "inputHash": "e853137212a6502d67ba3107cc2f45a7f90ce81a07839ed078c0715436fd8d6a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "c3693cfbae07f546aa5be25af2f20b2e2e5e52f6e4161a6e4155dc8040a09220_4": {
+    "label": "5",
+    "inputHash": "8faa65760b19420098fb4d6197f188dc261e3d6bc515d0c4eec9778ecc42d7ba",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "370a58e310c83d376ced806dc9c19394167bb6555cc6c944f6755638c6f69328_0": {
+    "label": "4",
+    "inputHash": "e1b0459e495e844e9f924c4774b19878e63624ed82d67c23dea869fda20d7dcd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "370a58e310c83d376ced806dc9c19394167bb6555cc6c944f6755638c6f69328_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "370a58e310c83d376ced806dc9c19394167bb6555cc6c944f6755638c6f69328_2": {
+    "label": "6",
+    "inputHash": "7ac2f2cf8890dd8633d84cad69ae1b04888677bfb72c7801f9b01a709291f21d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "370a58e310c83d376ced806dc9c19394167bb6555cc6c944f6755638c6f69328_3": {
+    "label": "3",
+    "inputHash": "e8cd1d97999ae8f4d44c472ea0205c5e279ea4fb0bfc0f370f91647374463b80",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "370a58e310c83d376ced806dc9c19394167bb6555cc6c944f6755638c6f69328_4": {
+    "label": "6",
+    "inputHash": "4b813ac79d55240fe2b36d66e3c26c8302b1ab99b18b238be4ebe4a303e2c604",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "627c19ddf2c1f87b53a83e98195899fb108cad773b85463e9bbf7d133f94766d_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "627c19ddf2c1f87b53a83e98195899fb108cad773b85463e9bbf7d133f94766d_1": {
+    "label": "9",
+    "inputHash": "915a22f1bbabef70531db6dfa85569ba65e22fde3e70255791bb20d1e80aecc1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "627c19ddf2c1f87b53a83e98195899fb108cad773b85463e9bbf7d133f94766d_2": {
+    "label": "4",
+    "inputHash": "4a8e7dee9fc35867113e7f9c4a92fc22a915d0a650a8da55dc79894ef4d38152",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "627c19ddf2c1f87b53a83e98195899fb108cad773b85463e9bbf7d133f94766d_3": {
+    "label": "2",
+    "inputHash": "bc3241456f1555a67bcde60b616b081a5e1e018af2eb57d68fb05ddadb7d37a6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "627c19ddf2c1f87b53a83e98195899fb108cad773b85463e9bbf7d133f94766d_4": {
+    "label": "8",
+    "inputHash": "e9ac9c9403c5a003dc93a8fb541e117c8d680454cd73596f5aeed80adfb44f61",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fe42f1138888a9f45a6a8d7979d78f4483549056db65584648027ef50a16a79b_0": {
+    "label": "4",
+    "inputHash": "9abb9239a3b10210ae472f6cb3e343eba99b0ddcfb0924a8232b1219d4a81ac8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fe42f1138888a9f45a6a8d7979d78f4483549056db65584648027ef50a16a79b_1": {
+    "label": "2",
+    "inputHash": "409c06a1746167c188525a2acb32a48782f4c486a059788057efbf5a44f5cc7c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fe42f1138888a9f45a6a8d7979d78f4483549056db65584648027ef50a16a79b_2": {
+    "label": "3",
+    "inputHash": "7aa3ec89aa004dc3e850b7825e0e8cda78c51c4d1ec8356b18ecaaf12c3a7ed4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fe42f1138888a9f45a6a8d7979d78f4483549056db65584648027ef50a16a79b_3": {
+    "label": "2",
+    "inputHash": "8b554eba7b1b576d5643a64b7866427f758731f1a8b8aae7454cf6491605b655",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fe42f1138888a9f45a6a8d7979d78f4483549056db65584648027ef50a16a79b_4": {
+    "label": "4",
+    "inputHash": "63692d21a96ed590a931c6eaacb35c6bc5f34cb98f0aa0737ea51f9c1b424441",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "dc99f5024ee1e35f8bacac0864f2f37b4373ba6e15d56a518939a6605c0298f6_0": {
+    "label": "1",
+    "inputHash": "aa402d90e006c9002ba0b2314c4e3b093d5055c93efb4fee9c4b4bc52fc58339",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "dc99f5024ee1e35f8bacac0864f2f37b4373ba6e15d56a518939a6605c0298f6_1": {
+    "label": "1",
+    "inputHash": "1a69cd0e36d1af8dd14833c2aeb1ef59f10a98ba9fb9ff2e896ee8c3674827a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "dc99f5024ee1e35f8bacac0864f2f37b4373ba6e15d56a518939a6605c0298f6_2": {
+    "label": "2",
+    "inputHash": "1f34180a83c0076b8d4f6195f18ab3d13c5ee6298097b39ec2da313d6d462050",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "dc99f5024ee1e35f8bacac0864f2f37b4373ba6e15d56a518939a6605c0298f6_3": {
+    "label": "7",
+    "inputHash": "b7d035fd7b40762c355e0d5b081caf920ae4ea404fd5e9a0b3e68d7590e5baa4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "dc99f5024ee1e35f8bacac0864f2f37b4373ba6e15d56a518939a6605c0298f6_4": {
+    "label": "6",
+    "inputHash": "66462bb027a6f3e015acab84fbcda028cc0920271271d32331f1786294f7b61b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "4ec3051adf28ad1855882cd3b9eccd8f0caf9ab3e34eb2bb4228d6c989eee685_0": {
+    "label": "3",
+    "inputHash": "b75d21f3a067a584fa3f89d9ed49413560a93e61272ccb42fe6dda95af5df290",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "4ec3051adf28ad1855882cd3b9eccd8f0caf9ab3e34eb2bb4228d6c989eee685_1": {
+    "label": "1",
+    "inputHash": "3846015e627cae659b445b8d7fca489e2e6b2faed4a66bad5fdbd9d5bba7cb88",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "4ec3051adf28ad1855882cd3b9eccd8f0caf9ab3e34eb2bb4228d6c989eee685_2": {
+    "label": "1",
+    "inputHash": "d978882e74a0c66a1824794a3576b43ab23761ea780d7650eac694f2bd64b473",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "4ec3051adf28ad1855882cd3b9eccd8f0caf9ab3e34eb2bb4228d6c989eee685_3": {
+    "label": "8",
+    "inputHash": "b8914a6e0bc6887d8a818e5426443901fbb89b44076b4580087e0a47a687a184",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "4ec3051adf28ad1855882cd3b9eccd8f0caf9ab3e34eb2bb4228d6c989eee685_4": {
+    "label": "5",
+    "inputHash": "36959dd1c60b55b7198b8c70ef75399b68eac60f1e999d9f102382817eabb94b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fd6bb96c7b7b09c28a0f4c78e6fe60c86be1ca40d3432e25ea6d208bac635a95_0": {
+    "label": "5",
+    "inputHash": "c33204c358c048425446c536ab63c11481de42002afc2ed9a976f8216b13d6df",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fd6bb96c7b7b09c28a0f4c78e6fe60c86be1ca40d3432e25ea6d208bac635a95_1": {
+    "label": "1",
+    "inputHash": "e9f8876cb044622244c2b44448b13ff222dfe00d8262fb7a6bed93f8560215c7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fd6bb96c7b7b09c28a0f4c78e6fe60c86be1ca40d3432e25ea6d208bac635a95_2": {
+    "label": "4",
+    "inputHash": "d8270c9a904a653a2fbeaad36f63b2a190d233b906a07606049ea7a309a60c8a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fd6bb96c7b7b09c28a0f4c78e6fe60c86be1ca40d3432e25ea6d208bac635a95_3": {
+    "label": "4",
+    "inputHash": "7f50c054412a3522cf00b7fbb42aa8d9e9006210259b9d9c3a447406bdceb711",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "fd6bb96c7b7b09c28a0f4c78e6fe60c86be1ca40d3432e25ea6d208bac635a95_4": {
+    "label": "4",
+    "inputHash": "54521caf014571e871f1c1aa7702602fc02a034c0c0ddcee9d4b3b442f17904d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "d9fcf15036fbbaca7ce8be94b061b8477314f1f9c624b38ee307fa8fd7322ee6_0": {
+    "label": "8",
+    "inputHash": "4b1d4bf8d7ab41854dfbd8da882e8607144b5c682706eb3f1d97de040b3322d2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "d9fcf15036fbbaca7ce8be94b061b8477314f1f9c624b38ee307fa8fd7322ee6_1": {
+    "label": "6",
+    "inputHash": "0900899d3d48b83302da3d99db070589cd6aa1a653eac29d891fe2c8cd74afea",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "d9fcf15036fbbaca7ce8be94b061b8477314f1f9c624b38ee307fa8fd7322ee6_2": {
+    "label": "7",
+    "inputHash": "ffe89a818fd0ed0ceb6ed4a4a2783ae16abb0f6ef21c4907d7d6cc408ec25823",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "d9fcf15036fbbaca7ce8be94b061b8477314f1f9c624b38ee307fa8fd7322ee6_3": {
+    "label": "2",
+    "inputHash": "18f9b2c223d8b65a39db7f44b528d18936b1387280ebda37eff900fa83523234",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "d9fcf15036fbbaca7ce8be94b061b8477314f1f9c624b38ee307fa8fd7322ee6_4": {
+    "label": "5",
+    "inputHash": "df272fc8a82f3adb3c05d0447e8651532f81218788265c54a0e40ddcb65b350e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "7f17fe3e53ee0e9f5467d2fc0ebc71fa7c0214f64b5346d2fb06f2bb292bc83c_0": {
+    "label": "3",
+    "inputHash": "3f1a59712c1bb89fe5c1f7c72cb998bee2e8ffc820013734c5ca3b0d148c74e9",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "7f17fe3e53ee0e9f5467d2fc0ebc71fa7c0214f64b5346d2fb06f2bb292bc83c_1": {
+    "label": "1",
+    "inputHash": "3846015e627cae659b445b8d7fca489e2e6b2faed4a66bad5fdbd9d5bba7cb88",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "7f17fe3e53ee0e9f5467d2fc0ebc71fa7c0214f64b5346d2fb06f2bb292bc83c_2": {
+    "label": "4",
+    "inputHash": "2b55f8ea314f2a8619370c2a363e76c2b7ae9e9541c03e88d4df2a63916d138f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "7f17fe3e53ee0e9f5467d2fc0ebc71fa7c0214f64b5346d2fb06f2bb292bc83c_3": {
+    "label": "5",
+    "inputHash": "6c61441d671713cc5ddd066bcd08a81cad0398e0573e2f45ce305fa3dc59bc50",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "7f17fe3e53ee0e9f5467d2fc0ebc71fa7c0214f64b5346d2fb06f2bb292bc83c_4": {
+    "label": "5",
+    "inputHash": "0d7273b5ba85c22ee25ce90d93116f2e0fca78b5ace967c384b6bd70e51996b4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z"
+  },
+  "04f4247ea07b40c5fb57080e46246ba1f7fa2787bba6d697b5322b6e4f9029b9_0": {
+    "label": "8",
+    "inputHash": "975956ddabab63fe24ce9e445b98773226e5fe6c15d8cc7ae60ad1a65c2981da",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "04f4247ea07b40c5fb57080e46246ba1f7fa2787bba6d697b5322b6e4f9029b9_1": {
+    "label": "4",
+    "inputHash": "cb9352cb8db7738ad8c551084afdb2fbd09721213d89eea54afb5503a7104f93",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "04f4247ea07b40c5fb57080e46246ba1f7fa2787bba6d697b5322b6e4f9029b9_2": {
+    "label": "7",
+    "inputHash": "1c4fd8edcb3b970236076ad43264e6151dc612c8a8870323a7fc8c3a7a1c7635",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "04f4247ea07b40c5fb57080e46246ba1f7fa2787bba6d697b5322b6e4f9029b9_3": {
+    "label": "3",
+    "inputHash": "630f8ed8fec3035bdbc9e9b8663c24a5dafb0f35d5401289f6c7546fdea61c73",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "04f4247ea07b40c5fb57080e46246ba1f7fa2787bba6d697b5322b6e4f9029b9_4": {
+    "label": "5",
+    "inputHash": "263e9c563deb980bfd67e6ee2cd353985d957027cc87f9272badd49201a74f11",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cb1cfcad34d4fa21376a9066b97ffeefd1373c6067f8e25c1709bf48411f567f_0": {
+    "label": "6",
+    "inputHash": "272d2ee0b5fb741f63eb479e7d5fb28ccedb776466f42830a6d5df43f068ac28",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cb1cfcad34d4fa21376a9066b97ffeefd1373c6067f8e25c1709bf48411f567f_1": {
+    "label": "6",
+    "inputHash": "367e5043fe832cdaea072954130a2bc9e6aa61716a86a7a6d4720903035b1c44",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cb1cfcad34d4fa21376a9066b97ffeefd1373c6067f8e25c1709bf48411f567f_2": {
+    "label": "4",
+    "inputHash": "9dbb1bd12e76b709f067bb3f7584965203827edf5ef63bf42109498d8df6bbe9",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cb1cfcad34d4fa21376a9066b97ffeefd1373c6067f8e25c1709bf48411f567f_3": {
+    "label": "5",
+    "inputHash": "414d74229c94d93959ab3590fc99adf6645bd0904246833303d8808235218b29",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cb1cfcad34d4fa21376a9066b97ffeefd1373c6067f8e25c1709bf48411f567f_4": {
+    "label": "8",
+    "inputHash": "cf0f14120e530122d02a7514ee4661d6a0fa48dda8d14207a6a9994056a312a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "35d53dc941b3d05b4623aa8d9f099a4da17968e6e4502c72756344a00843f102_0": {
+    "label": "5",
+    "inputHash": "d73ebf352c853de3000bac035c0e07a8026c0bedbb44a2b451c88fdc190bfb36",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "35d53dc941b3d05b4623aa8d9f099a4da17968e6e4502c72756344a00843f102_1": {
+    "label": "7",
+    "inputHash": "5e928c4e61e7e18c7070fb2f2a47505215d36988a0319b1ec91c2addb5b6dc8b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "35d53dc941b3d05b4623aa8d9f099a4da17968e6e4502c72756344a00843f102_2": {
+    "label": "4",
+    "inputHash": "1c341b638598710f237d16adf985770dedbe816a76cafa715b97dd23e2d43f54",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "35d53dc941b3d05b4623aa8d9f099a4da17968e6e4502c72756344a00843f102_3": {
+    "label": "5",
+    "inputHash": "0d817921a9c326ea45b8751479e9bc899b9ccdb9aea854a238fc5de8d69b5731",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "35d53dc941b3d05b4623aa8d9f099a4da17968e6e4502c72756344a00843f102_4": {
+    "label": "4",
+    "inputHash": "054559b1fd4865648944bcc5415e9bab63f52d31d3e461cd16a9fd223c2c0745",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "833a5182b81f32b86ca2d6a1592ad21ef45e1d226529dc90f2e1043666998fe4_0": {
+    "label": "5",
+    "inputHash": "750ff768c8fd210dd53376fe950177504e074b20896440c640efd435f26cbe90",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "833a5182b81f32b86ca2d6a1592ad21ef45e1d226529dc90f2e1043666998fe4_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "833a5182b81f32b86ca2d6a1592ad21ef45e1d226529dc90f2e1043666998fe4_2": {
+    "label": "6",
+    "inputHash": "9a2c975904791735a2b09515946844a1bfd27b67ec5722b8a7bc0816b5ba8210",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "833a5182b81f32b86ca2d6a1592ad21ef45e1d226529dc90f2e1043666998fe4_3": {
+    "label": "5",
+    "inputHash": "7aa1b6c7ccd1238c3f111e5b61f1f51ba29f59b787ab165c5c88b17958758b08",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "833a5182b81f32b86ca2d6a1592ad21ef45e1d226529dc90f2e1043666998fe4_4": {
+    "label": "7",
+    "inputHash": "c1688e9f861a2b342ab66d55a679dcd0f3bb870a7b28ea7bfc1531be37e9eabc",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "fca01472b5453cc2782c4089bd52b957a6c8c8bc2b48a5f211e543e82745d9a4_0": {
+    "label": "2",
+    "inputHash": "9683988d03e1069dad9f9b87d1a0599cd0a1791e09f77733cf749b04a7298bc8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "fca01472b5453cc2782c4089bd52b957a6c8c8bc2b48a5f211e543e82745d9a4_1": {
+    "label": "4",
+    "inputHash": "028ec95039e6b14b846ceabe61f1a5d9df3388ad4e56116814d8dc7a77156e41",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "fca01472b5453cc2782c4089bd52b957a6c8c8bc2b48a5f211e543e82745d9a4_2": {
+    "label": "4",
+    "inputHash": "2d2f91c4d4c9cb3d0478bab0b83e1ea931de8e1784c17eb0f8bd30006b0fe606",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "fca01472b5453cc2782c4089bd52b957a6c8c8bc2b48a5f211e543e82745d9a4_3": {
+    "label": "5",
+    "inputHash": "8f556782377fbf5af22eb3b14c1262bbed72262ccd9874f9f86a86c8828a2017",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "fca01472b5453cc2782c4089bd52b957a6c8c8bc2b48a5f211e543e82745d9a4_4": {
+    "label": "8",
+    "inputHash": "df63f3299b1a99a0266a07e19610a4f51374ab2ea0ac85dad20f5c70ff3e7328",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "eaaabcced42c56efdbe71a69e05c32f2aa6b4c3f088e468e984da1b549673882_0": {
+    "label": "4",
+    "inputHash": "d80f94c919e3c4f8fdb18f61f12561064d9b92128a035c0414c50110e53007fd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "eaaabcced42c56efdbe71a69e05c32f2aa6b4c3f088e468e984da1b549673882_1": {
+    "label": "7",
+    "inputHash": "64664310664f21c3d325d1e57fc220119bce569fbe315911e86f39d33f6f0b4e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "eaaabcced42c56efdbe71a69e05c32f2aa6b4c3f088e468e984da1b549673882_2": {
+    "label": "7",
+    "inputHash": "a7f9ce3b6f8c02d7f2c6961648711b52990987e2f95e92a331e68f53e64643e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "eaaabcced42c56efdbe71a69e05c32f2aa6b4c3f088e468e984da1b549673882_3": {
+    "label": "3",
+    "inputHash": "1f26f38f1f6331c976d3dfcf7874dd67603d94ee0559360b267ad6ca80b423c8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "eaaabcced42c56efdbe71a69e05c32f2aa6b4c3f088e468e984da1b549673882_4": {
+    "label": "9",
+    "inputHash": "c34bc6d05dab1b1a2888e71cc1ad4055cf3243601ae3fa42359cf85853374510",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "a0b76f1fa8acae712213b1ea00abde6945e39b6f1f5528b1881bb9a5b4084eb8_0": {
+    "label": "5",
+    "inputHash": "b25d2999b4541df174d00f739a29729ac7f1c0931436aa66eeb7a1f73acc8f2a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "a0b76f1fa8acae712213b1ea00abde6945e39b6f1f5528b1881bb9a5b4084eb8_1": {
+    "label": "9",
+    "inputHash": "ae63fa7573bc660aade8de6c4e9894d2c4c0ecc0c9741f6bd4a52960ebe62438",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "a0b76f1fa8acae712213b1ea00abde6945e39b6f1f5528b1881bb9a5b4084eb8_2": {
+    "label": "8",
+    "inputHash": "095f2483bf4f64b2bbe79886ffd687583a22d218ef3fe72ee5167692e7f7bb43",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "a0b76f1fa8acae712213b1ea00abde6945e39b6f1f5528b1881bb9a5b4084eb8_3": {
+    "label": "4",
+    "inputHash": "46d84dcc2b258a6b9473e12b4ce655a2792fc5941c8659705f51da9e9f87bbdb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "a0b76f1fa8acae712213b1ea00abde6945e39b6f1f5528b1881bb9a5b4084eb8_4": {
+    "label": "9",
+    "inputHash": "4ed255419e65482af8eeb5f51a8786bcb8cc81ade32161b0ff276686564d93ac",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "09fb7743954323139f72465e019158eaa68482c70285e6e63f2bf96c8c6cb061_0": {
+    "label": "8",
+    "inputHash": "c059440f9613e653f32294eb903ccddd118ef2ecc366d23bf0b9c97cf7956c56",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "09fb7743954323139f72465e019158eaa68482c70285e6e63f2bf96c8c6cb061_1": {
+    "label": "2",
+    "inputHash": "51535186edbe0f2986f2ff5274cf13092daa05a49ff360a2acb85980c4d6233f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "09fb7743954323139f72465e019158eaa68482c70285e6e63f2bf96c8c6cb061_2": {
+    "label": "4",
+    "inputHash": "30dd4e72fe92d05b8df85198d6b73a584b6c68534893f63f63751fe476ee7680",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "09fb7743954323139f72465e019158eaa68482c70285e6e63f2bf96c8c6cb061_3": {
+    "label": "5",
+    "inputHash": "753ee3a4564a18db95269ba2f4a93a712b0ab5bdc26acd63c56eabf02fef3538",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "09fb7743954323139f72465e019158eaa68482c70285e6e63f2bf96c8c6cb061_4": {
+    "label": "9",
+    "inputHash": "4ed255419e65482af8eeb5f51a8786bcb8cc81ade32161b0ff276686564d93ac",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b19427646d94c37ca9a432545af3629fdffb4317ac76a2f275481b561b03c944_0": {
+    "label": "4",
+    "inputHash": "d5de7ada4d9007742ba1d7e55b68090bd54e5965e82fc88ec205fa8d414f436b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b19427646d94c37ca9a432545af3629fdffb4317ac76a2f275481b561b03c944_1": {
+    "label": "8",
+    "inputHash": "1b8dd986f4ff69fff9e83dfaa490aee895125e75a9b00c5dd221cde774c86a9b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b19427646d94c37ca9a432545af3629fdffb4317ac76a2f275481b561b03c944_2": {
+    "label": "8",
+    "inputHash": "a4372c2cc4bd361cd04b4dc4338bdc9a41c8f231ebb0b68292ccbe61fd5ec138",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b19427646d94c37ca9a432545af3629fdffb4317ac76a2f275481b561b03c944_3": {
+    "label": "5",
+    "inputHash": "0a529b2024579cb62f22f1a9511dbac3bd9e63b2c7d5f0b411c089efcae3e6d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b19427646d94c37ca9a432545af3629fdffb4317ac76a2f275481b561b03c944_4": {
+    "label": "1",
+    "inputHash": "3648645ef1e3c2657c0c7d6fdb56308b8bc79bf7748cdabd8d25f424c20b9454",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "bedc38a720950e6a20761eba54e6f898e7f383fb7d7deb36ece9c00562ea6e65_0": {
+    "label": "9",
+    "inputHash": "c0e51482098286eeb63c0097d17a48f100dfb0508eaad2d2e1bf6ff960a6b534",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "bedc38a720950e6a20761eba54e6f898e7f383fb7d7deb36ece9c00562ea6e65_1": {
+    "label": "9",
+    "inputHash": "0ada61c2130d0e64c1344661946deb92bfe8c9383ab6f4ab895e6b90e66d917c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "bedc38a720950e6a20761eba54e6f898e7f383fb7d7deb36ece9c00562ea6e65_2": {
+    "label": "7",
+    "inputHash": "49b69f46fb3999dc3dc62838b2fe5b046c076ad8777ba55cc2b3b8c2c3bec4be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "bedc38a720950e6a20761eba54e6f898e7f383fb7d7deb36ece9c00562ea6e65_3": {
+    "label": "1",
+    "inputHash": "cbd67de83c21e9fa71ea7e3026e74f3cd7ac31a99be94eb781211ed809d2df25",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "bedc38a720950e6a20761eba54e6f898e7f383fb7d7deb36ece9c00562ea6e65_4": {
+    "label": "8",
+    "inputHash": "e9ac9c9403c5a003dc93a8fb541e117c8d680454cd73596f5aeed80adfb44f61",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "05aef509b01d2c6bd676a0808b7efda3d1a7d756c2d44de19b3cad941a9feb5a_0": {
+    "label": "5",
+    "inputHash": "750ff768c8fd210dd53376fe950177504e074b20896440c640efd435f26cbe90",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "05aef509b01d2c6bd676a0808b7efda3d1a7d756c2d44de19b3cad941a9feb5a_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "05aef509b01d2c6bd676a0808b7efda3d1a7d756c2d44de19b3cad941a9feb5a_2": {
+    "label": "5",
+    "inputHash": "b588deb2bb5b5ef5fe71eb0517bfe2b553a55274a53481ef56318c41ba6129e9",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "05aef509b01d2c6bd676a0808b7efda3d1a7d756c2d44de19b3cad941a9feb5a_3": {
+    "label": "7",
+    "inputHash": "44584adfd63db6487b08cc2ba0234f0fc2fc5edaa83e7f57df7096015f349221",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "05aef509b01d2c6bd676a0808b7efda3d1a7d756c2d44de19b3cad941a9feb5a_4": {
+    "label": "6",
+    "inputHash": "c634690494d410f8319421a074977e57dfb5cc8b255e006cca119cfb4ef7eef2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "ee439159ea8086c66c740b7b6c6dc8e096bcb3fe33e24e73a99c87d6ebc65512_0": {
+    "label": "6",
+    "inputHash": "cbe66c01708ee193bbb82acbacacf2a8e6175569c79e35ca088c6bdfd580931f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "ee439159ea8086c66c740b7b6c6dc8e096bcb3fe33e24e73a99c87d6ebc65512_1": {
+    "label": "4",
+    "inputHash": "5832a9c514b5efe78d2a009b8c32541573586d8ace80f8accf50e759c5362a2b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "ee439159ea8086c66c740b7b6c6dc8e096bcb3fe33e24e73a99c87d6ebc65512_2": {
+    "label": "9",
+    "inputHash": "255adcaf19e654da3cfcc7c89d2658eaaa737a85a112c5a0afb2ba42de535dd8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "ee439159ea8086c66c740b7b6c6dc8e096bcb3fe33e24e73a99c87d6ebc65512_3": {
+    "label": "5",
+    "inputHash": "9dc4ac502674abc64fc2ad40725ef77dbcff775663155044ed24d4daf3cda405",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "ee439159ea8086c66c740b7b6c6dc8e096bcb3fe33e24e73a99c87d6ebc65512_4": {
+    "label": "8",
+    "inputHash": "e68799013e113794963ab59727f762df2d1993e972985fe1c552a2ed16143b4f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cc727f682f9bb10e6b9aca742d184fcb47f68ed82357851ca1e514ba0b015944_0": {
+    "label": "2",
+    "inputHash": "97704b708a52f5456fcd290d56b5f7ae7f60883b479e451522368efb89853eb7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cc727f682f9bb10e6b9aca742d184fcb47f68ed82357851ca1e514ba0b015944_1": {
+    "label": "1",
+    "inputHash": "44deb05032761f35e83a412e623527a168075f310dae09be79d157412d0a76be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cc727f682f9bb10e6b9aca742d184fcb47f68ed82357851ca1e514ba0b015944_2": {
+    "label": "5",
+    "inputHash": "8fc7e9ed675a405625476023b6307c35d8171c265643250649c427a0e0e7d126",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cc727f682f9bb10e6b9aca742d184fcb47f68ed82357851ca1e514ba0b015944_3": {
+    "label": "5",
+    "inputHash": "0a529b2024579cb62f22f1a9511dbac3bd9e63b2c7d5f0b411c089efcae3e6d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "cc727f682f9bb10e6b9aca742d184fcb47f68ed82357851ca1e514ba0b015944_4": {
+    "label": "9",
+    "inputHash": "e5fc754b51e65ce4afe32ace450121da0f0291c0063d40ef745fd48c9c4c936b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "7db45fde7f1b439121a5a9c9708f6405694a0e65974d8c4b4d458c29e552fcfe_0": {
+    "label": "7",
+    "inputHash": "2a5adc58fc2d6d7abd5cf3712d30ec97523a67fe152b5d22d3ce404f113471ee",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "7db45fde7f1b439121a5a9c9708f6405694a0e65974d8c4b4d458c29e552fcfe_1": {
+    "label": "5",
+    "inputHash": "4ad80fd80144256623ad2673878d755603b9ecba198747d3250252c581e01052",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "7db45fde7f1b439121a5a9c9708f6405694a0e65974d8c4b4d458c29e552fcfe_2": {
+    "label": "7",
+    "inputHash": "9c1bbd8389ddb14b227d74b11f4ac74272bf56a805be5dcbbbf3597e91b09bcf",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "7db45fde7f1b439121a5a9c9708f6405694a0e65974d8c4b4d458c29e552fcfe_3": {
+    "label": "3",
+    "inputHash": "269f3a026ba20aadffd9fc1238dcb278d67393cb9fe3fdd6ceaf491570106c4d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "7db45fde7f1b439121a5a9c9708f6405694a0e65974d8c4b4d458c29e552fcfe_4": {
+    "label": "9",
+    "inputHash": "2398c29f6e45924e69f99133c1e403fe8533e49a65f39827427c5431db643ee0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "15ed9656f8553df5e3d577c3802a8851db01360f29ce6eaecf88a3fdc368172a_0": {
+    "label": "3",
+    "inputHash": "b75d21f3a067a584fa3f89d9ed49413560a93e61272ccb42fe6dda95af5df290",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "15ed9656f8553df5e3d577c3802a8851db01360f29ce6eaecf88a3fdc368172a_1": {
+    "label": "1",
+    "inputHash": "4d1b682abdee9f93f00da601954d316076a5e1840dc788e6edcf14688dd44066",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "15ed9656f8553df5e3d577c3802a8851db01360f29ce6eaecf88a3fdc368172a_2": {
+    "label": "5",
+    "inputHash": "0db29c15c1f40f10a122507777dd04608627f8f9cfbf1191f7e82d771c2d6b75",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "15ed9656f8553df5e3d577c3802a8851db01360f29ce6eaecf88a3fdc368172a_3": {
+    "label": "6",
+    "inputHash": "5b649772f70fe7658546426cf07c88802845ca6815abee24a21e279296009d36",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "15ed9656f8553df5e3d577c3802a8851db01360f29ce6eaecf88a3fdc368172a_4": {
+    "label": "1",
+    "inputHash": "63cfe7e00b97d4e9e61951e1774977d37f28011f1911b8759153d3a604c09bee",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "593cfd91740c1dfb09b5908f12b4ba66c2c4e0eb97f8967c6a0c7ce0c1ca21c0_0": {
+    "label": "5",
+    "inputHash": "87d0021df00df0b51ff0718ba6e72b72161c6ba763d23dc4e740f3aa85cf25c4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "593cfd91740c1dfb09b5908f12b4ba66c2c4e0eb97f8967c6a0c7ce0c1ca21c0_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "593cfd91740c1dfb09b5908f12b4ba66c2c4e0eb97f8967c6a0c7ce0c1ca21c0_2": {
+    "label": "7",
+    "inputHash": "32e178730ed11a3e8849fafe9bd8277eac692d41b08b4840cb5a71bf232f087d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "593cfd91740c1dfb09b5908f12b4ba66c2c4e0eb97f8967c6a0c7ce0c1ca21c0_3": {
+    "label": "2",
+    "inputHash": "a7037eb931c823d08610df64ed953dbeb5a436d0ee9163a6c75d3c2dd9e55f27",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "593cfd91740c1dfb09b5908f12b4ba66c2c4e0eb97f8967c6a0c7ce0c1ca21c0_4": {
+    "label": "9",
+    "inputHash": "4591a0a3f98d8337f4c97206d53435bdb150f42dd5cc49d3d7992bb025bb9b0c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b22b20c4249d933c009df35bd77ed0e3fcc1efda6fea32f3d9ef30c7249d0404_0": {
+    "label": "1",
+    "inputHash": "08791b37dd435ecf73fc44841cf0c36aff8d3fdba4af55b8656ce273084bc413",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b22b20c4249d933c009df35bd77ed0e3fcc1efda6fea32f3d9ef30c7249d0404_1": {
+    "label": "3",
+    "inputHash": "cff88f957d5a549819288806f2ac426387d502d36e8703288b14486684a09254",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b22b20c4249d933c009df35bd77ed0e3fcc1efda6fea32f3d9ef30c7249d0404_2": {
+    "label": "3",
+    "inputHash": "3f216603ec9a7aebaa51b0dd4e9f316156232cf7281fefa848de215747679ef7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b22b20c4249d933c009df35bd77ed0e3fcc1efda6fea32f3d9ef30c7249d0404_3": {
+    "label": "4",
+    "inputHash": "ec4e01e4617428cbb1613ba6e9a946c7bee6d7fa64d23f54d70c2853470eb3f3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "b22b20c4249d933c009df35bd77ed0e3fcc1efda6fea32f3d9ef30c7249d0404_4": {
+    "label": "8",
+    "inputHash": "84b0f615f57ad8c5e41580c405d15679e5ea39fa3a60e6874769aa7bdd27e7a2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z"
+  },
+  "06b300eec5ab968025a139177852ee375b5165e4646352be0aa3948cf9a44451_0": {
+    "label": "7",
+    "inputHash": "c85b2a58fa4dbbfe0f15e39e9a60c7ff8a3e7bcfaff628fe72f55910929e9b52",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "06b300eec5ab968025a139177852ee375b5165e4646352be0aa3948cf9a44451_1": {
+    "label": "2",
+    "inputHash": "50a886629467978a6997c35b88179f86e9bd45d4e27c530f87b79e2271370ada",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "06b300eec5ab968025a139177852ee375b5165e4646352be0aa3948cf9a44451_2": {
+    "label": "7",
+    "inputHash": "e84edda9c2c14f4ceb5a407e5f150ac633b86e92c3b4a40f38167b409d21e539",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "06b300eec5ab968025a139177852ee375b5165e4646352be0aa3948cf9a44451_3": {
+    "label": "5",
+    "inputHash": "3902fcaa90e312e78bae2f7849cc799b05a6165968133c698f684cd3b05c820b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "06b300eec5ab968025a139177852ee375b5165e4646352be0aa3948cf9a44451_4": {
+    "label": "9",
+    "inputHash": "f26f281a9d2c78d31fb18668886de1028a9cd253b20f08abd9a0460838886bde",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f474d2fd4788d0efe89ee6e0fac8596200ca85bc22075b14ccd58a7173710257_0": {
+    "label": "3",
+    "inputHash": "2c1cb04a272b5caea55b36b46e5b37248489b1eaf12c4adc82c75fe2b3d46b37",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f474d2fd4788d0efe89ee6e0fac8596200ca85bc22075b14ccd58a7173710257_1": {
+    "label": "1",
+    "inputHash": "c3dd22ffb6d6f578a2e6c57559570f05d892c73671171e03719954f8ecece6fc",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f474d2fd4788d0efe89ee6e0fac8596200ca85bc22075b14ccd58a7173710257_2": {
+    "label": "4",
+    "inputHash": "db7d9b03ae01feeec17a7e870544c9221a093b3c25ef6501edf3051375114109",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f474d2fd4788d0efe89ee6e0fac8596200ca85bc22075b14ccd58a7173710257_3": {
+    "label": "8",
+    "inputHash": "019784cfddc50ee589dc31f4c2585417b4f3ef14f079c45a85e529cc3724919e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f474d2fd4788d0efe89ee6e0fac8596200ca85bc22075b14ccd58a7173710257_4": {
+    "label": "6",
+    "inputHash": "9a2e83a6a29c9e9ff4c7d8fae419a24979093290115f56dbc7bc933490093f42",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f48633f97b60fdf76a218dd7428cddc054269ccdf7467081b158591f77d88537_0": {
+    "label": "1",
+    "inputHash": "08791b37dd435ecf73fc44841cf0c36aff8d3fdba4af55b8656ce273084bc413",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f48633f97b60fdf76a218dd7428cddc054269ccdf7467081b158591f77d88537_1": {
+    "label": "2",
+    "inputHash": "948717adccb95d5781005a3165ef575bf8c60594f4eaff20b6e3fe8211b39326",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f48633f97b60fdf76a218dd7428cddc054269ccdf7467081b158591f77d88537_2": {
+    "label": "3",
+    "inputHash": "42f9e5d8db191a14131fcf198767e5a1fc9383cc486779ba0753e6ff919611a4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f48633f97b60fdf76a218dd7428cddc054269ccdf7467081b158591f77d88537_3": {
+    "label": "5",
+    "inputHash": "5adf736b4ef2be8290dc7bc39f7b679b3cda5bc50db82172c38c68d81c9f8c02",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "f48633f97b60fdf76a218dd7428cddc054269ccdf7467081b158591f77d88537_4": {
+    "label": "8",
+    "inputHash": "6f6fb82bcd126b1be95ef28df4003e1331d87669b141c5986f90a092858c5587",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z"
+  },
+  "d49de698b06308ae58ea6abd5bb5664428f782c1ddc2fbc148c052fdf6b579f4_0": {
+    "label": "5",
+    "inputHash": "a04929e66915ba5e92e9ed61a8c0de9d8d84a46e29743de1a9aaf5e7e34bb504",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d49de698b06308ae58ea6abd5bb5664428f782c1ddc2fbc148c052fdf6b579f4_1": {
+    "label": "7",
+    "inputHash": "d60c009ee3d0b18d6b71f7e87391ad1e06e0008354ebd5d6ed8c867391437776",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d49de698b06308ae58ea6abd5bb5664428f782c1ddc2fbc148c052fdf6b579f4_2": {
+    "label": "7",
+    "inputHash": "a7f9ce3b6f8c02d7f2c6961648711b52990987e2f95e92a331e68f53e64643e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d49de698b06308ae58ea6abd5bb5664428f782c1ddc2fbc148c052fdf6b579f4_3": {
+    "label": "4",
+    "inputHash": "dd5915092a7b101156a51c0be348d5ab223fde38dc8cf4bbb88ff26eafcb9e28",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d49de698b06308ae58ea6abd5bb5664428f782c1ddc2fbc148c052fdf6b579f4_4": {
+    "label": "9",
+    "inputHash": "aeb702797138afdd031633c34cc2477f058526d69ca941e28cb7d36a5eb70ffd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "53709a6d57c5163b0d5259c7a63caf4d2e0fa0d9f009c9c9ea46d8fe045fa67a_0": {
+    "label": "8",
+    "inputHash": "e5d060589bf5c2c5f5775b4b3aa116e0da23d2a0b735c9a4d5b3e59312e4e6e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "53709a6d57c5163b0d5259c7a63caf4d2e0fa0d9f009c9c9ea46d8fe045fa67a_1": {
+    "label": "1",
+    "inputHash": "c3dd22ffb6d6f578a2e6c57559570f05d892c73671171e03719954f8ecece6fc",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "53709a6d57c5163b0d5259c7a63caf4d2e0fa0d9f009c9c9ea46d8fe045fa67a_2": {
+    "label": "7",
+    "inputHash": "a7f9ce3b6f8c02d7f2c6961648711b52990987e2f95e92a331e68f53e64643e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "53709a6d57c5163b0d5259c7a63caf4d2e0fa0d9f009c9c9ea46d8fe045fa67a_3": {
+    "label": "6",
+    "inputHash": "19b92e3292c444d9b6805e4b144a89666c76595f316cfabd757563e2e2f8912e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "53709a6d57c5163b0d5259c7a63caf4d2e0fa0d9f009c9c9ea46d8fe045fa67a_4": {
+    "label": "9",
+    "inputHash": "18b6026f41188894b58e11a5e4903ad1d84f6b6a4ef14417bc5af2e97e3b3376",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3bf6c144e0ed3888dafd614fe80212640d9c0a0fec29093ff781b87d51a93495_0": {
+    "label": "4",
+    "inputHash": "e1b0459e495e844e9f924c4774b19878e63624ed82d67c23dea869fda20d7dcd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3bf6c144e0ed3888dafd614fe80212640d9c0a0fec29093ff781b87d51a93495_1": {
+    "label": "1",
+    "inputHash": "44deb05032761f35e83a412e623527a168075f310dae09be79d157412d0a76be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3bf6c144e0ed3888dafd614fe80212640d9c0a0fec29093ff781b87d51a93495_2": {
+    "label": "5",
+    "inputHash": "99ec9e9acb663384d91849f9ca7bcba722035165e5cc52af22caaedc98ef3a31",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3bf6c144e0ed3888dafd614fe80212640d9c0a0fec29093ff781b87d51a93495_3": {
+    "label": "9",
+    "inputHash": "cdd9c80e2020398d6949b02302d8d883eefa9169acb676c24604ae74834fa288",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3bf6c144e0ed3888dafd614fe80212640d9c0a0fec29093ff781b87d51a93495_4": {
+    "label": "6",
+    "inputHash": "c0ea03e9da57b013243497851431c0bde2c1e7b9edc0002f96b5860552c6bbee",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0a7fffa457cd6c4ded12393dc705531d748d43f0a72726b70860fa0f7ac77d19_0": {
+    "label": "7",
+    "inputHash": "c3497680740a3be12e151d59828e930d5cefe0fb5780ec99d2b27d2dd350a8af",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0a7fffa457cd6c4ded12393dc705531d748d43f0a72726b70860fa0f7ac77d19_1": {
+    "label": "7",
+    "inputHash": "c80d3b34d224e0a94d1b17c7722aef3d95088e8895a49730d7096a40d3b22de7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0a7fffa457cd6c4ded12393dc705531d748d43f0a72726b70860fa0f7ac77d19_2": {
+    "label": "4",
+    "inputHash": "3c87d3e4cd6216912a779566a880c0ad400eaa5fe6b59f378ceeae7a537799b7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0a7fffa457cd6c4ded12393dc705531d748d43f0a72726b70860fa0f7ac77d19_3": {
+    "label": "5",
+    "inputHash": "262fb65cfc7f1d9f1ca9293a80416294d647325549deb164b8bc8dd662c61d62",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0a7fffa457cd6c4ded12393dc705531d748d43f0a72726b70860fa0f7ac77d19_4": {
+    "label": "9",
+    "inputHash": "f26f281a9d2c78d31fb18668886de1028a9cd253b20f08abd9a0460838886bde",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "c02dfed099bf63341f5eb571727016f97f1e4a27612e578be0c79700405478b1_0": {
+    "label": "4",
+    "inputHash": "9abb9239a3b10210ae472f6cb3e343eba99b0ddcfb0924a8232b1219d4a81ac8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "c02dfed099bf63341f5eb571727016f97f1e4a27612e578be0c79700405478b1_1": {
+    "label": "1",
+    "inputHash": "44deb05032761f35e83a412e623527a168075f310dae09be79d157412d0a76be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "c02dfed099bf63341f5eb571727016f97f1e4a27612e578be0c79700405478b1_2": {
+    "label": "5",
+    "inputHash": "16f3d77ef9b21e00ec95848d1a2d87a04cf317cb0885da1196ab4479cd6e47e2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "c02dfed099bf63341f5eb571727016f97f1e4a27612e578be0c79700405478b1_3": {
+    "label": "7",
+    "inputHash": "44584adfd63db6487b08cc2ba0234f0fc2fc5edaa83e7f57df7096015f349221",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "c02dfed099bf63341f5eb571727016f97f1e4a27612e578be0c79700405478b1_4": {
+    "label": "7",
+    "inputHash": "7676b702487a431f7c0de9c8450ced3cbff27ddeaf8836552f6b049b1ad81d23",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "245f67ef7cf7333b7c0f79519bb7629740c568cdc1574bb1b05075d5525f2cab_0": {
+    "label": "4",
+    "inputHash": "9eb034a39c40ce8a25c306760a27b475263caa45f94d522cbab2bfc6c611c5bf",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "245f67ef7cf7333b7c0f79519bb7629740c568cdc1574bb1b05075d5525f2cab_1": {
+    "label": "5",
+    "inputHash": "4a18c6ecd6e25926ceec654f73cdf77bd09c20a9b59849b68438ae50f1c5c99a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "245f67ef7cf7333b7c0f79519bb7629740c568cdc1574bb1b05075d5525f2cab_2": {
+    "label": "3",
+    "inputHash": "36069eefb7c1970d9aff3e5a7bffc873c28dd997a491fe86158bc3bcdfb7edd6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "245f67ef7cf7333b7c0f79519bb7629740c568cdc1574bb1b05075d5525f2cab_3": {
+    "label": "5",
+    "inputHash": "9dc4ac502674abc64fc2ad40725ef77dbcff775663155044ed24d4daf3cda405",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "245f67ef7cf7333b7c0f79519bb7629740c568cdc1574bb1b05075d5525f2cab_4": {
+    "label": "4",
+    "inputHash": "287ad06169bd305e5177bd44ba0d07ca39234c5153fe695cb0ea757667a6c625",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "43c9c17ea7689b9d7f3b05ad625b549b1c3c02e38b367990b8eba5dba5fa24fd_0": {
+    "label": "5",
+    "inputHash": "d73ebf352c853de3000bac035c0e07a8026c0bedbb44a2b451c88fdc190bfb36",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "43c9c17ea7689b9d7f3b05ad625b549b1c3c02e38b367990b8eba5dba5fa24fd_1": {
+    "label": "7",
+    "inputHash": "649f1cf254167d62488585a72efaf029c70efcfa593d230330b783e80ca89dc1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "43c9c17ea7689b9d7f3b05ad625b549b1c3c02e38b367990b8eba5dba5fa24fd_2": {
+    "label": "7",
+    "inputHash": "5da4e54a6f53ea796a8fb8b14a5188d9fbacff47cb77ca57146d834ced74c828",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "43c9c17ea7689b9d7f3b05ad625b549b1c3c02e38b367990b8eba5dba5fa24fd_3": {
+    "label": "2",
+    "inputHash": "c3da16b9e086ae71754177f8d7fa788b1d71360d900a85ca94c21f49b3430fc1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "43c9c17ea7689b9d7f3b05ad625b549b1c3c02e38b367990b8eba5dba5fa24fd_4": {
+    "label": "5",
+    "inputHash": "7abc1f5e842e253259333c71c89670ee8a9e1a743f7e349a9aa2ea2b7bcdafd1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "210e047dde61662f4d5b7763cc26bb7c41d4e1f5b63a37f40ddf100fb98f5983_0": {
+    "label": "5",
+    "inputHash": "33334b1ea5086e2066a9bbda29554251e8414770f9e235367033900d802f736c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "210e047dde61662f4d5b7763cc26bb7c41d4e1f5b63a37f40ddf100fb98f5983_1": {
+    "label": "9",
+    "inputHash": "73b13b9100e72165297c5c150e607d013c483be39313b5b2666586bda145f5df",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "210e047dde61662f4d5b7763cc26bb7c41d4e1f5b63a37f40ddf100fb98f5983_2": {
+    "label": "5",
+    "inputHash": "280d631b2840f77369069635ae91ea5574b2554cfe672a7bbb3876610f42dca0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "210e047dde61662f4d5b7763cc26bb7c41d4e1f5b63a37f40ddf100fb98f5983_3": {
+    "label": "9",
+    "inputHash": "bdb2c225ab6ea98010dd17593fd8c60bb53b546380540b2b4ac7e699eb6543ba",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "210e047dde61662f4d5b7763cc26bb7c41d4e1f5b63a37f40ddf100fb98f5983_4": {
+    "label": "7",
+    "inputHash": "5028ef3d04f7f2fcb5de0854bcdce0bb55b2c55de8946779f985e4896dde2ea7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "73423541d96393078667b4bf4b58a821df185fec37d8d30f04ab6f45bcc14a68_0": {
+    "label": "4",
+    "inputHash": "9abb9239a3b10210ae472f6cb3e343eba99b0ddcfb0924a8232b1219d4a81ac8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "73423541d96393078667b4bf4b58a821df185fec37d8d30f04ab6f45bcc14a68_1": {
+    "label": "2",
+    "inputHash": "d25b4d49aae8c9865a3b7843f7d5574ec5c7c9a2e9ef8a2f778aecb27489d720",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "73423541d96393078667b4bf4b58a821df185fec37d8d30f04ab6f45bcc14a68_2": {
+    "label": "8",
+    "inputHash": "b5cc0be39cf4dc9f514ff705338482ed6381830d4e6fc8c47cd76cbb4a28d845",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "73423541d96393078667b4bf4b58a821df185fec37d8d30f04ab6f45bcc14a68_3": {
+    "label": "5",
+    "inputHash": "7aa1b6c7ccd1238c3f111e5b61f1f51ba29f59b787ab165c5c88b17958758b08",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "73423541d96393078667b4bf4b58a821df185fec37d8d30f04ab6f45bcc14a68_4": {
+    "label": "4",
+    "inputHash": "6049893283cac30c1f4846a2c3effe7c1bc0f95a0978c7cf7876aced24574d25",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "36d5dbf473a399c928a116cab8698aa018b77696d117a4b005b9048c2b47f353_0": {
+    "label": "4",
+    "inputHash": "f6527acecf513c33b970860d1595a3f98fc1f0f383221c98e572f0659784317e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "36d5dbf473a399c928a116cab8698aa018b77696d117a4b005b9048c2b47f353_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "36d5dbf473a399c928a116cab8698aa018b77696d117a4b005b9048c2b47f353_2": {
+    "label": "2",
+    "inputHash": "2e91c0258f0786373f6c4222349c012169f58bacad691c233e56fee30800371c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "36d5dbf473a399c928a116cab8698aa018b77696d117a4b005b9048c2b47f353_3": {
+    "label": "9",
+    "inputHash": "d6c12d16c4b5fd4f1a4c569f65f955fd3408a24c7175f2df450762a094e4d0d4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "36d5dbf473a399c928a116cab8698aa018b77696d117a4b005b9048c2b47f353_4": {
+    "label": "3",
+    "inputHash": "fa40c7f9a61081c799eb0dadc4a6c7b4347b8212d59940472d9534d8979f8703",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "61b526980f6104a1d6d14444652cd5ff9ebae02690ff7b9cc57a2316d7eeae28_0": {
+    "label": "4",
+    "inputHash": "6b2db3c7605f7fc30f843ce7733999bb4abd1d832d07c9c574910fc392a11948",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "61b526980f6104a1d6d14444652cd5ff9ebae02690ff7b9cc57a2316d7eeae28_1": {
+    "label": "7",
+    "inputHash": "0bddde0dfe6e8cb017c7b818f2044b414ffe2064c3c28dac15998bebe6a92280",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "61b526980f6104a1d6d14444652cd5ff9ebae02690ff7b9cc57a2316d7eeae28_2": {
+    "label": "7",
+    "inputHash": "5da4e54a6f53ea796a8fb8b14a5188d9fbacff47cb77ca57146d834ced74c828",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "61b526980f6104a1d6d14444652cd5ff9ebae02690ff7b9cc57a2316d7eeae28_3": {
+    "label": "8",
+    "inputHash": "aad7762d3d9f60bb784e6edddff5c95b298595a2e764404064f7e9f78e535698",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "61b526980f6104a1d6d14444652cd5ff9ebae02690ff7b9cc57a2316d7eeae28_4": {
+    "label": "2",
+    "inputHash": "0d385f40fb2d9660ecb0fcf5a2b0592b9553350450355f778dde6b2dfee40ec5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d0ad061f6ae93cc374461373415fc1c5b8d53771480e87394c4962b55c531f76_0": {
+    "label": "5",
+    "inputHash": "2b7ac81d01566ee8af718933ae578045112dff8ae91cc91dece66ae37dbf1c14",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d0ad061f6ae93cc374461373415fc1c5b8d53771480e87394c4962b55c531f76_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d0ad061f6ae93cc374461373415fc1c5b8d53771480e87394c4962b55c531f76_2": {
+    "label": "2",
+    "inputHash": "35187b353d2393d53e36fb1a8b9412bf606d487532d056a43a7afb0cb88d4b75",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d0ad061f6ae93cc374461373415fc1c5b8d53771480e87394c4962b55c531f76_3": {
+    "label": "7",
+    "inputHash": "1bf12ac107153d7b1f25b9588ec1ff4b2e0f49bf0398f8314e7fc42206b4dee4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d0ad061f6ae93cc374461373415fc1c5b8d53771480e87394c4962b55c531f76_4": {
+    "label": "4",
+    "inputHash": "569c0bc19d1e774b3d18c76736a96fcd0f3b534d031f2f2b4cef80bf48510415",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "2c5112fcaf7234b2e367995c8caf0f805311b40c197905ac262352cff9691d94_0": {
+    "label": "5",
+    "inputHash": "07b1129fb34b285d091608a65f8cbee32a304f4c0b17abd69362e741fc6aa5fb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "2c5112fcaf7234b2e367995c8caf0f805311b40c197905ac262352cff9691d94_1": {
+    "label": "8",
+    "inputHash": "80e0ad805ad67035992ef416062755e0892b9cc48226f63b79b9f78cd9fa580f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "2c5112fcaf7234b2e367995c8caf0f805311b40c197905ac262352cff9691d94_2": {
+    "label": "7",
+    "inputHash": "e1d175efab0f1151bc3053aae0f1e97b51c1fe2c737711149323eb53d710194b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "2c5112fcaf7234b2e367995c8caf0f805311b40c197905ac262352cff9691d94_3": {
+    "label": "5",
+    "inputHash": "753ee3a4564a18db95269ba2f4a93a712b0ab5bdc26acd63c56eabf02fef3538",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "2c5112fcaf7234b2e367995c8caf0f805311b40c197905ac262352cff9691d94_4": {
+    "label": "2",
+    "inputHash": "023addbce94bb75c988ea150f23ce0171ecd0eb10c6ae1a987a2ec471394afcf",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "8990ce122dc926b9aa798b4a9614197e13246ae4d6b46a5580cd62759f4a70da_0": {
+    "label": "7",
+    "inputHash": "d483b79c30e813347a1280e5f003d7470dfcd618c818ae20fb1acdc36add635d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "8990ce122dc926b9aa798b4a9614197e13246ae4d6b46a5580cd62759f4a70da_1": {
+    "label": "9",
+    "inputHash": "ea42c212b047fe147a4bdbd1a685efb902784d4e92b3535899020b0ffd377ca0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "8990ce122dc926b9aa798b4a9614197e13246ae4d6b46a5580cd62759f4a70da_2": {
+    "label": "7",
+    "inputHash": "f80ad5d63ad6ad569664caab0ec091f85f3678d82535506e5fcccc5fd3921678",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "8990ce122dc926b9aa798b4a9614197e13246ae4d6b46a5580cd62759f4a70da_3": {
+    "label": "6",
+    "inputHash": "5027f64d8ca674e8640bed37205f91fc1e0b937839b0c77c7d341048b06c4996",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "8990ce122dc926b9aa798b4a9614197e13246ae4d6b46a5580cd62759f4a70da_4": {
+    "label": "2",
+    "inputHash": "9f06ca6b3b24a2ab65aa1832d781c7a62be04ce46192ea80d791165c84a9edd4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3e4ab0d7964abd50de96b9b8dd613d07a0531dba218fb31d9e2c6e78dc587021_0": {
+    "label": "1",
+    "inputHash": "e9f17203468a83222923251b04640205be2bd58431086a54adaf687434967634",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3e4ab0d7964abd50de96b9b8dd613d07a0531dba218fb31d9e2c6e78dc587021_1": {
+    "label": "5",
+    "inputHash": "74b4e058e1ebd81a26e7aeeb7a44b5eb1e5340eba9ea8c868cc95dbe59f516b1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3e4ab0d7964abd50de96b9b8dd613d07a0531dba218fb31d9e2c6e78dc587021_2": {
+    "label": "2",
+    "inputHash": "1f34180a83c0076b8d4f6195f18ab3d13c5ee6298097b39ec2da313d6d462050",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3e4ab0d7964abd50de96b9b8dd613d07a0531dba218fb31d9e2c6e78dc587021_3": {
+    "label": "5",
+    "inputHash": "0a529b2024579cb62f22f1a9511dbac3bd9e63b2c7d5f0b411c089efcae3e6d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "3e4ab0d7964abd50de96b9b8dd613d07a0531dba218fb31d9e2c6e78dc587021_4": {
+    "label": "3",
+    "inputHash": "0082bdc129dab52ed0f0a1f9496a6066113db6e7c91cd3b7526e44622814bdbb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "e815b4c82880616d496b02d13838bf577dd1762d1b9519674ca52ce64dbef592_0": {
+    "label": "5",
+    "inputHash": "0699c925e84c61b41842b11dec3d44543f6aee103fbf9544288dbd4a46e1a544",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "e815b4c82880616d496b02d13838bf577dd1762d1b9519674ca52ce64dbef592_1": {
+    "label": "9",
+    "inputHash": "16af9addb6ff9b89b87060f9e4197aa65e4b1ba6206905dae054c48fc43e1931",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "e815b4c82880616d496b02d13838bf577dd1762d1b9519674ca52ce64dbef592_2": {
+    "label": "8",
+    "inputHash": "149280a661718a5f96908c2396c6f8642c5122e74b268ab20aef889185cd6b30",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "e815b4c82880616d496b02d13838bf577dd1762d1b9519674ca52ce64dbef592_3": {
+    "label": "7",
+    "inputHash": "063fd4fa69de99c0eaee05bb057d81d36c9bd0256848df84e041b24584790d37",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "e815b4c82880616d496b02d13838bf577dd1762d1b9519674ca52ce64dbef592_4": {
+    "label": "4",
+    "inputHash": "3a86f39ebeb70e7e33fbbd5ebdbedf70c06e14df7c06417d23667b14e57056d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "14db4b6b31cf76bc6f77aa5656af2228366ef716aee3bb7a8e36a20de720039e_0": {
+    "label": "3",
+    "inputHash": "72cd10e76a927a9aa53478619c384c4fbed39d0fb6c4f5c8a7debdda52f69638",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "14db4b6b31cf76bc6f77aa5656af2228366ef716aee3bb7a8e36a20de720039e_1": {
+    "label": "1",
+    "inputHash": "3846015e627cae659b445b8d7fca489e2e6b2faed4a66bad5fdbd9d5bba7cb88",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "14db4b6b31cf76bc6f77aa5656af2228366ef716aee3bb7a8e36a20de720039e_2": {
+    "label": "5",
+    "inputHash": "1764b970e43ef7d6103397bf28bccaac453ff599ed643f3776e702ecbd02250f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "14db4b6b31cf76bc6f77aa5656af2228366ef716aee3bb7a8e36a20de720039e_3": {
+    "label": "3",
+    "inputHash": "44f714be7d03dfbd174a185fc809189fc78b713d7e93485d8801ce65d6ead2a6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "14db4b6b31cf76bc6f77aa5656af2228366ef716aee3bb7a8e36a20de720039e_4": {
+    "label": "9",
+    "inputHash": "e5fc754b51e65ce4afe32ace450121da0f0291c0063d40ef745fd48c9c4c936b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "bfa4bd24d5366367a0157af635cb19e685f67764182efd439ffed18aef0a4e17_0": {
+    "label": "6",
+    "inputHash": "b467020b598977f58e28bc5d745d5ddcf69ce4a4c2aedc1f66456757eabf6307",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "bfa4bd24d5366367a0157af635cb19e685f67764182efd439ffed18aef0a4e17_1": {
+    "label": "4",
+    "inputHash": "fcfcd350cfea8ea156c5bf6fd612d1ed08a1498288bf0a81f21e6ffc322e42bd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "bfa4bd24d5366367a0157af635cb19e685f67764182efd439ffed18aef0a4e17_2": {
+    "label": "6",
+    "inputHash": "f707e57812b498f06cad6de328189e43b474d3e05bd0efee6e356e0f61d8cb22",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "bfa4bd24d5366367a0157af635cb19e685f67764182efd439ffed18aef0a4e17_3": {
+    "label": "5",
+    "inputHash": "ac148ea83419cf290dc12bef2da15885fb1ac8683740f008f38fbf877f8c0a25",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "bfa4bd24d5366367a0157af635cb19e685f67764182efd439ffed18aef0a4e17_4": {
+    "label": "1",
+    "inputHash": "26cbe079ae71d8549143e16fc51674467a324f1708c9ef70905b1415755a841f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0924ca0dcdfd66ad36926d3d42e4439ae8d64ed937a03e8117ee697de1768a08_0": {
+    "label": "2",
+    "inputHash": "eb2b992348e237ec075a4c35ed6b2f7b31fd8e4551a4f3a3ee272bbd8c6dc88a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0924ca0dcdfd66ad36926d3d42e4439ae8d64ed937a03e8117ee697de1768a08_1": {
+    "label": "4",
+    "inputHash": "496f70ed961b65f6860e483f2e459f21ed973f830d212be142c3305e2c054cdb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0924ca0dcdfd66ad36926d3d42e4439ae8d64ed937a03e8117ee697de1768a08_2": {
+    "label": "7",
+    "inputHash": "47a3c75ba02f862036d19137e0f4c89ae1a6a90441894d60761f7edf309403d4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0924ca0dcdfd66ad36926d3d42e4439ae8d64ed937a03e8117ee697de1768a08_3": {
+    "label": "5",
+    "inputHash": "651b3ab7feefb6dd5df60813631ad5849d0d8ae302e8713ceea0bfbfb5fcc556",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "0924ca0dcdfd66ad36926d3d42e4439ae8d64ed937a03e8117ee697de1768a08_4": {
+    "label": "3",
+    "inputHash": "13c1d2effba3e798183638f404d926c8b92090cea71b14b57a4e82bb537c767f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "fba36b5fe3c2518571c9bd4c0e22bedfd1379ef94616afbbf05cc452a36e6f31_0": {
+    "label": "2",
+    "inputHash": "46e7b1ddf730fcbf737a2e06798e267bfeb11e8591f16551fe8a080872d46f8f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "fba36b5fe3c2518571c9bd4c0e22bedfd1379ef94616afbbf05cc452a36e6f31_1": {
+    "label": "1",
+    "inputHash": "0f28e760af44594f27209eb9a186f767db8069a2059cd3c4394b52d2e796655f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "fba36b5fe3c2518571c9bd4c0e22bedfd1379ef94616afbbf05cc452a36e6f31_2": {
+    "label": "6",
+    "inputHash": "814048b642b531f9854b9e6ab2f481d64019176d6dcd9bf0a7a48f61a8392915",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "fba36b5fe3c2518571c9bd4c0e22bedfd1379ef94616afbbf05cc452a36e6f31_3": {
+    "label": "4",
+    "inputHash": "94f5b990cb36c5342a2b481eb0e873db62813a318e3e01b73764dafd964198cb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "fba36b5fe3c2518571c9bd4c0e22bedfd1379ef94616afbbf05cc452a36e6f31_4": {
+    "label": "1",
+    "inputHash": "d9b9217b8d2a69ca9eeb079d5051a0cab6257ae229ae010806e5aa75a7a299e5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z"
+  },
+  "d9d8380cecd7a23f15683db28e57c4ac0e0bd22a4bb5daa20f24a84cd0efbeed_0": {
+    "label": "9",
+    "inputHash": "43a9932bff5017d944bc2b1191c5c49ccdc9f0ade7f980cbba146a719bda6044",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.843Z"
+  },
+  "d9d8380cecd7a23f15683db28e57c4ac0e0bd22a4bb5daa20f24a84cd0efbeed_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.843Z"
+  },
+  "d9d8380cecd7a23f15683db28e57c4ac0e0bd22a4bb5daa20f24a84cd0efbeed_2": {
+    "label": "2",
+    "inputHash": "7a65ea39f28b8331f4fc6797c6f65bfe8d8bd91d48c14e25090739b174fe45e6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.843Z"
+  },
+  "d9d8380cecd7a23f15683db28e57c4ac0e0bd22a4bb5daa20f24a84cd0efbeed_3": {
+    "label": "5",
+    "inputHash": "9a8e07cd09bde174ca0965356820f22e7c5dcc47070e0b1716c348f5a2570cf3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.843Z"
+  },
+  "d9d8380cecd7a23f15683db28e57c4ac0e0bd22a4bb5daa20f24a84cd0efbeed_4": {
+    "label": "3",
+    "inputHash": "9a7c282dbb0c18889add13306cd5897b56404807d1dbc2abe3c3fa34f46915c4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.843Z"
+  },
+  "f877f1af8ad7f81f963eea218fa3e150c9b8020462a61d8d4b62da9ad52c5bcf_0": {
+    "label": "5",
+    "inputHash": "0699c925e84c61b41842b11dec3d44543f6aee103fbf9544288dbd4a46e1a544",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "f877f1af8ad7f81f963eea218fa3e150c9b8020462a61d8d4b62da9ad52c5bcf_1": {
+    "label": "9",
+    "inputHash": "4c623d6ddd69340fc08098c99190edcf1f39e2b33140a22c2e5abbed57dc7f0a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "f877f1af8ad7f81f963eea218fa3e150c9b8020462a61d8d4b62da9ad52c5bcf_2": {
+    "label": "8",
+    "inputHash": "8ff0a88dce3b7b837f8ae309f22d567717082c3c5570861f82a34c4dc9297161",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "f877f1af8ad7f81f963eea218fa3e150c9b8020462a61d8d4b62da9ad52c5bcf_3": {
+    "label": "9",
+    "inputHash": "b699b5c2ee6a484655def711e846679e7f71be065e08ab5ce6cb374a71b04d3b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "f877f1af8ad7f81f963eea218fa3e150c9b8020462a61d8d4b62da9ad52c5bcf_4": {
+    "label": "9",
+    "inputHash": "133882962e602c62e8a5075c6c3f48d66b68c1e322fa5252baa6bc01a2f4e110",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a538820a305356e2533d79e2cefe23a3f7486d64c30dc1a555d9e6a182521682_0": {
+    "label": "7",
+    "inputHash": "d98b88c55af9efac450904ba11eb2a7d1985a21de80bb2cdcf6f95d18cb3669c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a538820a305356e2533d79e2cefe23a3f7486d64c30dc1a555d9e6a182521682_1": {
+    "label": "6",
+    "inputHash": "49e2eb86a387692f0a65ca4f3eaa5eb679f604f67f22f4273b8126ddb3f3accc",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a538820a305356e2533d79e2cefe23a3f7486d64c30dc1a555d9e6a182521682_2": {
+    "label": "7",
+    "inputHash": "783cc1f585aab7a4fc1aaae54b499a872fa53e20c6ac58d4d061de48c698f3eb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a538820a305356e2533d79e2cefe23a3f7486d64c30dc1a555d9e6a182521682_3": {
+    "label": "4",
+    "inputHash": "0eabdb07ea8417db90698c6ca4c7f79eb28bd8c0b672d2490c7a5de047ed4770",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a538820a305356e2533d79e2cefe23a3f7486d64c30dc1a555d9e6a182521682_4": {
+    "label": "2",
+    "inputHash": "aeef5364ed669eb4ac1d94dbef54de88cabcf059b6294ad109046e1ad4e9c46e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1c9d1811b72b87cc23302afbeeb0c7d4c316a481b8d97117768d1c4c0f1d3f7_0": {
+    "label": "9",
+    "inputHash": "09fc0e26b7ef2bacc727a2289889587ba5adfad44dc9fffdc47bfe3893918aca",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1c9d1811b72b87cc23302afbeeb0c7d4c316a481b8d97117768d1c4c0f1d3f7_1": {
+    "label": "7",
+    "inputHash": "c75208797b70fddbd2f59bcadeb967e24ecbc360e9c19fc4c77008e8edea8af0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1c9d1811b72b87cc23302afbeeb0c7d4c316a481b8d97117768d1c4c0f1d3f7_2": {
+    "label": "7",
+    "inputHash": "854ec7c2d18c6c0fc9f3b169a16634fcc594f6efb526f11d54ace833d86de698",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1c9d1811b72b87cc23302afbeeb0c7d4c316a481b8d97117768d1c4c0f1d3f7_3": {
+    "label": "5",
+    "inputHash": "82ac50382a0ebeed51446189ad75d0a8eb6643d26606a6c7f093778c8a2510dd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1c9d1811b72b87cc23302afbeeb0c7d4c316a481b8d97117768d1c4c0f1d3f7_4": {
+    "label": "3",
+    "inputHash": "4f41370965f0ee98da740c68bea84e6f61ddd4f947e595c4bd2990318ff64333",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "2089f0dfdb32cf63674b638cb5d87cb9b21814a248d8ae8cf7a5f53f9a866a06_0": {
+    "label": "1",
+    "inputHash": "73fa4ed9c0d8ac97c9df77c0c8e31ff6ec73a4d802f8a71d5d9cd5ba1062663a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "2089f0dfdb32cf63674b638cb5d87cb9b21814a248d8ae8cf7a5f53f9a866a06_1": {
+    "label": "9",
+    "inputHash": "0ada61c2130d0e64c1344661946deb92bfe8c9383ab6f4ab895e6b90e66d917c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "2089f0dfdb32cf63674b638cb5d87cb9b21814a248d8ae8cf7a5f53f9a866a06_2": {
+    "label": "7",
+    "inputHash": "214b3366e35cc9dab3e4205b84dc38a18a0f85ef4037b846c8c1c84bd7d1b1d2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "2089f0dfdb32cf63674b638cb5d87cb9b21814a248d8ae8cf7a5f53f9a866a06_3": {
+    "label": "6",
+    "inputHash": "18f14e40447c742d4e0994258ffc9f3dfcdae78fb2c5cdbc6545da7649a76dbb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "2089f0dfdb32cf63674b638cb5d87cb9b21814a248d8ae8cf7a5f53f9a866a06_4": {
+    "label": "3",
+    "inputHash": "07d6c1340c8e642d947ac002f9a49c7e52a5f451f054633207ae6bfb524e3ed6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "c03687901fc5a149cda77cec4bf732debf1406c7e01a59e65ec6c79ac0e01684_0": {
+    "label": "8",
+    "inputHash": "259b671db9b761deb817b378b720340ad597cf7a38ffb9702d95e4d410e41a80",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "c03687901fc5a149cda77cec4bf732debf1406c7e01a59e65ec6c79ac0e01684_1": {
+    "label": "8",
+    "inputHash": "545ae9ace5493b66831c212887393388aa779d46968185137cc4f32120be7b2a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "c03687901fc5a149cda77cec4bf732debf1406c7e01a59e65ec6c79ac0e01684_2": {
+    "label": "7",
+    "inputHash": "b3f565143c2dd9a66e2691c829c30c379308b70f7e3721b3f70dadd341aba819",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "c03687901fc5a149cda77cec4bf732debf1406c7e01a59e65ec6c79ac0e01684_3": {
+    "label": "5",
+    "inputHash": "0a529b2024579cb62f22f1a9511dbac3bd9e63b2c7d5f0b411c089efcae3e6d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "c03687901fc5a149cda77cec4bf732debf1406c7e01a59e65ec6c79ac0e01684_4": {
+    "label": "8",
+    "inputHash": "cf0f14120e530122d02a7514ee4661d6a0fa48dda8d14207a6a9994056a312a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "430c5b46b74d3ce79d55f04502a111ebfd91f4e103a87c841cdd67bae09c6581_0": {
+    "label": "2",
+    "inputHash": "0b51f200030129f83ff27e874e8d7cee6c3d57e308434043149cb18324525b08",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "430c5b46b74d3ce79d55f04502a111ebfd91f4e103a87c841cdd67bae09c6581_1": {
+    "label": "6",
+    "inputHash": "be77c1a9aa9831fddf7f60708c9101701d01e294d8de2f378787e0b6c3204817",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "430c5b46b74d3ce79d55f04502a111ebfd91f4e103a87c841cdd67bae09c6581_2": {
+    "label": "2",
+    "inputHash": "d9b947ffdd926d4cd748163b08988ba0f1dd543a1d23b74e92c4e8d19d9e0ab6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "430c5b46b74d3ce79d55f04502a111ebfd91f4e103a87c841cdd67bae09c6581_3": {
+    "label": "5",
+    "inputHash": "7ce31e5a866db46b7d8855b96a2811dec2575f73f962c51c1d1e94c8b08965aa",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "430c5b46b74d3ce79d55f04502a111ebfd91f4e103a87c841cdd67bae09c6581_4": {
+    "label": "1",
+    "inputHash": "ad5e15c648dfaf5da033c838e794409235f9c5b5538f0b8d14f9a862e0216d1b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "5980a4575271b44899db9770f0137a0dbb8915b238532dbac7bc0b02aa025513_0": {
+    "label": "5",
+    "inputHash": "266c5a2227f42baf7af83d295fb2abdcc95035b97b62d1f6c618647a1f4ba7e3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "5980a4575271b44899db9770f0137a0dbb8915b238532dbac7bc0b02aa025513_1": {
+    "label": "7",
+    "inputHash": "ee677e6b07c6a26800d7ac5dc28428be713338f8e25cf1731fe5e1583f3ed2db",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "5980a4575271b44899db9770f0137a0dbb8915b238532dbac7bc0b02aa025513_2": {
+    "label": "7",
+    "inputHash": "f101c668bd859405baaea11699d448e0074a3914396cc0a144364abbaccfb231",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "5980a4575271b44899db9770f0137a0dbb8915b238532dbac7bc0b02aa025513_3": {
+    "label": "5",
+    "inputHash": "ac148ea83419cf290dc12bef2da15885fb1ac8683740f008f38fbf877f8c0a25",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "5980a4575271b44899db9770f0137a0dbb8915b238532dbac7bc0b02aa025513_4": {
+    "label": "9",
+    "inputHash": "c34bc6d05dab1b1a2888e71cc1ad4055cf3243601ae3fa42359cf85853374510",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3f6514bb70d22664ba2342e73ea22f7be97d3a283aa3558e0794b368cfc59c38_0": {
+    "label": "7",
+    "inputHash": "c3497680740a3be12e151d59828e930d5cefe0fb5780ec99d2b27d2dd350a8af",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3f6514bb70d22664ba2342e73ea22f7be97d3a283aa3558e0794b368cfc59c38_1": {
+    "label": "8",
+    "inputHash": "506109587aee25763f4c847a8b2daf6d535e91417da118fc67638dfb42895451",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3f6514bb70d22664ba2342e73ea22f7be97d3a283aa3558e0794b368cfc59c38_2": {
+    "label": "7",
+    "inputHash": "9792f2fd861f9f01a54e768a79ef2b1b2237ca902db204dcc90f6ea0f318f2ed",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3f6514bb70d22664ba2342e73ea22f7be97d3a283aa3558e0794b368cfc59c38_3": {
+    "label": "6",
+    "inputHash": "ae30cd5b9b3830bea62cfa399a10f473eac1b50a5ebc9f0ed7cbd7e150b316a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3f6514bb70d22664ba2342e73ea22f7be97d3a283aa3558e0794b368cfc59c38_4": {
+    "label": "9",
+    "inputHash": "4c623d6ddd69340fc08098c99190edcf1f39e2b33140a22c2e5abbed57dc7f0a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "4cb37297850c9c3f80b9695b0f14564464b125caedb9af5ac9fb6a9dd081bb87_0": {
+    "label": "3",
+    "inputHash": "4c48e4a89b5f4048069a42dae235f34393404a8d47bfb1d798e95003e40ed8a1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "4cb37297850c9c3f80b9695b0f14564464b125caedb9af5ac9fb6a9dd081bb87_1": {
+    "label": "3",
+    "inputHash": "e6869f4aa6a09819d0806cd2a797e1c5c6ae81b0060acd18bf36c30949765e9c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "4cb37297850c9c3f80b9695b0f14564464b125caedb9af5ac9fb6a9dd081bb87_2": {
+    "label": "7",
+    "inputHash": "49b69f46fb3999dc3dc62838b2fe5b046c076ad8777ba55cc2b3b8c2c3bec4be",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "4cb37297850c9c3f80b9695b0f14564464b125caedb9af5ac9fb6a9dd081bb87_3": {
+    "label": "5",
+    "inputHash": "ca0732d65839585d391f5a4579b63cf2f3a3dfaca834cc9cc4e4c873a9466e26",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "4cb37297850c9c3f80b9695b0f14564464b125caedb9af5ac9fb6a9dd081bb87_4": {
+    "label": "8",
+    "inputHash": "64a2b5aab1f5f9b7aa866cf97683078fa8aa3fb9f894d179b515324af5e28d2a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "d31996f394f6c98d2ef8c1daf7c6212ff553bfcadd1595f82b14bf13746ccbb4_0": {
+    "label": "1",
+    "inputHash": "3d1ed6549ce44d499725d760edf8fefffb7c08153bc38987ca30f30609b37448",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "d31996f394f6c98d2ef8c1daf7c6212ff553bfcadd1595f82b14bf13746ccbb4_1": {
+    "label": "1",
+    "inputHash": "b5deb806042948be276e28e2d6a0c2375a602cabc04810a4e5f73d0c69dac1ca",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "d31996f394f6c98d2ef8c1daf7c6212ff553bfcadd1595f82b14bf13746ccbb4_2": {
+    "label": "4",
+    "inputHash": "b560ddb706a3faa20b3f80f6fc30f4f939517dbf97b58640a68c4f1a6225ec78",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "d31996f394f6c98d2ef8c1daf7c6212ff553bfcadd1595f82b14bf13746ccbb4_3": {
+    "label": "9",
+    "inputHash": "8306dcc488b4deec01ca37a204b539038e877a009bc4ebbff72384405aa8c4cb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "d31996f394f6c98d2ef8c1daf7c6212ff553bfcadd1595f82b14bf13746ccbb4_4": {
+    "label": "9",
+    "inputHash": "de44b88bd79d03b98f95747b4f04d05e3f2a060220e7133b5c91ebe9fd8214fe",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "94223896df6ea57859e107047dd9f925d6ae4f7e39535c209fa4de79f9b787d7_0": {
+    "label": "5",
+    "inputHash": "c33204c358c048425446c536ab63c11481de42002afc2ed9a976f8216b13d6df",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "94223896df6ea57859e107047dd9f925d6ae4f7e39535c209fa4de79f9b787d7_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "94223896df6ea57859e107047dd9f925d6ae4f7e39535c209fa4de79f9b787d7_2": {
+    "label": "6",
+    "inputHash": "48dc6359c43adc9c7f8816728f542ed401dbbb57dc1ef582fd02ac22090d2cba",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "94223896df6ea57859e107047dd9f925d6ae4f7e39535c209fa4de79f9b787d7_3": {
+    "label": "5",
+    "inputHash": "a8bed8128e1379c25131e62046d4f8bd5f3a569b0e247069ac6925a6869b9123",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "94223896df6ea57859e107047dd9f925d6ae4f7e39535c209fa4de79f9b787d7_4": {
+    "label": "7",
+    "inputHash": "7676b702487a431f7c0de9c8450ced3cbff27ddeaf8836552f6b049b1ad81d23",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "48b4814c6a9d9304038a98643ef16772c87d5a3a61abbc9d6276af86383fa822_0": {
+    "label": "4",
+    "inputHash": "81d1c96eb27a2889b77860ff3ab795997730ad145f896b4b54a4dcfbd2854295",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "48b4814c6a9d9304038a98643ef16772c87d5a3a61abbc9d6276af86383fa822_1": {
+    "label": "1",
+    "inputHash": "822587edd43e81fd75e8751b19fc48f027c48cddcde867d3b0fe22337f3d00fa",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "48b4814c6a9d9304038a98643ef16772c87d5a3a61abbc9d6276af86383fa822_2": {
+    "label": "2",
+    "inputHash": "15ffc05dba6d036b0ac3f986d2253fcc5ff8cfe77a1a3db25463d40cf9c836c7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "48b4814c6a9d9304038a98643ef16772c87d5a3a61abbc9d6276af86383fa822_3": {
+    "label": "7",
+    "inputHash": "7c62ab6bae2a95ffc51c86e4585e3c03a4e65eebe8f38b7676864d637041bfb0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "48b4814c6a9d9304038a98643ef16772c87d5a3a61abbc9d6276af86383fa822_4": {
+    "label": "9",
+    "inputHash": "e714e4655000cca625da0e2be491073a04e5f5ae50e5ac5ef0bbb259e0e90968",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a160fb12a49388e4fbe0db38a0d9bdb6fa391a46aacd34a92b392d14c5b75edc_0": {
+    "label": "9",
+    "inputHash": "bf9a5dd8807d952a864c56c8d550f9e82b143d620c9f0fdff7cf96255b71733a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a160fb12a49388e4fbe0db38a0d9bdb6fa391a46aacd34a92b392d14c5b75edc_1": {
+    "label": "5",
+    "inputHash": "60584952235a2eea000c34574ea521ea3b47079adc339a7faa9a795eedfaabc4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a160fb12a49388e4fbe0db38a0d9bdb6fa391a46aacd34a92b392d14c5b75edc_2": {
+    "label": "1",
+    "inputHash": "3b8a59789264447e3c2fde3c92aeb0c6e093b775f032d3bde0982583dd39729c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a160fb12a49388e4fbe0db38a0d9bdb6fa391a46aacd34a92b392d14c5b75edc_3": {
+    "label": "5",
+    "inputHash": "75ba9c0b2293b08ad924c59743f3f32363f704ed0be7fcac7ca404e0fe79e95b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "a160fb12a49388e4fbe0db38a0d9bdb6fa391a46aacd34a92b392d14c5b75edc_4": {
+    "label": "8",
+    "inputHash": "0216cdd4ae70f7cde7860bde112c3bb523b6588dafd10a1f5a12334003a7a7ae",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3701bf8c6c8c68ddeb2a0c065915086919a0fc59ad3e138e2f5860591a0e60a3_0": {
+    "label": "1",
+    "inputHash": "08791b37dd435ecf73fc44841cf0c36aff8d3fdba4af55b8656ce273084bc413",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3701bf8c6c8c68ddeb2a0c065915086919a0fc59ad3e138e2f5860591a0e60a3_1": {
+    "label": "3",
+    "inputHash": "7914005c510d8409ebc332d02719b76ba858c22ff72b6a9d23b5320bdc23198b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3701bf8c6c8c68ddeb2a0c065915086919a0fc59ad3e138e2f5860591a0e60a3_2": {
+    "label": "3",
+    "inputHash": "5d5bdaafe92e3abc374f62f29d6fe9a86ab24fbcc990bce5cc6b118d499a0de7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3701bf8c6c8c68ddeb2a0c065915086919a0fc59ad3e138e2f5860591a0e60a3_3": {
+    "label": "5",
+    "inputHash": "1c96f551fd65ade633f34cedfce6207657dca95453db81c89bc094d6abbf4f54",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "3701bf8c6c8c68ddeb2a0c065915086919a0fc59ad3e138e2f5860591a0e60a3_4": {
+    "label": "7",
+    "inputHash": "7655c84c6ab574a8ac8c1aa89a592ec26112953c065c54c8c92a7cbb517808c6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1265cd0ca7fd946cc0424ae2c790288e76603d718746e7438cc8574fedbbd21_0": {
+    "label": "1",
+    "inputHash": "36cbb48a5343cedc3dedbe970216138718a79aebeb97245ed002622e2d84c391",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1265cd0ca7fd946cc0424ae2c790288e76603d718746e7438cc8574fedbbd21_1": {
+    "label": "7",
+    "inputHash": "5e928c4e61e7e18c7070fb2f2a47505215d36988a0319b1ec91c2addb5b6dc8b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1265cd0ca7fd946cc0424ae2c790288e76603d718746e7438cc8574fedbbd21_2": {
+    "label": "7",
+    "inputHash": "233c7361a0f30abc51cc91c578f58e8c77d7cf24ac0128efc3cb6a8ee74ac892",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1265cd0ca7fd946cc0424ae2c790288e76603d718746e7438cc8574fedbbd21_3": {
+    "label": "4",
+    "inputHash": "b63d901ff81cdbd9945cbf7003442b58df17f83b79914ac37dcf14660bf5fb3a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "e1265cd0ca7fd946cc0424ae2c790288e76603d718746e7438cc8574fedbbd21_4": {
+    "label": "5",
+    "inputHash": "d095a1563ff9516985b996c4540a12b8d41690409d71c1e59daa8c968a603d3c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "b829aa1f5b48e4ef1271678813ece52971181c340e45c029b5384873bf8dbf37_0": {
+    "label": "7",
+    "inputHash": "d9687a3df57626d9e71ec6e4955e57d7d83bc269581ab83885b459cc8693ff5a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "b829aa1f5b48e4ef1271678813ece52971181c340e45c029b5384873bf8dbf37_1": {
+    "label": "8",
+    "inputHash": "e977f5570a68871103e6e26de8f1eac559f1ecf31f6120ee9f13b1daf6fefc9e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "b829aa1f5b48e4ef1271678813ece52971181c340e45c029b5384873bf8dbf37_2": {
+    "label": "3",
+    "inputHash": "87aaedefe3aae00fbaf759ab98869fa4caf8222b1a764ea693e051f83f2b23ce",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "b829aa1f5b48e4ef1271678813ece52971181c340e45c029b5384873bf8dbf37_3": {
+    "label": "5",
+    "inputHash": "0a529b2024579cb62f22f1a9511dbac3bd9e63b2c7d5f0b411c089efcae3e6d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "b829aa1f5b48e4ef1271678813ece52971181c340e45c029b5384873bf8dbf37_4": {
+    "label": "8",
+    "inputHash": "bc6d812441584b7d955ad0319468cc8894a6392ded090b5282abbe9602a83be5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "485a9c1af12e63e7db66e1fe14a308c6cc88688270252a2cfcf7d141f3cb4eaa_0": {
+    "label": "3",
+    "inputHash": "f785731fe987a9951733cdc1534f4e21851df50b8d581a2a6963cb4bbfc6c81c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "485a9c1af12e63e7db66e1fe14a308c6cc88688270252a2cfcf7d141f3cb4eaa_1": {
+    "label": "1",
+    "inputHash": "53377e69c1b265919a2971537e49e72ed80961dc0f5d34ba83825966002cb3f9",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "485a9c1af12e63e7db66e1fe14a308c6cc88688270252a2cfcf7d141f3cb4eaa_2": {
+    "label": "8",
+    "inputHash": "1aab1f11c6d5c5038de4acda054f66ac06d276f3615f67f4f9e17100de3ed94b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "485a9c1af12e63e7db66e1fe14a308c6cc88688270252a2cfcf7d141f3cb4eaa_3": {
+    "label": "7",
+    "inputHash": "2d8631fbaf262d47ee8120cad57154e560a37ff6a33cb1786f3ceae8e3a2af80",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "485a9c1af12e63e7db66e1fe14a308c6cc88688270252a2cfcf7d141f3cb4eaa_4": {
+    "label": "7",
+    "inputHash": "429d229a6e0721ffb34e8544da35709104be8abd8f23ecc92f93d4af977b75d3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z"
+  },
+  "33190b8d4e260ec5cb4900127c5a9ab73b6ff24e9ed14cb1d46df9af704c085b_0": {
+    "label": "5",
+    "inputHash": "85f7a1d867800eb59bb8fa50e8ade7b075594c5e6b966c76bdc7dbcb96ef3174",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "33190b8d4e260ec5cb4900127c5a9ab73b6ff24e9ed14cb1d46df9af704c085b_1": {
+    "label": "1",
+    "inputHash": "f8f6813f1ccf4fff6af8556564ee5a1c2d84613accf1d3eac65811d9aadbb97c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "33190b8d4e260ec5cb4900127c5a9ab73b6ff24e9ed14cb1d46df9af704c085b_2": {
+    "label": "8",
+    "inputHash": "1f469807b1a295bfbf355269c7d6001569479d9a653a5aa25566470be225b2b5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "33190b8d4e260ec5cb4900127c5a9ab73b6ff24e9ed14cb1d46df9af704c085b_3": {
+    "label": "7",
+    "inputHash": "7e5e8e920c8dbef47a8414303f0e740f65c5cd2883b05e4f351a8c32a66f914f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "33190b8d4e260ec5cb4900127c5a9ab73b6ff24e9ed14cb1d46df9af704c085b_4": {
+    "label": "6",
+    "inputHash": "ae6a68b271091fd508942edd3a7766524930ff121db64af4075f1e9b4bfd1e4a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "1c79a62878f74e20aa8c9912bc7a128b57fa0fe88c75b9e2a5544a573c886df7_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "1c79a62878f74e20aa8c9912bc7a128b57fa0fe88c75b9e2a5544a573c886df7_1": {
+    "label": "9",
+    "inputHash": "7ede90d08827ec0c53be05a6af0279c47fdd33985ab628aa750a26bd59640c19",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "1c79a62878f74e20aa8c9912bc7a128b57fa0fe88c75b9e2a5544a573c886df7_2": {
+    "label": "8",
+    "inputHash": "42deb483dd3f48227c60b79b6769112201a524fc244503013a7ab515d686f252",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "1c79a62878f74e20aa8c9912bc7a128b57fa0fe88c75b9e2a5544a573c886df7_3": {
+    "label": "9",
+    "inputHash": "4025ee6f0cad503affea595ce686b7a9d24190ba3035b3c3d0f6ca7488fb6aa3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "1c79a62878f74e20aa8c9912bc7a128b57fa0fe88c75b9e2a5544a573c886df7_4": {
+    "label": "6",
+    "inputHash": "60cd66f7b79df8714cc01166985fe73be1db27f621b36f6e459d967443f96322",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "41c808bcb9ab7af6bd9acdf964d23e32265319fa48261237afbec15556f5b78f_0": {
+    "label": "6",
+    "inputHash": "39e69437b052c3ef66a7a8efc7a2679d5e50886da0daf49017a65bb25352e72a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "41c808bcb9ab7af6bd9acdf964d23e32265319fa48261237afbec15556f5b78f_1": {
+    "label": "2",
+    "inputHash": "c94e09477137f9715514094768434faf75693cf813a4059271b8c072b9a18c8d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "41c808bcb9ab7af6bd9acdf964d23e32265319fa48261237afbec15556f5b78f_2": {
+    "label": "2",
+    "inputHash": "f5801ec64ec70aab73739fddb213d19276e72085b69627418935fe3e2c84f432",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "41c808bcb9ab7af6bd9acdf964d23e32265319fa48261237afbec15556f5b78f_3": {
+    "label": "5",
+    "inputHash": "9dc4ac502674abc64fc2ad40725ef77dbcff775663155044ed24d4daf3cda405",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "41c808bcb9ab7af6bd9acdf964d23e32265319fa48261237afbec15556f5b78f_4": {
+    "label": "7",
+    "inputHash": "93f294ab1de79b0779828ee4b2a25ba8302a29f457d8bb3e8ea3bee895aa65dd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z"
+  },
+  "00356ff5b9e9c05d5ec403724e37b177c679ee6f8ff77c8ccc0bbedfeaf53789_0": {
+    "label": "4",
+    "inputHash": "948ead4a1badef884a38dc2e5b7071e7c53d1eee455e00ea96d77d032e650925",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.644Z"
+  },
+  "00356ff5b9e9c05d5ec403724e37b177c679ee6f8ff77c8ccc0bbedfeaf53789_1": {
+    "label": "9",
+    "inputHash": "44f06eaea45a47cc7d083fad05dfc4714c1168a0632fb9b2187710d3a3d39a5f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.644Z"
+  },
+  "00356ff5b9e9c05d5ec403724e37b177c679ee6f8ff77c8ccc0bbedfeaf53789_2": {
+    "label": "7",
+    "inputHash": "233c7361a0f30abc51cc91c578f58e8c77d7cf24ac0128efc3cb6a8ee74ac892",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.644Z"
+  },
+  "00356ff5b9e9c05d5ec403724e37b177c679ee6f8ff77c8ccc0bbedfeaf53789_3": {
+    "label": "7",
+    "inputHash": "429a4b9bd4532c15a95add3f61dbc362b84a639dacf8b70de7870abb5f1bc486",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.644Z"
+  },
+  "00356ff5b9e9c05d5ec403724e37b177c679ee6f8ff77c8ccc0bbedfeaf53789_4": {
+    "label": "9",
+    "inputHash": "9bd9c641458ec79abeb870438d656e7b9f1d963e7a13a1d621ce479fb2711133",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.644Z"
+  },
+  "26a9123c3c9a9f620ee01f386a135097980b8015b82eeb68266cc71f5bd00adf_0": {
+    "label": "4",
+    "inputHash": "a507921ee418be96399475671318f186036197045b083a6dc675841981990cc5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "26a9123c3c9a9f620ee01f386a135097980b8015b82eeb68266cc71f5bd00adf_1": {
+    "label": "3",
+    "inputHash": "3b85e6612f678fca6d5c4d1b74ff7d323f5c9ee366768092e9c4e435152d98fb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "26a9123c3c9a9f620ee01f386a135097980b8015b82eeb68266cc71f5bd00adf_2": {
+    "label": "7",
+    "inputHash": "a7f9ce3b6f8c02d7f2c6961648711b52990987e2f95e92a331e68f53e64643e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "26a9123c3c9a9f620ee01f386a135097980b8015b82eeb68266cc71f5bd00adf_3": {
+    "label": "1",
+    "inputHash": "39aaab80ceaff00532950ff9fe2e5cf4c16bfe3be891bf349d887b9d3b9f9201",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "26a9123c3c9a9f620ee01f386a135097980b8015b82eeb68266cc71f5bd00adf_4": {
+    "label": "6",
+    "inputHash": "66462bb027a6f3e015acab84fbcda028cc0920271271d32331f1786294f7b61b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "f9a177b47dbb56ccc49820250af64d134d9de1daea20067deccbc9cc842c92ea_0": {
+    "label": "8",
+    "inputHash": "e5d060589bf5c2c5f5775b4b3aa116e0da23d2a0b735c9a4d5b3e59312e4e6e1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "f9a177b47dbb56ccc49820250af64d134d9de1daea20067deccbc9cc842c92ea_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "f9a177b47dbb56ccc49820250af64d134d9de1daea20067deccbc9cc842c92ea_2": {
+    "label": "6",
+    "inputHash": "dba5e4a16f307abfbe6dc319923bdb5336c5504d88ef1aa77ad008379e6410db",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "f9a177b47dbb56ccc49820250af64d134d9de1daea20067deccbc9cc842c92ea_3": {
+    "label": "5",
+    "inputHash": "82ac50382a0ebeed51446189ad75d0a8eb6643d26606a6c7f093778c8a2510dd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "f9a177b47dbb56ccc49820250af64d134d9de1daea20067deccbc9cc842c92ea_4": {
+    "label": "8",
+    "inputHash": "96a36dd0b6dc5882a85f6aa60d8e3cd924af229c01c25a3a9ccae549dc826709",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "ed9308d880245acb2d98d79a20eee07c2dfb7d304f268b824a5b92f609a858b9_0": {
+    "label": "1",
+    "inputHash": "beb86c1368473b2be3f2b05887e6f39691e6613ec23b07864709bb1867b86bc7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "ed9308d880245acb2d98d79a20eee07c2dfb7d304f268b824a5b92f609a858b9_1": {
+    "label": "6",
+    "inputHash": "67ab75d3a54cca4ae96a5cd16f7b1cf8832ffcbc7f060b79cc51bc0d427bbc82",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "ed9308d880245acb2d98d79a20eee07c2dfb7d304f268b824a5b92f609a858b9_2": {
+    "label": "7",
+    "inputHash": "9792f2fd861f9f01a54e768a79ef2b1b2237ca902db204dcc90f6ea0f318f2ed",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "ed9308d880245acb2d98d79a20eee07c2dfb7d304f268b824a5b92f609a858b9_3": {
+    "label": "8",
+    "inputHash": "b4f3d7150b0a48d59df66fb12f9b1dd0d098263ca27670d0f9de4d19611b7dad",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "ed9308d880245acb2d98d79a20eee07c2dfb7d304f268b824a5b92f609a858b9_4": {
+    "label": "5",
+    "inputHash": "afb96cb3db96b815b32f651604b92649032b17538e1b604e44e744f3d4ff7ea6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "c34a160e9aa45c6974efdfa29c5e03942c23ed4cf63fc0437fe9b5ed185cf9f9_0": {
+    "label": "3",
+    "inputHash": "349b87a0af57117547471801c40e750ec482c7afdafe96eb3a8d7f9b310b029d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "c34a160e9aa45c6974efdfa29c5e03942c23ed4cf63fc0437fe9b5ed185cf9f9_1": {
+    "label": "1",
+    "inputHash": "552615cbc7f9528cfb193c13da74cf68a4df226099e18b9989b307a981f1d821",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "c34a160e9aa45c6974efdfa29c5e03942c23ed4cf63fc0437fe9b5ed185cf9f9_2": {
+    "label": "1",
+    "inputHash": "b88b9fedd184fd4500a61fd12799f1a1aaf0cd090fe801b3555722e001f6b0d8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "c34a160e9aa45c6974efdfa29c5e03942c23ed4cf63fc0437fe9b5ed185cf9f9_3": {
+    "label": "5",
+    "inputHash": "fc6a3b0c5145fe61105ad56477d62fbd41e404dd07851f6b727271b9c36d47c7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "c34a160e9aa45c6974efdfa29c5e03942c23ed4cf63fc0437fe9b5ed185cf9f9_4": {
+    "label": "6",
+    "inputHash": "ae6a68b271091fd508942edd3a7766524930ff121db64af4075f1e9b4bfd1e4a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z"
+  },
+  "a26e2ae844e98c7f8f6c2d7f1dbf0ab12a81d62608ee2bd13334c66ce2658633_0": {
+    "label": "5",
+    "inputHash": "c33204c358c048425446c536ab63c11481de42002afc2ed9a976f8216b13d6df",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.431Z"
+  },
+  "a26e2ae844e98c7f8f6c2d7f1dbf0ab12a81d62608ee2bd13334c66ce2658633_1": {
+    "label": "1",
+    "inputHash": "552615cbc7f9528cfb193c13da74cf68a4df226099e18b9989b307a981f1d821",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.431Z"
+  },
+  "a26e2ae844e98c7f8f6c2d7f1dbf0ab12a81d62608ee2bd13334c66ce2658633_2": {
+    "label": "1",
+    "inputHash": "104fc098ff958cc14c4fef2964b8b62436db821e38d3000f51ba87dd49374925",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.431Z"
+  },
+  "a26e2ae844e98c7f8f6c2d7f1dbf0ab12a81d62608ee2bd13334c66ce2658633_3": {
+    "label": "6",
+    "inputHash": "9a40035368f105f268c34bbd7c4e365cccb5a02fecc03027684d0c8a7326e60f",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.431Z"
+  },
+  "a26e2ae844e98c7f8f6c2d7f1dbf0ab12a81d62608ee2bd13334c66ce2658633_4": {
+    "label": "5",
+    "inputHash": "263e9c563deb980bfd67e6ee2cd353985d957027cc87f9272badd49201a74f11",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.431Z"
+  },
+  "770dd49612eeee063624d6ab5228659e8ff2362434b16b85988c90d4de4be790_0": {
+    "label": "1",
+    "inputHash": "6757399428dbd6a45714dcabe474e1687685751f9899bbaab186e1484ad6b92e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "770dd49612eeee063624d6ab5228659e8ff2362434b16b85988c90d4de4be790_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "770dd49612eeee063624d6ab5228659e8ff2362434b16b85988c90d4de4be790_2": {
+    "label": "4",
+    "inputHash": "264fbd4798598053d7d9b28bdfe2c8d17537862dfa200f1fb7d9f4ffb7357582",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "770dd49612eeee063624d6ab5228659e8ff2362434b16b85988c90d4de4be790_3": {
+    "label": "3",
+    "inputHash": "4af8a2b39efbd0e7d6289999421521577f1476a77a67f967be0e0afde2846fe7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "770dd49612eeee063624d6ab5228659e8ff2362434b16b85988c90d4de4be790_4": {
+    "label": "9",
+    "inputHash": "521f5a6c22614930ffeea7eead1e5f651e75022f6ab6d53a0e03a0113e1206c3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "a3bec561a0804a6ab674fd8ed3fa65cf114303c337fc5c3ebdaccb3921faa5f7_0": {
+    "label": "4",
+    "inputHash": "f6527acecf513c33b970860d1595a3f98fc1f0f383221c98e572f0659784317e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "a3bec561a0804a6ab674fd8ed3fa65cf114303c337fc5c3ebdaccb3921faa5f7_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "a3bec561a0804a6ab674fd8ed3fa65cf114303c337fc5c3ebdaccb3921faa5f7_2": {
+    "label": "8",
+    "inputHash": "21e943cd569c9cbf723265cffc6a5163ff343105870001d1a3e0119c8d029423",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "a3bec561a0804a6ab674fd8ed3fa65cf114303c337fc5c3ebdaccb3921faa5f7_3": {
+    "label": "4",
+    "inputHash": "83086390cbec43cd43194bc73a6b7a5fc6e6e860147e370985774cb4a99975ab",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "a3bec561a0804a6ab674fd8ed3fa65cf114303c337fc5c3ebdaccb3921faa5f7_4": {
+    "label": "8",
+    "inputHash": "26bd94e5c16a2504086a2bb6695159cb5c3111166dad000ff0db643403a469e2",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "f373ef1ba8fa06ff4ddb039ccfdf963e5ab66316a89563d97a2b728d1f5a34b5_0": {
+    "label": "3",
+    "inputHash": "bdbaee219ca7cb6d220d315fb73df5f9634444608caa73974b667e01409c3718",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "f373ef1ba8fa06ff4ddb039ccfdf963e5ab66316a89563d97a2b728d1f5a34b5_1": {
+    "label": "7",
+    "inputHash": "ce5a916a3011d981cbb77eee00edd908454b83fb88dcef62a79895698dcc37bb",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "f373ef1ba8fa06ff4ddb039ccfdf963e5ab66316a89563d97a2b728d1f5a34b5_2": {
+    "label": "7",
+    "inputHash": "5e561d17381628ad8700d015d7c7b7337db8a3b4f03cbbd025cae2e7e1ecf8f4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "f373ef1ba8fa06ff4ddb039ccfdf963e5ab66316a89563d97a2b728d1f5a34b5_3": {
+    "label": "2",
+    "inputHash": "e19f56409233b175d3ed5fae4a0da01448400f77dc4453d67f8a4a1aa75b1aab",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "f373ef1ba8fa06ff4ddb039ccfdf963e5ab66316a89563d97a2b728d1f5a34b5_4": {
+    "label": "6",
+    "inputHash": "bf5023f8492c6100e92e418b0133049d9a077ebb409a4de533c0a254307e21ed",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "bc8437bbd40f3d66c9fec63c94874d76e477c2dc840d1b466f9179b3d819c75e_0": {
+    "label": "5",
+    "inputHash": "ab050d1e1769fc3e548e04808ce1f9f936da96d44ca60e79a0b31ea8e9e4b3d7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "bc8437bbd40f3d66c9fec63c94874d76e477c2dc840d1b466f9179b3d819c75e_1": {
+    "label": "9",
+    "inputHash": "90894ccc92991bcfb2c390212de297fe4b229e8ee127f5f18ec8e87599bd3303",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "bc8437bbd40f3d66c9fec63c94874d76e477c2dc840d1b466f9179b3d819c75e_2": {
+    "label": "9",
+    "inputHash": "85f0e96a4c503bd04fab9c166083df6ae82843b507b9ff52caaca51aa3ebba48",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "bc8437bbd40f3d66c9fec63c94874d76e477c2dc840d1b466f9179b3d819c75e_3": {
+    "label": "5",
+    "inputHash": "bfee317e9c053373f2fcd0671609a300886811482ea343a5cdead27eaee41cd8",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "bc8437bbd40f3d66c9fec63c94874d76e477c2dc840d1b466f9179b3d819c75e_4": {
+    "label": "8",
+    "inputHash": "3b442f1625b6b9f8a8692a55782383e2674f9cd9d7d80aa18255f43a790964ae",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z"
+  },
+  "dc4e2526b50f21a7987fd2e6bbd0dc1dc4e06a63184af6b412c1d0834dff9133_0": {
+    "label": "1",
+    "inputHash": "6757399428dbd6a45714dcabe474e1687685751f9899bbaab186e1484ad6b92e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.780Z"
+  },
+  "dc4e2526b50f21a7987fd2e6bbd0dc1dc4e06a63184af6b412c1d0834dff9133_1": {
+    "label": "1",
+    "inputHash": "6d114889a54ae9ce567157c9ed7c97ded5714eb7563fa968b0fbdad5c0ca489e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.780Z"
+  },
+  "dc4e2526b50f21a7987fd2e6bbd0dc1dc4e06a63184af6b412c1d0834dff9133_2": {
+    "label": "7",
+    "inputHash": "d75f130ab20bc7171f91460715c59180536f3b2922daf94c01df697cc47d21a1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.780Z"
+  },
+  "dc4e2526b50f21a7987fd2e6bbd0dc1dc4e06a63184af6b412c1d0834dff9133_3": {
+    "label": "2",
+    "inputHash": "238aa96594d60c8a641451e8abe66f2c51a6e5575ddc9ab0f20707179b554ff7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.780Z"
+  },
+  "dc4e2526b50f21a7987fd2e6bbd0dc1dc4e06a63184af6b412c1d0834dff9133_4": {
+    "label": "6",
+    "inputHash": "6aecb4ec074b7c56a25a954ddf1ab06a33f358ef8169195b005cced4ed119d98",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.780Z"
+  },
+  "a852dd4a4fa684f86244c113d63afbb258dd1550b05e0ac2362202aa4c7727c5_0": {
+    "label": "6",
+    "inputHash": "38f3a4f3aa2ae95dfe2c8dc715499935dde4c9f99793b8192dc0cdad72064745",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "a852dd4a4fa684f86244c113d63afbb258dd1550b05e0ac2362202aa4c7727c5_1": {
+    "label": "6",
+    "inputHash": "baa852873b68cdd00f54b7dccbf57e7334d6256e587084e41c1376c44a8464e3",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "a852dd4a4fa684f86244c113d63afbb258dd1550b05e0ac2362202aa4c7727c5_2": {
+    "label": "4",
+    "inputHash": "40b289632f2a369dccd3e1060f4bc4d15bc7a46157e0fda78afebf307444c80c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "a852dd4a4fa684f86244c113d63afbb258dd1550b05e0ac2362202aa4c7727c5_3": {
+    "label": "5",
+    "inputHash": "651b3ab7feefb6dd5df60813631ad5849d0d8ae302e8713ceea0bfbfb5fcc556",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "a852dd4a4fa684f86244c113d63afbb258dd1550b05e0ac2362202aa4c7727c5_4": {
+    "label": "6",
+    "inputHash": "30fc0713bce4cd6643b7d092e69ca58d1a271dad7fd6cc0720078276aad806b9",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "78a1d7b7954cffe5dab83189aafcf4c838f114b3c523798aca6e95a9c63900b4_0": {
+    "label": "5",
+    "inputHash": "bd45b68e58ded452afee63ff7763773d440444155d26e78898c866f516e3d535",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "78a1d7b7954cffe5dab83189aafcf4c838f114b3c523798aca6e95a9c63900b4_1": {
+    "label": "1",
+    "inputHash": "1a69cd0e36d1af8dd14833c2aeb1ef59f10a98ba9fb9ff2e896ee8c3674827a5",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "78a1d7b7954cffe5dab83189aafcf4c838f114b3c523798aca6e95a9c63900b4_2": {
+    "label": "6",
+    "inputHash": "c1d334c4bbb7dbaace0fbeafb75246fc53a5c23fd7ec4dc6cfad78c88c2167df",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "78a1d7b7954cffe5dab83189aafcf4c838f114b3c523798aca6e95a9c63900b4_3": {
+    "label": "8",
+    "inputHash": "5be57071c3c267eda73256b17898b162c36a92be2b400794d47078cb8eea7f2e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "78a1d7b7954cffe5dab83189aafcf4c838f114b3c523798aca6e95a9c63900b4_4": {
+    "label": "5",
+    "inputHash": "f1010b0ebf892cc8b92e4c93578dac54aa230fbe1bce15730cfb7d4074d2948a",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "1c99b3c57e2fb10e81b624ca7cd0ddd5d78c8d05608e2b783050a50805a18b51_0": {
+    "label": "7",
+    "inputHash": "e856b5e1279d26420fbf86a0812644581230a2b7832f0cac67cc8bc7ff7f7a41",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "1c99b3c57e2fb10e81b624ca7cd0ddd5d78c8d05608e2b783050a50805a18b51_1": {
+    "label": "5",
+    "inputHash": "a61a2f5841fead53046072702e7b9f2ebe79adf997613770a2d51c54e694b8c4",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "1c99b3c57e2fb10e81b624ca7cd0ddd5d78c8d05608e2b783050a50805a18b51_2": {
+    "label": "7",
+    "inputHash": "9792f2fd861f9f01a54e768a79ef2b1b2237ca902db204dcc90f6ea0f318f2ed",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "1c99b3c57e2fb10e81b624ca7cd0ddd5d78c8d05608e2b783050a50805a18b51_3": {
+    "label": "3",
+    "inputHash": "bd8396fa768bbf7db889879392537fe3317bc1f2c87bc652318c33ada9a13207",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "1c99b3c57e2fb10e81b624ca7cd0ddd5d78c8d05608e2b783050a50805a18b51_4": {
+    "label": "7",
+    "inputHash": "d5b0241aa5f6f9cc602a86d070bd9e6289a1997a7f4574bf8e6c0c790729418c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "0cd123a12274cd7b609016b01332b42068ba0294e3e5336f0e20efc2a2f6d3c4_0": {
+    "label": "4",
+    "inputHash": "f6527acecf513c33b970860d1595a3f98fc1f0f383221c98e572f0659784317e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "0cd123a12274cd7b609016b01332b42068ba0294e3e5336f0e20efc2a2f6d3c4_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "0cd123a12274cd7b609016b01332b42068ba0294e3e5336f0e20efc2a2f6d3c4_2": {
+    "label": "1",
+    "inputHash": "87a140429bc08468f4a9b8a036abdf5afb4e6e362a353762ac2a36ade6fdd6c1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "0cd123a12274cd7b609016b01332b42068ba0294e3e5336f0e20efc2a2f6d3c4_3": {
+    "label": "2",
+    "inputHash": "cf3effa9d3a565cd8597864d09ed803e0bc593776e5aa368910217f60372925e",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "0cd123a12274cd7b609016b01332b42068ba0294e3e5336f0e20efc2a2f6d3c4_4": {
+    "label": "7",
+    "inputHash": "f5ab27a42fceaf870ac1b09c4b179c20cdeddafe83b30e94ffe8c8df8b4b4846",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "34ddad423e1b377f0b4f5b57b3af3de81fbeb36dabf975e46a064fd20a79fa91_0": {
+    "label": "3",
+    "inputHash": "b75d21f3a067a584fa3f89d9ed49413560a93e61272ccb42fe6dda95af5df290",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "34ddad423e1b377f0b4f5b57b3af3de81fbeb36dabf975e46a064fd20a79fa91_1": {
+    "label": "1",
+    "inputHash": "99fe315632c06bfe8391356a0e28a5481dc71ee4eccea49c0f7e75a94f3ad4d6",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "34ddad423e1b377f0b4f5b57b3af3de81fbeb36dabf975e46a064fd20a79fa91_2": {
+    "label": "2",
+    "inputHash": "74c78f556f97544a89028ff08d450ab56619957c746909267a7565b947edd4d1",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "34ddad423e1b377f0b4f5b57b3af3de81fbeb36dabf975e46a064fd20a79fa91_3": {
+    "label": "3",
+    "inputHash": "69fedd827379a806c0fec1bc80286a0c90807157a9e203dfef2bef03e8ea558d",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "34ddad423e1b377f0b4f5b57b3af3de81fbeb36dabf975e46a064fd20a79fa91_4": {
+    "label": "8",
+    "inputHash": "96a36dd0b6dc5882a85f6aa60d8e3cd924af229c01c25a3a9ccae549dc826709",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z"
+  },
+  "83e1c2a3da06286210be225a7d920ade605f0c4bc01e661a11123d7b3678e880_0": {
+    "label": "5",
+    "inputHash": "0699c925e84c61b41842b11dec3d44543f6aee103fbf9544288dbd4a46e1a544",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.268Z"
+  },
+  "83e1c2a3da06286210be225a7d920ade605f0c4bc01e661a11123d7b3678e880_1": {
+    "label": "9",
+    "inputHash": "4d255f4b6225438dcc6c4095528237ffe83c9028569283618c8297bbd593a9ca",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.268Z"
+  },
+  "83e1c2a3da06286210be225a7d920ade605f0c4bc01e661a11123d7b3678e880_2": {
+    "label": "2",
+    "inputHash": "02dec796388ea1e94e2f6f83fcabb4193ccafc81254cafa4f4a53530a2355857",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.268Z"
+  },
+  "83e1c2a3da06286210be225a7d920ade605f0c4bc01e661a11123d7b3678e880_3": {
+    "label": "4",
+    "inputHash": "7cdcaa0b167087b444f1b939150bc1944b5e0fb2681b6e9750f190edfe3278c0",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.268Z"
+  },
+  "83e1c2a3da06286210be225a7d920ade605f0c4bc01e661a11123d7b3678e880_4": {
+    "label": "7",
+    "inputHash": "946e57b43c107e2618b9cea161bf2cc9e6e349daa7529d1d2276026b4812f3cf",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.268Z"
+  },
+  "27e909c38c039ab664078b98974df30c56eea9e2e3827b44faed474738da0cb5_0": {
+    "label": "5",
+    "inputHash": "bd45b68e58ded452afee63ff7763773d440444155d26e78898c866f516e3d535",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "27e909c38c039ab664078b98974df30c56eea9e2e3827b44faed474738da0cb5_1": {
+    "label": "2",
+    "inputHash": "20ae48745e930c659e7798f53f9426b1d5ec594673f53871ea677b95e4cb890b",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "27e909c38c039ab664078b98974df30c56eea9e2e3827b44faed474738da0cb5_2": {
+    "label": "3",
+    "inputHash": "69668cd28c476795182bcd7e93ff50c2bd3a1fd5198d79fe4350bcb1807859b7",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "27e909c38c039ab664078b98974df30c56eea9e2e3827b44faed474738da0cb5_3": {
+    "label": "6",
+    "inputHash": "8e3d107b392a62bd1e340d8b4e0f31ca421c1f8baf3c835dc5f3c39edfcc86ed",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "27e909c38c039ab664078b98974df30c56eea9e2e3827b44faed474738da0cb5_4": {
+    "label": "8",
+    "inputHash": "c0955ef8931e74383694d117da2298703822f10c9867424b41b07d4f40509abd",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "7babba701c1c526d99df02d744b55a5ee9b5031db1f2a8c45663776b085495cb_0": {
+    "label": "3",
+    "inputHash": "f5230f2171a0ee3f22f6d308fe1ca9acfa00e308bf1c6123292bba58dccdbe95",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "7babba701c1c526d99df02d744b55a5ee9b5031db1f2a8c45663776b085495cb_1": {
+    "label": "7",
+    "inputHash": "6df73977da6dab7c04337d816db1ab4978f3ab5aaffd1ceefb2aa207cbd0977c",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "7babba701c1c526d99df02d744b55a5ee9b5031db1f2a8c45663776b085495cb_2": {
+    "label": "2",
+    "inputHash": "997455b68771a4fc591189dd67d06f5aca4bda4536e2cca69d788af520d33fde",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "7babba701c1c526d99df02d744b55a5ee9b5031db1f2a8c45663776b085495cb_3": {
+    "label": "5",
+    "inputHash": "ac148ea83419cf290dc12bef2da15885fb1ac8683740f008f38fbf877f8c0a25",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  },
+  "7babba701c1c526d99df02d744b55a5ee9b5031db1f2a8c45663776b085495cb_4": {
+    "label": "8",
+    "inputHash": "60b326da9ff578cb30b11f97e698d001161b3b9b279d07907c98efc6fbe43429",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z"
+  }
+}

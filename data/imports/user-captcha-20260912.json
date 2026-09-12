@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "batchId": "user-captcha-20260912",
+  "entries": [
+    {
+      "sha256": "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8",
+      "label": "11231",
+      "originalFilename": "11231.png",
+      "path": "data/review/raw/user-captcha-20260912_3284b265c7d0.png",
+      "sourceFiles": [
+        "../Captcha/11231.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.869Z"
+    },
+    {
+      "sha256": "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660",
+      "label": "12656",
+      "originalFilename": "12656.png",
+      "path": "data/review/raw/user-captcha-20260912_1915fe03461b.png",
+      "sourceFiles": [
+        "../Captcha/12656.png",
+        "../Captcha/51189.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.870Z",
+      "resolution": {
+        "label": "12656",
+        "reason": "Independent visual inspection reads 12656. 51189.png and 12656.png have identical bytes; keep one original with the visible answer.",
+        "reviewer": "assistant-visual",
+        "reviewedAt": "2026-09-12T06:10:15.729Z"
+      }
+    },
+    {
+      "sha256": "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152",
+      "label": "21367",
+      "originalFilename": "21367.png",
+      "path": "data/review/raw/user-captcha-20260912_aeb2685ae9d6.png",
+      "sourceFiles": [
+        "../Captcha/21367.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.871Z"
+    },
+    {
+      "sha256": "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5",
+      "label": "44853",
+      "originalFilename": "44853.png",
+      "path": "data/review/raw/user-captcha-20260912_372e75dfea60.png",
+      "sourceFiles": [
+        "../Captcha/44853.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.871Z"
+    },
+    {
+      "sha256": "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86",
+      "label": "51795",
+      "originalFilename": "51795.png",
+      "path": "data/review/raw/user-captcha-20260912_1e93a4cf7bde.png",
+      "sourceFiles": [
+        "../Captcha/51795.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.872Z"
+    },
+    {
+      "sha256": "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2",
+      "label": "65774",
+      "originalFilename": "65774.png",
+      "path": "data/review/raw/user-captcha-20260912_2463006fdb61.png",
+      "sourceFiles": [
+        "../Captcha/65774.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.873Z"
+    },
+    {
+      "sha256": "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e",
+      "label": "83752",
+      "originalFilename": "83752.png",
+      "path": "data/review/raw/user-captcha-20260912_020a5d92b593.png",
+      "sourceFiles": [
+        "../Captcha/83752.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.874Z"
+    },
+    {
+      "sha256": "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d",
+      "label": "88758",
+      "originalFilename": "88758.png",
+      "path": "data/review/raw/user-captcha-20260912_aceafb360d2c.png",
+      "sourceFiles": [
+        "../Captcha/88758.png"
+      ],
+      "importedAt": "2026-09-12T06:10:15.874Z"
+    }
+  ],
+  "status": "complete",
+  "updatedAt": "2026-09-12T06:41:48.514Z"
+}

@@ -1,6 +1,6 @@
 {
   "name": "captcha-ocr-tfjs",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "private": false,
   "description": "TensorFlow.js captcha OCR trainer and inference tools for five-digit captchas using labels 1-9.",
   "main": "src/ocr.js",
@@ -9,8 +9,22 @@
     "train": "node scripts/train.js",
     "predict": "node scripts/predict.js",
     "solve": "node scripts/solve-file.js",
-    "check": "node --check src/dependencies.js && node --check src/image-utils.js && node --check src/ocr.js && node --check src/tf.js && node --check src/tfjs-io.js && node --check scripts/train.js && node --check scripts/predict.js && node --check scripts/solve-file.js && node --check test/smoke.js",
-    "test": "node test/smoke.js"
+    "collect": "node scripts/collect.js",
+    "prepare-data": "node scripts/prepare-data.js",
+    "review:import": "node scripts/review-import.js",
+    "evaluate": "node scripts/evaluate-models.js",
+    "sync:extension": "node scripts/sync-extension.js",
+    "check": "node scripts/check.js",
+    "test": "node test/smoke.js && node --test test/regression.test.js test/data-expansion.test.js test/training-data.test.js",
+    "collect:hard": "node scripts/collect-hard.js",
+    "import:raw": "node scripts/import-raw.js",
+    "labeling:sheets": "node scripts/labeling-sheets.js",
+    "report:hard": "node scripts/history/report-hard-examples-20260912.js",
+    "test:extension": "node --test test/extension.test.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "verify": "npm run format:check && npm run check && npm test",
+    "labeling:apply": "node scripts/apply-visual-labels.js"
   },
   "keywords": [
     "captcha",
@@ -26,6 +40,18 @@
     "pngjs": "7.0.0"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
+  },
+  "packageManager": "npm@10.9.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/root50643/captcha-ocr-tfjs.git"
+  },
+  "homepage": "https://github.com/root50643/captcha-ocr-tfjs#readme",
+  "bugs": {
+    "url": "https://github.com/root50643/captcha-ocr-tfjs/issues"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
   }
 }

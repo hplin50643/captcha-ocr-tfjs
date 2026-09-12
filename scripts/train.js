@@ -1,26 +1,30 @@
 const fs = require("fs");
 const path = require("path");
 const tf = require("../src/tf");
-const { saveLayersModel } = require("../src/tfjs-io");
+const { loadLayersModel, saveLayersModel } = require("../src/tfjs-io");
 const {
   DEFAULT_PREPROCESSING,
   ensureDir,
   preprocessDigitFile,
+  readNormalizedDigit,
   walkImageFiles
 } = require("../src/image-utils");
+const D = require("../src/dataset");
 
-const PROJECT_ROOT = path.resolve(__dirname, "..");
-const LABELS = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
+const { ROOT: PROJECT_ROOT, LABELS } = require("../src/config");
+const { mulberry32, shuffleInPlace } = require("../src/random");
 
 function parseArgs(argv) {
   const out = {
     dataDir: path.join(PROJECT_ROOT, "data", "segmented"),
-    modelDir: path.join(PROJECT_ROOT, "model"),
+    modelDir: path.join(PROJECT_ROOT, "models", "candidate"),
     reportDir: path.join(PROJECT_ROOT, "reports", "training"),
     epochs: 20,
     batchSize: 32,
     imageSize: DEFAULT_PREPROCESSING.imageSize,
     seed: 42,
+    fromModel: path.join(PROJECT_ROOT, "models", "labeler-baseline"),
+    learningRate: 0.0001,
     validationRatio: 0.15,
     testRatio: 0.15
   };
@@ -31,35 +35,55 @@ function parseArgs(argv) {
     const key = rawKey.replace(/-([a-z])/g, (_, letter) => letter.toUpperCase());
     if (["epochs", "batchSize", "imageSize", "seed"].includes(key)) {
       out[key] = Number(rawValue);
-    } else if (["validationRatio", "testRatio"].includes(key)) {
+    } else if (["validationRatio", "testRatio", "learningRate"].includes(key)) {
       out[key] = Number(rawValue);
     } else if (["dataDir", "modelDir", "reportDir"].includes(key)) {
       out[key] = path.resolve(PROJECT_ROOT, rawValue);
+    } else if (key === "fromModel") {
+      out.fromModel = rawValue === "none" ? null : path.resolve(PROJECT_ROOT, rawValue);
     }
   }
 
   return out;
 }
 
-function mulberry32(seed) {
-  let state = seed >>> 0;
-  return function next() {
-    state += 0x6d2b79f5;
-    let value = state;
-    value = Math.imul(value ^ (value >>> 15), value | 1);
-    value ^= value + Math.imul(value ^ (value >>> 7), value | 61);
-    return ((value ^ (value >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-function shuffleInPlace(items, random) {
-  for (let i = items.length - 1; i > 0; i--) {
-    const j = Math.floor(random() * (i + 1));
-    [items[i], items[j]] = [items[j], items[i]];
-  }
-}
-
 function loadSplitSamples(config) {
+  const manifestPath = path.join(path.dirname(config.dataDir), "manifest.json");
+  if (fs.existsSync(manifestPath)) {
+    const manifest = D.readJson(manifestPath);
+    // Manifest paths are relative to the dataset project, including external datasets.
+    const datasetRoot = path.resolve(path.dirname(manifestPath), "..");
+    const splits = { train: [], validation: [], test: [] };
+    const counts = Object.fromEntries(LABELS.map((label) => [label, 0]));
+    for (const source of manifest.samples) {
+      if (!source.label || !source.segmentationQuality.valid) continue;
+      if (!splits[source.split]) throw new Error(`Invalid split: ${source.split}`);
+      for (const digit of source.digits) {
+        // Evaluation includes low-confidence digits with independently confirmed truth.
+        if (source.split === "train" && digit.status === "review") continue;
+        const label = source.label[digit.index];
+        const filePath = D.resolveInside(datasetRoot, digit.path);
+        if (!fs.existsSync(filePath))
+          throw new Error(
+            `Missing prepared digit; import pending moves or rerun prepare-data: ${filePath}`
+          );
+        splits[source.split].push({
+          filePath,
+          label,
+          labelIndex: LABELS.indexOf(label),
+          normalized: true,
+          sourceId: source.id
+        });
+        counts[label]++;
+      }
+    }
+    const random = mulberry32(config.seed);
+    for (const [name, samples] of Object.entries(splits)) {
+      if (!samples.length) throw new Error(`No ${name} samples in data manifest.`);
+      shuffleInPlace(samples, random);
+    }
+    return { splits, counts };
+  }
   const random = mulberry32(config.seed);
   const splits = { train: [], validation: [], test: [] };
   const counts = {};
@@ -100,7 +124,9 @@ function tensorFromSamples(tfInstance, samples, preprocessing) {
   const labelIndexes = new Int32Array(samples.length);
 
   samples.forEach((sample, index) => {
-    const processed = preprocessDigitFile(sample.filePath, preprocessing);
+    const processed = sample.normalized
+      ? readNormalizedDigit(sample.filePath, imageSize)
+      : preprocessDigitFile(sample.filePath, preprocessing);
     xsData.set(processed.input, index * pixelsPerImage);
     labelIndexes[index] = sample.labelIndex;
   });
@@ -113,16 +139,37 @@ function tensorFromSamples(tfInstance, samples, preprocessing) {
   return { xs, ys, labelIndexes: Array.from(labelIndexes) };
 }
 
-function createModel(tfInstance, imageSize) {
+function createModel(tfInstance, imageSize, seed = 42, learningRate = 0.001) {
   const model = tfInstance.sequential();
   model.add(tfInstance.layers.flatten({ inputShape: [imageSize, imageSize, 1] }));
-  model.add(tfInstance.layers.dense({ units: 128, activation: "relu" }));
-  model.add(tfInstance.layers.dropout({ rate: 0.25 }));
-  model.add(tfInstance.layers.dense({ units: 64, activation: "relu" }));
-  model.add(tfInstance.layers.dense({ units: LABELS.length, activation: "softmax" }));
+  model.add(
+    tfInstance.layers.dense({
+      name: "dense_Dense1",
+      units: 128,
+      activation: "relu",
+      kernelInitializer: tfInstance.initializers.glorotNormal({ seed })
+    })
+  );
+  model.add(tfInstance.layers.dropout({ rate: 0.25, seed: seed + 1 }));
+  model.add(
+    tfInstance.layers.dense({
+      name: "dense_Dense2",
+      units: 64,
+      activation: "relu",
+      kernelInitializer: tfInstance.initializers.glorotNormal({ seed: seed + 2 })
+    })
+  );
+  model.add(
+    tfInstance.layers.dense({
+      name: "dense_Dense3",
+      units: LABELS.length,
+      activation: "softmax",
+      kernelInitializer: tfInstance.initializers.glorotNormal({ seed: seed + 3 })
+    })
+  );
 
   model.compile({
-    optimizer: tfInstance.train.adam(0.001),
+    optimizer: tfInstance.train.adam(learningRate),
     loss: "categoricalCrossentropy",
     metrics: ["accuracy"]
   });
@@ -220,6 +267,14 @@ function writeTrainingReport(outPath, metrics, matrix) {
 
 async function main() {
   const config = parseArgs(process.argv);
+  if (config.imageSize !== 32)
+    throw new Error("Prepared dataset and extension require image-size=32.");
+  if (!Number.isInteger(config.epochs) || config.epochs < 1 || config.epochs > 20)
+    throw new Error("epochs must be between 1 and 20.");
+  if (!Number.isFinite(config.learningRate) || config.learningRate <= 0)
+    throw new Error("learning-rate must be positive.");
+  if (config.fromModel && config.modelDir === config.fromModel)
+    throw new Error("Candidate output must not overwrite its starting model.");
   const preprocessing = {
     ...DEFAULT_PREPROCESSING,
     imageSize: config.imageSize
@@ -237,16 +292,41 @@ async function main() {
   const validation = tensorFromSamples(tf, splits.validation, preprocessing);
   const test = tensorFromSamples(tf, splits.test, preprocessing);
 
-  const model = createModel(tf, preprocessing.imageSize);
+  const model = createModel(tf, preprocessing.imageSize, config.seed, config.learningRate);
+  let startingModel = null;
+  if (config.fromModel) {
+    if (
+      JSON.stringify(D.readJson(path.join(config.fromModel, "labels.json"))) !==
+      JSON.stringify(LABELS)
+    )
+      throw new Error("Starting model labels differ.");
+    const source = await loadLayersModel(tf, config.fromModel);
+    model.setWeights(source.getWeights());
+    source.dispose();
+    startingModel = {
+      path: D.relative(PROJECT_ROOT, config.fromModel),
+      sha256: D.modelFingerprint(config.fromModel)
+    };
+    console.log(`Fine-tuning ${startingModel.path}; learning-rate=${config.learningRate}`);
+  }
   model.summary();
 
+  let bestValidationLoss = Infinity,
+    bestEpoch = 0,
+    bestWeights = null;
   const history = await model.fit(train.xs, train.ys, {
     epochs: config.epochs,
     batchSize: config.batchSize,
     validationData: [validation.xs, validation.ys],
-    shuffle: true,
+    shuffle: false,
     callbacks: {
       onEpochEnd: async (epoch, logs) => {
+        if (logs.val_loss < bestValidationLoss) {
+          if (bestWeights) bestWeights.forEach((weight) => weight.dispose());
+          bestWeights = model.getWeights().map((weight) => weight.clone());
+          bestValidationLoss = logs.val_loss;
+          bestEpoch = epoch + 1;
+        }
         const acc = logs.acc ?? logs.accuracy ?? 0;
         const valAcc = logs.val_acc ?? logs.val_accuracy ?? 0;
         console.log(
@@ -258,19 +338,21 @@ async function main() {
     }
   });
 
+  if (!bestWeights) throw new Error("Training did not produce a finite validation loss.");
+  model.setWeights(bestWeights);
+  bestWeights.forEach((weight) => weight.dispose());
   const evalResult = model.evaluate(test.xs, test.ys);
   const testLoss = (await evalResult[0].data())[0];
   const testAccuracy = (await evalResult[1].data())[0];
   evalResult.forEach((tensor) => tensor.dispose());
 
-  const predictionTensor = model.predict(test.xs).argMax(-1);
+  const predictionTensor = tf.tidy(() => model.predict(test.xs).argMax(-1));
   const predicted = Array.from(await predictionTensor.data());
   predictionTensor.dispose();
 
   const matrix = computeConfusionMatrix(test.labelIndexes, predicted);
   const last = history.history;
-  const finalValidationAccuracy =
-    (last.val_acc || last.val_accuracy || [0]).slice(-1)[0] ?? 0;
+  const finalValidationAccuracy = (last.val_acc || last.val_accuracy || [0])[bestEpoch - 1] ?? 0;
   const finalTrainAccuracy = (last.acc || last.accuracy || [0]).slice(-1)[0] ?? 0;
 
   const modelDir = config.modelDir;
@@ -298,6 +380,20 @@ async function main() {
     },
     epochs: config.epochs,
     batchSize: config.batchSize,
+    selectedEpoch: bestEpoch,
+    selectedValidationLoss: bestValidationLoss,
+    seed: config.seed,
+    learningRate: config.learningRate,
+    startingModel,
+    history: history.history,
+    splitPolicy:
+      "frozen source-image splits; each collection batch=60/20/20 seed=42; user imports=train",
+    sourceIds: Object.fromEntries(
+      Object.entries(splits).map(([name, items]) => [
+        name,
+        [...new Set(items.map((s) => s.sourceId).filter(Boolean))]
+      ])
+    ),
     finalTrainAccuracy,
     finalValidationAccuracy,
     testLoss,
@@ -322,7 +418,10 @@ async function main() {
   console.log(`Confusion matrix written to ${path.join(trainingDir, "confusion-matrix.csv")}`);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (require.main === module)
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+
+module.exports = { loadSplitSamples, createModel, tensorFromSamples, parseArgs };

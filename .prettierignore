@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+data/
+model/
+models/
+reports/
+backups/
+tmp/
+package-lock.json
+# Persisted collection fingerprints depend on the exact shared source bytes.
+src/preprocess-core.js

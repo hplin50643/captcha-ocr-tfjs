@@ -5,10 +5,23 @@ yarn-error.log*
 pnpm-debug.log*
 
 reports/
+backups/
+data/.prepare-stage/
 tmp/
 *.log
 *.err
 
 .env
+.env.*
+!.env.example
 .DS_Store
 Thumbs.db
+
+# Generated review pages and scratch state (keep labels, approvals and images).
+data/review/index.html
+data/review/pending.json
+data/review/confirmed/
+*.tmp
+coverage/
+.vscode/
+.idea/

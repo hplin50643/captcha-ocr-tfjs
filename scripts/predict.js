@@ -10,8 +10,10 @@ const {
   writeBinaryPng,
   writeNormalizedPng
 } = require("../src/image-utils");
+const { summarizeDigits } = require("../src/preprocess-core");
+const { labelFromFilename, hash } = require("../src/dataset");
 
-const PROJECT_ROOT = path.resolve(__dirname, "..");
+const { ROOT: PROJECT_ROOT } = require("../src/config");
 
 function parseArgs(argv) {
   const out = {
@@ -49,8 +51,7 @@ function relForHtml(fromFile, targetFile) {
 }
 
 function expectedFromFile(filePath) {
-  const name = path.basename(filePath, path.extname(filePath));
-  return /^[1-9]{5}$/.test(name) ? name : "";
+  return labelFromFilename(filePath) || "";
 }
 
 function argMax(values) {
@@ -81,6 +82,9 @@ function writeCsv(outPath, records) {
     "digit_index",
     "digit",
     "confidence",
+    "min_confidence",
+    "needs_review",
+    "segmentation_valid",
     "bbox_x",
     "bbox_y",
     "bbox_width",
@@ -99,6 +103,9 @@ function writeCsv(outPath, records) {
           digit.index,
           digit.label,
           digit.confidence.toFixed(6),
+          record.minConfidence,
+          record.needsReview,
+          record.segmentationQuality.valid,
           digit.bbox.x,
           digit.bbox.y,
           digit.bbox.width,
@@ -136,7 +143,7 @@ function writeHtmlReport(outPath, records, summary) {
   <td><img class="raw" src="${escapeHtml(relForHtml(outPath, record.binarizedPath))}" alt=""></td>
   <td class="prediction">${escapeHtml(record.prediction)}</td>
   <td>${escapeHtml(record.expected || "-")}</td>
-  <td>${correctness}</td>
+  <td>${correctness}<br>${record.needsReview ? "需人工確認" : "符合自動填入門檻"}<br>最低信心 ${(record.minConfidence * 100).toFixed(2)}%</td>
   <td><div class="digits">${digitCells}</div></td>
 </tr>`;
     })
@@ -175,6 +182,7 @@ function writeHtmlReport(outPath, records, summary) {
     <div class="metric">Images<b>${summary.totalImages}</b></div>
     <div class="metric">Labeled images<b>${summary.labeledImages}</b></div>
     <div class="metric">Labeled accuracy<b>${summary.labeledImages ? `${(summary.labeledAccuracy * 100).toFixed(2)}%` : "-"}</b></div>
+    <div class="metric">Needs review<b>${summary.reviewImages}</b></div>
   </div>
   <table>
     <thead>
@@ -221,7 +229,7 @@ async function main() {
   const records = [];
 
   for (const filePath of files) {
-    const base = safeBaseName(filePath);
+    const base = `${safeBaseName(filePath)}__${hash(fs.readFileSync(filePath)).slice(0, 12)}`;
     const segmented = segmentRawImageFile(filePath, preprocessing);
     const binarizedPath = path.join(binarizedDir, `${base}.png`);
     writeBinaryPng(segmented.binary, segmented.width, segmented.height, binarizedPath);
@@ -234,6 +242,7 @@ async function main() {
       prediction: "",
       correct: "",
       segmentMethod: segmented.method,
+      segmentationQuality: segmented.quality,
       digits: []
     };
 
@@ -260,22 +269,34 @@ async function main() {
   const xsData = new Float32Array(segmentEntries.length * pixelsPerImage);
   segmentEntries.forEach((entry, index) => xsData.set(entry.input, index * pixelsPerImage));
 
-  const xs = tf.tensor4d(xsData, [segmentEntries.length, imageSize, imageSize, 1]);
-  const probabilities = await model.predict(xs).array();
-  xs.dispose();
+  let probabilities = [];
+  if (segmentEntries.length) {
+    const xs = tf.tensor4d(xsData, [segmentEntries.length, imageSize, imageSize, 1]);
+    let predictions;
+    try {
+      predictions = model.predict(xs);
+      probabilities = await predictions.array();
+    } finally {
+      xs.dispose();
+      if (predictions) predictions.dispose();
+    }
+  }
 
   probabilities.forEach((probs, index) => {
     const best = argMax(probs);
     const digit = segmentEntries[index].digit;
     digit.label = labels[best.index];
     digit.confidence = best.value;
-    digit.probabilities = Object.fromEntries(labels.map((label, labelIndex) => [label, probs[labelIndex]]));
+    digit.probabilities = Object.fromEntries(
+      labels.map((label, labelIndex) => [label, probs[labelIndex]])
+    );
   });
 
   let labeledImages = 0;
   let labeledCorrect = 0;
   for (const record of records) {
     record.prediction = record.digits.map((digit) => digit.label).join("");
+    Object.assign(record, summarizeDigits(record.digits, record.segmentationQuality));
     if (record.expected) {
       labeledImages++;
       record.correct = record.prediction === record.expected;
@@ -288,6 +309,11 @@ async function main() {
   const summary = {
     generatedAt: new Date().toISOString(),
     totalImages: records.length,
+    reviewImages: records.filter((record) => record.needsReview).length,
+    autoAcceptedImages: records.filter((record) => !record.needsReview).length,
+    autoAcceptedErrors: records.filter(
+      (record) => !record.needsReview && record.expected && !record.correct
+    ).length,
     labeledImages,
     labeledCorrect,
     labeledAccuracy: labeledImages ? labeledCorrect / labeledImages : null,
@@ -314,7 +340,9 @@ async function main() {
   console.log(`Report written to ${htmlPath}`);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (require.main === module)
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+module.exports = { expectedFromFile };

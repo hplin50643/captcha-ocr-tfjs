@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bin binary
+# These bytes are part of persisted model / preprocessing fingerprints.
+src/preprocess-core.js -text
+model/** -text
+models/** -text
+vendor/** -text

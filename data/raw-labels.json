@@ -1,0 +1,2058 @@
+{
+  "d4ee7067c6002babe94ac8774fc1d17a40cd4d01c596554ec579752413d3aac4": {
+    "label": "98836",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.680Z",
+    "originalFilename": "captcha_001.jpg"
+  },
+  "25c63faa210a5365179e1352ada67bd9aaa4cfd524b463693913ddc632f7cbce": {
+    "label": "74295",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.717Z",
+    "originalFilename": "captcha_002.jpg"
+  },
+  "1b206aa8a004cf1e07c92aee13ba53952fe27c2b3ba248cffa267e5acef038d6": {
+    "label": "58575",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.723Z",
+    "originalFilename": "captcha_003.jpg"
+  },
+  "ef003ee988c8b1f2d32433faaebaf5fa88914678f20aa3c270506778a8004b8c": {
+    "label": "86612",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.729Z",
+    "originalFilename": "captcha_004.jpg"
+  },
+  "8f53cdc6dab83cdc6625a28992189b5bc27a16b4e04fcda08f01f199b69aed94": {
+    "label": "18234",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.734Z",
+    "originalFilename": "captcha_005.jpg"
+  },
+  "26be2b9a982c382b2133b2971f8f6cea0a6a884e3bebbd2518a3bb48c58e1998": {
+    "label": "46462",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.739Z",
+    "originalFilename": "captcha_006.jpg"
+  },
+  "9d85564c0e59e31f9e232e268dc0c89dd385367c21667f3a1bf599cf5dffb999": {
+    "label": "85598",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.743Z",
+    "originalFilename": "captcha_007.jpg"
+  },
+  "b36fc02eba9cbcedc9659a66bb51e73315356f7e62cdccdcf9e7d86d7c1b1936": {
+    "label": "69878",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.748Z",
+    "originalFilename": "captcha_008.jpg"
+  },
+  "ada7f8a1a67d11f2d6d2051b9d6845d09eb7496dd3b243c2b0c52af302ac4035": {
+    "label": "45248",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.752Z",
+    "originalFilename": "captcha_009.jpg"
+  },
+  "60a70fa299a0bbb2b709784cd77197425754c0b934630eda0abe71b2e4fc496e": {
+    "label": "29527",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.756Z",
+    "originalFilename": "captcha_010.jpg"
+  },
+  "afc527fbd5de1b7c6b1da0a26c855a4b92c3aa2ebbe2b52f5590a8615c65ca30": {
+    "label": "85997",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.760Z",
+    "originalFilename": "captcha_011.jpg"
+  },
+  "1ae5e09c2529744bd6a6a7dca4180a18a2f18aa460646aee8c35ff43473e0aea": {
+    "label": "69377",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.763Z",
+    "originalFilename": "captcha_012.jpg"
+  },
+  "4f0ff26c57e69d238d339dec7b0ff53caaaf30c05d518665d5483beb936510f2": {
+    "label": "92832",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.766Z",
+    "originalFilename": "captcha_013.jpg"
+  },
+  "a0d52833aedcc2c0af5ac71e9fb0a5874f8e2e693807c3478da510bcb815c766": {
+    "label": "66392",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.769Z",
+    "originalFilename": "captcha_014.jpg"
+  },
+  "6a02187d22971460a99fe93561f86bbefed2b0883209874a82e2983032082b40": {
+    "label": "67154",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.772Z",
+    "originalFilename": "captcha_015.jpg"
+  },
+  "031e8dac939ef1095a573dde1a1257646fbb466c0158525eacc8549c6c198f92": {
+    "label": "89718",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.775Z",
+    "originalFilename": "captcha_016.jpg"
+  },
+  "a2a9b0e125b709c9dc94de90ece94f854ec688100d12a4b27db32d422ecb0202": {
+    "label": "65188",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.779Z",
+    "originalFilename": "captcha_017.jpg"
+  },
+  "209f89aaa9271bbb8644419a8c548318e9568a0b742d84ffd258cd9f515e9fc9": {
+    "label": "49468",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.782Z",
+    "originalFilename": "captcha_018.jpg"
+  },
+  "c1e17a2b6d69f23776559d6c4f592c0cce654a71f4a2fc8a0803235b7e329cb8": {
+    "label": "25837",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.785Z",
+    "originalFilename": "captcha_019.jpg"
+  },
+  "5599ce78e22ac3e0dd4b4a2d840aca9433f219e08423c8b0a31c01be7ecb7a73": {
+    "label": "99217",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.787Z",
+    "originalFilename": "captcha_020.jpg"
+  },
+  "fd5bc9fdaabf830cf3f03710c9a759c641123e7385f774bcfe1db0eb526fe0c9": {
+    "label": "37345",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.790Z",
+    "originalFilename": "captcha_021.jpg"
+  },
+  "1094374574a52ca9836060e9163879b495b6c82a9288f2731ddd21385bee4cfd": {
+    "label": "49866",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.793Z",
+    "originalFilename": "captcha_022.jpg"
+  },
+  "9b59b25636ecdd038fbf95befc60348e42e10826ac9abf3b3cc1f608f2fc8d46": {
+    "label": "25246",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.796Z",
+    "originalFilename": "captcha_023.jpg"
+  },
+  "a21af17f2256f92c7e9145c735d07a7dd03e7099647745cb2cab30128ca69999": {
+    "label": "84934",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.799Z",
+    "originalFilename": "captcha_024.jpg"
+  },
+  "d0f86dfdb7fe44d9f90c3365fcf12a3e882a2b04b95a9d153806b264aa6f810b": {
+    "label": "22261",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.802Z",
+    "originalFilename": "captcha_025.jpg"
+  },
+  "eef880db14a4f201e30dda344b02bf71888320a9c07571076e57aa3f90529f18": {
+    "label": "97541",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.804Z",
+    "originalFilename": "captcha_026.jpg"
+  },
+  "d3b75cff4cbada296d597fe5065b1572444d659dd209698ae74daa4d25ec7a6b": {
+    "label": "72821",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.808Z",
+    "originalFilename": "captcha_027.jpg"
+  },
+  "30eb116efac66ffa6de77a62670c928717aca8e5f9329f7af4dfc31b1a8fc9fa": {
+    "label": "57299",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.810Z",
+    "originalFilename": "captcha_028.jpg"
+  },
+  "1e6ac6def32d7b6b1b35040f5029ca4d6be3970a48c5b318d744d1fed2bfea9e": {
+    "label": "32569",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.814Z",
+    "originalFilename": "captcha_029.jpg"
+  },
+  "fbf8c8e5ef3863a6b086af7d297f41cc67fdcb6a221a617b04252ca37ee273e9": {
+    "label": "79797",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.816Z",
+    "originalFilename": "captcha_030.jpg"
+  },
+  "37b9fb66409cffd7588577f9ef869454b70e1ede152e20e54bf638113770be2d": {
+    "label": "66746",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.819Z",
+    "originalFilename": "captcha_031.jpg"
+  },
+  "f94660364851abd2efa9f9d55b20d6bcf897e2d2e0181b2f1905fd62d8988cca": {
+    "label": "14874",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.822Z",
+    "originalFilename": "captcha_032.jpg"
+  },
+  "624b6cdba833796b35d0bd5f698274a7f8fcdd457be0d91ee21768e22a8389b5": {
+    "label": "88354",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.824Z",
+    "originalFilename": "captcha_033.jpg"
+  },
+  "4ce38ad14898b8afed5c12300d23bbff67cc6c5680de56457ed18963196a7608": {
+    "label": "64623",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.827Z",
+    "originalFilename": "captcha_034.jpg"
+  },
+  "79eab522059ff7b34c0adcffbbaad82332236e615c29b8ba1d349d89231fe135": {
+    "label": "12751",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.830Z",
+    "originalFilename": "captcha_035.jpg"
+  },
+  "3b6957f419f97152e77135e3b4f4f95e1a8afb856512c7adc18beaeb99feaa21": {
+    "label": "77131",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.833Z",
+    "originalFilename": "captcha_036.jpg"
+  },
+  "71ad1d55f9dd851edd173d9fcc3d52c50772c3c10496601305c22610f5915454": {
+    "label": "52419",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.836Z",
+    "originalFilename": "captcha_037.jpg"
+  },
+  "6fa14b0cd3ab64b36ac0cbd8e8d976318cde3bc07af77b156bfeb27afd86d6d6": {
+    "label": "37889",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.840Z",
+    "originalFilename": "captcha_038.jpg"
+  },
+  "8e84303a67b23f88c4a7a205473f7c3a719ed8c41f68741fd4d2096b58e8bc29": {
+    "label": "12269",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.843Z",
+    "originalFilename": "captcha_039.jpg"
+  },
+  "e588bb077e9d47d40507d4b3784b3cdfb8390e14cfe7d3731d50d6999ad00f84": {
+    "label": "59396",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.846Z",
+    "originalFilename": "captcha_040.jpg"
+  },
+  "6b50c1a97d9d6abfb6c1e5a89f890d67810775942c30db078d3996779f6982ab": {
+    "label": "35666",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.849Z",
+    "originalFilename": "captcha_041.jpg"
+  },
+  "e077131b5ed031d7584e6824435449e9c906b1dd4bf9a51e6f7bb20ce5e0075b": {
+    "label": "19945",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.852Z",
+    "originalFilename": "captcha_042.jpg"
+  },
+  "84aea50cd0d20f8b61df19671dfdcbc24187d795c79358721f6b21c7cd9922da": {
+    "label": "48273",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.854Z",
+    "originalFilename": "captcha_043.jpg"
+  },
+  "2542b099abf418299ff5ee4f4d8b3e119ebe6f4ff5bbb392ce6b0ca47338e64d": {
+    "label": "23553",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.857Z",
+    "originalFilename": "captcha_044.jpg"
+  },
+  "d0237e81a6fdc47ad43cc6a54728f8b0449af17bb8ca95cb736c716e6f969e4f": {
+    "label": "61689",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.860Z",
+    "originalFilename": "captcha_045.jpg"
+  },
+  "d4a9db60ae244d38bf0406ea1508110700c7c7ecc1b4f0eac09719256025df6a": {
+    "label": "46169",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.863Z",
+    "originalFilename": "captcha_046.jpg"
+  },
+  "11fb9ca23f703260d5981b14d7254516e9c8009a6b9c655f70691a7848ee227e": {
+    "label": "74297",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.867Z",
+    "originalFilename": "captcha_047.jpg"
+  },
+  "d7295972a279884ecd5657269063d466a3151b3224e0d8510e6333e33ed272d0": {
+    "label": "59576",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.870Z",
+    "originalFilename": "captcha_048.jpg"
+  },
+  "b4e3c4af5dd0bbe11fe3a6cebd889465b92933268ffe25bfa2a79f508d181154": {
+    "label": "34846",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.872Z",
+    "originalFilename": "captcha_049.jpg"
+  },
+  "337407071ab068b9ff8c84de1cdeabd958d09b0e43cb49a82d11045c24f4e922": {
+    "label": "19226",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.875Z",
+    "originalFilename": "captcha_050.jpg"
+  },
+  "83c4a6a09f2b26c5228b47b8c810df3a8980e602fc5dd3e2ec2794edc7a02509": {
+    "label": "57453",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.878Z",
+    "originalFilename": "captcha_051.jpg"
+  },
+  "3e3c390af9f3d9b51da04fa2b12c98ab7a431a7bdfbe8b4deef2adfdb6787aed": {
+    "label": "32733",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.881Z",
+    "originalFilename": "captcha_052.jpg"
+  },
+  "fa50f915d57a723e0179c56c32602ad4f33fcb8b8d6ccedb48eca5943b6ad273": {
+    "label": "17113",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.884Z",
+    "originalFilename": "captcha_053.jpg"
+  },
+  "6a7033b2e7b19cd5a9f18038a2ef6833b71cc2dd3cf4ffa6fe5c92fe503aa4c3": {
+    "label": "45349",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.887Z",
+    "originalFilename": "captcha_054.jpg"
+  },
+  "1d73a55d4020e89928d52e542abbc4b16d2c5502e8833127a23ed2394d53b17d": {
+    "label": "21629",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.889Z",
+    "originalFilename": "captcha_055.jpg"
+  },
+  "defc250f46a43782d64d4644f4e7b072f127ac672704a8562c4f19eabbb1e643": {
+    "label": "95989",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.892Z",
+    "originalFilename": "captcha_056.jpg"
+  },
+  "261b46d8ea1e8c8932b922d961b24516acdd442ff2216b72d735e72cd7ed6fe9": {
+    "label": "43126",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.899Z",
+    "originalFilename": "captcha_057.jpg"
+  },
+  "87cefdb13b1a3709dde61449f10e40f2dfebcaf87bdcc2b09e19a525cc9d1517": {
+    "label": "28496",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.903Z",
+    "originalFilename": "captcha_058.jpg"
+  },
+  "ff191b73f9f2c499a9ca350d09276465f36eb4c73c03b362fc02fc9f3ce23960": {
+    "label": "83776",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.907Z",
+    "originalFilename": "captcha_059.jpg"
+  },
+  "4ddfe866d8d90d97ed162d3339e05082b5cf32d7dacad95ca16e1ab5e57adb53": {
+    "label": "32913",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.910Z",
+    "originalFilename": "captcha_060.jpg"
+  },
+  "e092b442cd2e5cb48e2a8b13322986bba34a75b6275f53ffa477b7c6a34ce596": {
+    "label": "16383",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.913Z",
+    "originalFilename": "captcha_061.jpg"
+  },
+  "4e08dba5ab3205bab9c43c649a9d8145b5b14a844197af76c75a41d49a5db59a": {
+    "label": "54421",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.916Z",
+    "originalFilename": "captcha_062.jpg"
+  },
+  "b707b6a12cafa254b4a8c485552731152a893272115c2fbedcff0c596882a163": {
+    "label": "45372",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.919Z",
+    "originalFilename": "captcha_063.jpg"
+  },
+  "a4d956dabf8e2d2f6f24aa61ab6e8b8545280330ecc06b90a4bbfff0f2fd0986": {
+    "label": "21652",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.921Z",
+    "originalFilename": "captcha_064.jpg"
+  },
+  "ee8170555fbc53a577efe67de404830bd6c85419866ea455f572a64a890d3b0e": {
+    "label": "68889",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.924Z",
+    "originalFilename": "captcha_065.jpg"
+  },
+  "2f46599060dc9ee5ddb821a8239f0c44d19a76b381f44f9c2cd5bb1cd629647e": {
+    "label": "96926",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.927Z",
+    "originalFilename": "captcha_066.jpg"
+  },
+  "bd5a34b8375e394f507f24a72c8f2470db3c435be9af7265b001cc7c5ecbf9a0": {
+    "label": "72386",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.929Z",
+    "originalFilename": "captcha_067.jpg"
+  },
+  "c6f806e1c173efeaa44fafbb1ecfa71cc3785f2c126040787894c0b37a9b0965": {
+    "label": "29524",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.931Z",
+    "originalFilename": "captcha_068.jpg"
+  },
+  "8e25cd7df906b90fb81f8f66a4b05e27f897cadfcbdbc3e6bf5865e369ed2aa5": {
+    "label": "67661",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.934Z",
+    "originalFilename": "captcha_069.jpg"
+  },
+  "82873d8e3ad8665705babb57473abd6482db944dc65d116fade4d1111fed7683": {
+    "label": "58513",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.936Z",
+    "originalFilename": "captcha_070.jpg"
+  },
+  "bd158685ab012c3cd0c468b1ca0fa9af062b8b7d0e3715135331d5a19ea57b48": {
+    "label": "34883",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.939Z",
+    "originalFilename": "captcha_071.jpg"
+  },
+  "4e6530c0c81ddd2b7fc421395a4e42b4420bc08e85e6ccd3fe5334fbdd349637": {
+    "label": "72129",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.942Z",
+    "originalFilename": "captcha_072.jpg"
+  },
+  "0e720ca5bd8662ba0a4460add0a5ead03c25f2a6fc23de4e62caadf12c261bd6": {
+    "label": "19257",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.945Z",
+    "originalFilename": "captcha_073.jpg"
+  },
+  "59f35fdd0b500cb70e967762f1e955482a3b86416f2e8ca9f8fc9330dd86d2e4": {
+    "label": "57485",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.948Z",
+    "originalFilename": "captcha_074.jpg"
+  },
+  "5ffd9fcc4a658a7d0fedb60c1ef80b24be4138b15e03efa85344df2b60b3ee7f": {
+    "label": "33764",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.950Z",
+    "originalFilename": "captcha_075.jpg"
+  },
+  "56ec12d45beabe2117c631b2476e481d7cdfb78176a75f59f1a00415fb1aa22d": {
+    "label": "61892",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.953Z",
+    "originalFilename": "captcha_076.jpg"
+  },
+  "338cd24fe766cdae59a688b1693dbe774953366a7e0f582bd06335bd07e95237": {
+    "label": "62754",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.955Z",
+    "originalFilename": "captcha_077.jpg"
+  },
+  "a609433d29fdb76342299736cac2111fcab23e3ff6448635c9b50c5d061376ca": {
+    "label": "47133",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.958Z",
+    "originalFilename": "captcha_078.jpg"
+  },
+  "e65a6ed99d07d10d54ffc00d1bbddbe04e2777255de7881768318cb87f3b311b": {
+    "label": "68788",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.960Z",
+    "originalFilename": "captcha_079.jpg"
+  },
+  "af656e351617d8467c2f915048360b9f9fed6d8f7b94288491f8dc5d608a99d8": {
+    "label": "59641",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.963Z",
+    "originalFilename": "captcha_080.jpg"
+  },
+  "25a85253d1687107bb4577d7282dcc812f4441646962954466a79c68d1dc2a9c": {
+    "label": "28437",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.966Z",
+    "originalFilename": "captcha_081.jpg"
+  },
+  "a312601f3151d1731db78f8eacd1d971093d6f4a47a6fffe43e7fc2a55ef9336": {
+    "label": "31959",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.968Z",
+    "originalFilename": "captcha_082.jpg"
+  },
+  "00db290b626d04d3bc01d27bd96d74858b45285036b51896b00a79251cd4c3ee": {
+    "label": "78187",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.971Z",
+    "originalFilename": "captcha_083.jpg"
+  },
+  "ffb3e7cb8a2ecc256f5d18024bd4819a38a1049c14b1ae5beabbf216a314ca39": {
+    "label": "44466",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.973Z",
+    "originalFilename": "captcha_084.jpg"
+  },
+  "be60a2e8c2ae0d05b3a4929a35bdbca01fca0f0d2f1da894eb30ffb4b3771fd0": {
+    "label": "28836",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.976Z",
+    "originalFilename": "captcha_085.jpg"
+  },
+  "fe8d070947d90cf50350db8f78874157cd3a5a280c80ed1ee9cd9f0d96667f1f": {
+    "label": "94216",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.979Z",
+    "originalFilename": "captcha_086.jpg"
+  },
+  "ed3dee86c78d1d24a6c4f1fcac554275707ad9f12767b9929715561c95677c43": {
+    "label": "42343",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.982Z",
+    "originalFilename": "captcha_087.jpg"
+  },
+  "8495c0a6501d5cf06f098d803e333c17824237b31536802da3520f69278b9129": {
+    "label": "91241",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.984Z",
+    "originalFilename": "captcha_088.jpg"
+  },
+  "71456a9b5b5d51f99b595d5f0ad95a927e7c31e9df0cd516187fdfca0fb76286": {
+    "label": "55851",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.987Z",
+    "originalFilename": "captcha_089.jpg"
+  },
+  "157f59149c91d8ff70ad3a4a6b42d6c4d5cbdcb99202b9c5726cb194cddfc8b1": {
+    "label": "39239",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.989Z",
+    "originalFilename": "captcha_090.jpg"
+  },
+  "34573e3f3fb7f409dcaa1b803021b0bb69c519fd88ca48593178c2d8b06884a9": {
+    "label": "78367",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.992Z",
+    "originalFilename": "captcha_091.jpg"
+  },
+  "c072524526537da6877bd2e001d23cb8a563a6fb35f09843b81c06dce3842542": {
+    "label": "26595",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.995Z",
+    "originalFilename": "captcha_092.jpg"
+  },
+  "440253477cb3df4f9691e471eaf387b2a972b8d2abe311a531ce085ce4fef35e": {
+    "label": "91874",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:07.999Z",
+    "originalFilename": "captcha_093.jpg"
+  },
+  "4b64350fe1bc9fbc36290606e77f946307b37a851d46e2e2c5591d0c23a186c3": {
+    "label": "39912",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.002Z",
+    "originalFilename": "captcha_094.jpg"
+  },
+  "de08a249f3e09243fd716efaca48ba549225bfe71ed40257f593791580655879": {
+    "label": "14381",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.005Z",
+    "originalFilename": "captcha_095.jpg"
+  },
+  "6b518c3ad9c70678eb22a10c0492ebf25f2e990d4512902cf4c616fba6cb4c4e": {
+    "label": "15243",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.007Z",
+    "originalFilename": "captcha_096.jpg"
+  },
+  "c3e0e43bff0adf1eb7c88f9bc8cb42df2fd5fb8b3cfa7dc81c720c906896f95b": {
+    "label": "37888",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.011Z",
+    "originalFilename": "captcha_097.jpg"
+  },
+  "9b5ee781b8933d7c2ee5cf00b1d92b0e817575bf54fa34855ce1959e304aa4e2": {
+    "label": "28741",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.014Z",
+    "originalFilename": "captcha_098.jpg"
+  },
+  "8202377bdc2f0fd4dc89272509304b76375f2d030335c950b1eb55b4026b1093": {
+    "label": "93129",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.017Z",
+    "originalFilename": "captcha_099.jpg"
+  },
+  "56d8f51a0af6a4b87f828c26f8c5b5450aa8d69fed7424614403768a9c3fffd7": {
+    "label": "25775",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.020Z",
+    "originalFilename": "captcha_100.jpg"
+  },
+  "1907220a1ab7caa09a27e031a0f070c61927be0859371df800581a2b2a74a384": {
+    "label": "65744",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.024Z",
+    "originalFilename": "capture_001_1907220a1ab7.png"
+  },
+  "dba3f8eb921be03c85d7312b6fc44c375de4201340e8f42b69d2b19e8db782a9": {
+    "label": "44425",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.027Z",
+    "originalFilename": "capture_002_dba3f8eb921b.png"
+  },
+  "ad35516dc29477eb9b4b1f107fddb1e10cda771b9148a629072b3de619c6ca49": {
+    "label": "98533",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.030Z",
+    "originalFilename": "capture_003_ad35516dc294.png"
+  },
+  "195fe7e7e759c479592ff47fca658b17885b33eb6553db7e1f5a6fbbbeb5082c": {
+    "label": "62741",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.033Z",
+    "originalFilename": "capture_004_195fe7e7e759.png"
+  },
+  "78764ea23834feb2aedb3177c12c06600855ad0a3f51c42c0c824231d1e33703": {
+    "label": "25959",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.036Z",
+    "originalFilename": "capture_005_78764ea23834.png"
+  },
+  "346beb733717f09cca7975fac4c4e1c0ac2a914b64cea39535b54b6e67930dbf": {
+    "label": "89157",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.038Z",
+    "originalFilename": "capture_006_346beb733717.png"
+  },
+  "53440f0e3fbc3384c8b7e0462e1870fff960b9d5025c18e809fce2599f9fec54": {
+    "label": "59747",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.041Z",
+    "originalFilename": "capture_007_53440f0e3fbc.png"
+  },
+  "ae4703f5500170914dd8b3a9d01737c43d2e1d20f1318069ba1fdf464eae45b4": {
+    "label": "96473",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.044Z",
+    "originalFilename": "capture_008_ae4703f55001.png"
+  },
+  "7f87c01d659d6180731f3010eca481d547b5256e26bbe3c639fd4a7b8d0bd58f": {
+    "label": "61682",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.048Z",
+    "originalFilename": "capture_009_7f87c01d659d.png"
+  },
+  "f145c6c9c46793039bca39be4253b8ed9d917482a638450de1c0b07b1b16cdfc": {
+    "label": "31372",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.051Z",
+    "originalFilename": "capture_010_f145c6c9c467.png"
+  },
+  "8e8f275e946a249d291f8c5f9114fbae16902a8e20af250d2acf3d3de41af27b": {
+    "label": "94479",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.053Z",
+    "originalFilename": "capture_011_8e8f275e946a.png"
+  },
+  "76572ca5c42d75afa5d510de76098622461426ff665f2ec99770f796ede46a6c": {
+    "label": "85831",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.056Z",
+    "originalFilename": "capture_012_76572ca5c42d.png"
+  },
+  "d4b2d43f7d03c502a94a9905a9e3a60c362ccf99d7c9e40cc1ffbcef69157d9f": {
+    "label": "12896",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.059Z",
+    "originalFilename": "capture_013_d4b2d43f7d03.png"
+  },
+  "f874776111cf453b4df35a0ba3c16008e6acf8ca0e8f700152fd098022fa089a": {
+    "label": "75914",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.061Z",
+    "originalFilename": "capture_014_f874776111cf.png"
+  },
+  "9a08a6206c9f6352d14a8825f710bf3dc0f8f21e5590245e52d8265c0b574686": {
+    "label": "82836",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.064Z",
+    "originalFilename": "capture_015_9a08a6206c9f.png"
+  },
+  "af0e57417e0107dfbaeb492223d005bc3dd3b5a38f9257c91432e1fe37e683e0": {
+    "label": "45945",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.067Z",
+    "originalFilename": "capture_016_af0e57417e01.png"
+  },
+  "5f362556a98f6b2d475b47d638f9b5944ff7b3737d9ece7fc2452cea098f9518": {
+    "label": "62911",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.069Z",
+    "originalFilename": "capture_017_5f362556a98f.png"
+  },
+  "95fed95f39a0e13db7901fdde17d982946a6407de7979cce9edd11b3ebc86c4b": {
+    "label": "36228",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.072Z",
+    "originalFilename": "capture_018_95fed95f39a0.png"
+  },
+  "bcbdbded6df06d0c083d165cfaa168b824d4d15a29f263ae23fa748b099decdd": {
+    "label": "26569",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.075Z",
+    "originalFilename": "capture_019_bcbdbded6df0.png"
+  },
+  "b983c6ab9c442baf6e62b736728ce00880ecbfa7fbaf43a1bd6d0ab9e79ee2c5": {
+    "label": "27829",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.077Z",
+    "originalFilename": "capture_020_b983c6ab9c44.png"
+  },
+  "6ced4d2b1306a34c9b66463667ba7a1590d0c76f7516cee05bd01285b3f547f2": {
+    "label": "71127",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.080Z",
+    "originalFilename": "capture_021_6ced4d2b1306.png"
+  },
+  "4b471f947f25c5419b3e1f2bf42be8e03880eb29ac1b90f418459af926f22ea6": {
+    "label": "45235",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.082Z",
+    "originalFilename": "capture_022_4b471f947f25.png"
+  },
+  "00988c3f56b5c1808e2cab815b7da01ed75680fef4d6a3c4efa794dbab1f3834": {
+    "label": "98444",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.085Z",
+    "originalFilename": "capture_023_00988c3f56b5.png"
+  },
+  "a856db039f30e7446d7ac40e14f04a79efd3b7890dddaaadaa919ec5cb3b07dd": {
+    "label": "52552",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.087Z",
+    "originalFilename": "capture_024_a856db039f30.png"
+  },
+  "855535f0e31af28f9f80887816db8f16242ddb0a301097e41b7fc6b8f27c6198": {
+    "label": "26759",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.090Z",
+    "originalFilename": "capture_025_855535f0e31a.png"
+  },
+  "a00f4846a7190058f9ebe605d10b1f85fec510e066b066332e4e2a162bc33ee2": {
+    "label": "16111",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.092Z",
+    "originalFilename": "capture_026_a00f4846a719.png"
+  },
+  "d5399292cef4c53acccad1e9d89e13c3badf9a36c668a592ff9958d11f5a26dd": {
+    "label": "71328",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.095Z",
+    "originalFilename": "capture_027_d5399292cef4.png"
+  },
+  "5f960188a9953849a3f36307b3f32ff8030b0131d3d11f86f3e71c0cebfe81a6": {
+    "label": "34426",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.098Z",
+    "originalFilename": "capture_028_5f960188a995.png"
+  },
+  "c0367fcbb3cc88aa1757101c6e6131261731bd091c8a12349b47f2e431b96145": {
+    "label": "41358",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.101Z",
+    "originalFilename": "capture_029_c0367fcbb3cc.png"
+  },
+  "0c2508996fafe582c98bd93a484deb2bd99393559a29cefdc2965919f98bff2a": {
+    "label": "94567",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.104Z",
+    "originalFilename": "capture_030_0c2508996faf.png"
+  },
+  "78de2693664ada55a7af24fe684e864db4f9133a5320276a679c34d47411c1aa": {
+    "label": "68665",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.107Z",
+    "originalFilename": "capture_031_78de2693664a.png"
+  },
+  "419be65a003401dd7a63e4a98a1ac9e409594925c16c11da43985c98eb7967aa": {
+    "label": "22873",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.110Z",
+    "originalFilename": "capture_032_419be65a0034.png"
+  },
+  "253a421cd85d3f89e2fed71cafe4b6849b865033033cc06921b24b799082f135": {
+    "label": "85982",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.113Z",
+    "originalFilename": "capture_033_253a421cd85d.png"
+  },
+  "2f16b63f9392022aa73495d32a7866b8e566e0c4ef2d727953531aa6695de96d": {
+    "label": "49299",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.116Z",
+    "originalFilename": "capture_034_2f16b63f9392.png"
+  },
+  "fdb9391396f90ff2ca7544f946f31824800cd76acd3431b1d6c5c2756e83a4be": {
+    "label": "28889",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.119Z",
+    "originalFilename": "capture_035_fdb9391396f9.png"
+  },
+  "3ee234e76b8be42e4af1bf18e33df7c2e8479f51ce7e71bd7c8ad244ae51a503": {
+    "label": "73187",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.123Z",
+    "originalFilename": "capture_036_3ee234e76b8b.png"
+  },
+  "4d7a1a794ab539bc11134f92f85a5bbf1cc8424acc019d657c23c9fb102929be": {
+    "label": "73448",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.126Z",
+    "originalFilename": "capture_037_4d7a1a794ab5.png"
+  },
+  "243c8bb8b5b0bf7bd16338bc39cccb7b18af320fea0891214f7ea5ca95dd0411": {
+    "label": "99414",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.129Z",
+    "originalFilename": "capture_038_243c8bb8b5b0.png"
+  },
+  "5c798a5c66e8b1582286f2c91c54604241ece3e1bfc36098769cf592f3d8a948": {
+    "label": "54522",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.132Z",
+    "originalFilename": "capture_039_5c798a5c66e8.png"
+  },
+  "66d8a0ad940a03843a377e5cc1a4c408e0512672f6c232f6298bf79192a1c9bb": {
+    "label": "17721",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.135Z",
+    "originalFilename": "capture_040_66d8a0ad940a.png"
+  },
+  "a515a5be700d23ffc97a9c9f8c414c265287738780fe89b10941960869dfb71b": {
+    "label": "72838",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.138Z",
+    "originalFilename": "capture_041_a515a5be700d.png"
+  },
+  "7d846b99836e6bf46bf2967e938c8a74d9214359a999a28c7101f342ec41ead0": {
+    "label": "88761",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.141Z",
+    "originalFilename": "capture_042_7d846b99836e.png"
+  },
+  "b8fde391d29689958201d035e82ac78dea59988b9d78cf3c480d30c634d6a96b": {
+    "label": "15736",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.144Z",
+    "originalFilename": "capture_043_b8fde391d296.png"
+  },
+  "17fea0371cbc1232ece895cd59d893feddde413f64db8245cb1ae35ea92869a0": {
+    "label": "68935",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.147Z",
+    "originalFilename": "capture_044_17fea0371cbc.png"
+  },
+  "d38ec456c817663c6379095ef0423ef8821de8ffa94a27eb9aff58ac2d9cd579": {
+    "label": "69385",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.150Z",
+    "originalFilename": "capture_045_d38ec456c817.png"
+  },
+  "3ef234a534c23c11947753383ef81d1aba94b994a1c8dcb4132f3421eff6c936": {
+    "label": "23493",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.153Z",
+    "originalFilename": "capture_046_3ef234a534c2.png"
+  },
+  "2dc6eb6807b9cf3a22a556ed7ad204a462c612620ed63736b1e50a809bdfef7c": {
+    "label": "86692",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.155Z",
+    "originalFilename": "capture_047_2dc6eb6807b9.png"
+  },
+  "52ce63fabf34588259b0125b4010a04d608611ea75a17cfb1dff92a4de8ab4b7": {
+    "label": "41719",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.158Z",
+    "originalFilename": "capture_048_52ce63fabf34.png"
+  },
+  "3eb0ad036e925674b3a94c3a773508f620cd544af56335847a6c4388719610be": {
+    "label": "41269",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.161Z",
+    "originalFilename": "capture_049_3eb0ad036e92.png"
+  },
+  "c4c44c9e73388644ebc7eb55745861feb2f60e56ed1b73a27c10e8384b175f3f": {
+    "label": "95367",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.164Z",
+    "originalFilename": "capture_050_c4c44c9e7338.png"
+  },
+  "dc4e6006da08a92e81d8e956f3f8d7829765f4fb3b7152f4bf36af41453f4ecb": {
+    "label": "32861",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.166Z",
+    "originalFilename": "capture_051_dc4e6006da08.png"
+  },
+  "a442da740d311def886d14356d3e3f6f0853fa963bac179f8638022747b5a668": {
+    "label": "59836",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.169Z",
+    "originalFilename": "capture_052_a442da740d31.png"
+  },
+  "ccd4bb8f2a5dc589f7731981c7638dc4ac0c534d725fd276d00ba9842de6af97": {
+    "label": "13934",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.172Z",
+    "originalFilename": "capture_053_ccd4bb8f2a5d.png"
+  },
+  "6e44125ad6ebabd53cc5706d6992cb8946554a9b7f7df42017bba8dda9091699": {
+    "label": "76243",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.174Z",
+    "originalFilename": "capture_054_6e44125ad6eb.png"
+  },
+  "858410f571835b32f5909b1f70bc93f3fb717bc6a6fcea1a2f7fd87c47062c38": {
+    "label": "31451",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.177Z",
+    "originalFilename": "capture_055_858410f57183.png"
+  },
+  "523e7e8591a7ad987e7ab28af427c20fc81163b8b8e954cbeaf98bb4c0dfb432": {
+    "label": "31791",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.179Z",
+    "originalFilename": "capture_056_523e7e8591a7.png"
+  },
+  "198269acae5270f48f845af546e684425d8a50e0b65580f27a5c9d12b8a78a7c": {
+    "label": "85818",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.181Z",
+    "originalFilename": "capture_057_198269acae52.png"
+  },
+  "81ddb4dde8b58f527af973044391620acf7f980b90adceb53c5f87ecfc7400be": {
+    "label": "48127",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.184Z",
+    "originalFilename": "capture_058_81ddb4dde8b5.png"
+  },
+  "d2679a5d42e8bf4dd11c7acb4b4cb0d6f3e3901788349905ce45f36ebeb3841e": {
+    "label": "48467",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.187Z",
+    "originalFilename": "capture_059_d2679a5d42e8.png"
+  },
+  "de6cfbfb9fde450053ca766c23b96a14f671e9b29c9e20e15f5da4788301aa4b": {
+    "label": "28157",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.189Z",
+    "originalFilename": "capture_060_de6cfbfb9fde.png"
+  },
+  "f10b6a7c4921afba9c02d67dfbdf800c749057f3559f9bf94903dcc9771a6229": {
+    "label": "73366",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.192Z",
+    "originalFilename": "capture_061_f10b6a7c4921.png"
+  },
+  "9bac7d5b7419f202ee1d295f17e1f18ba0dacb6bbe3c4b329e2dac8afba39960": {
+    "label": "36474",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.195Z",
+    "originalFilename": "capture_062_9bac7d5b7419.png"
+  },
+  "3fb7932e996dcbe2624e16bd9c9b2b7fab913e41be022db17e04f845f2ba6707": {
+    "label": "63449",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.198Z",
+    "originalFilename": "capture_063_3fb7932e996d.png"
+  },
+  "6eb01a0a9c9cd22b8430fe8693f2c80a24efc4ebc90ee1700f3021b16503e65c": {
+    "label": "54789",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.200Z",
+    "originalFilename": "capture_064_6eb01a0a9c9c.png"
+  },
+  "f5f519d0d0b177d2b155d505dec87b91c81f9c7b03f99ae0e45604930876194f": {
+    "label": "33571",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.204Z",
+    "originalFilename": "capture_065_f5f519d0d0b1.png"
+  },
+  "78fbe8495884f621f1685e66609ea2278f64e2c30f70e32d91a48e8e14b1950c": {
+    "label": "71116",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.206Z",
+    "originalFilename": "capture_066_78fbe8495884.png"
+  },
+  "3d603780b18c9acd0411989e7c88425d8511069990f5dec4043cbc1740a6e6ce": {
+    "label": "87938",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.209Z",
+    "originalFilename": "capture_067_3d603780b18c.png"
+  },
+  "e1f0c16d2b35df7f92cf629cf0b730993282cedfcf2ce99b5272508523ec6eb1": {
+    "label": "35665",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.211Z",
+    "originalFilename": "capture_068_e1f0c16d2b35.png"
+  },
+  "3cf36c5110eaf8b99f273077f4fac4ea61a551b844ecc9a33b851d9480ccfc53": {
+    "label": "89873",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.214Z",
+    "originalFilename": "capture_069_3cf36c5110ea.png"
+  },
+  "6b10f02005b785853e046648f3c8a0c03d4c9782ca262ba19fe88e8bc141ad1c": {
+    "label": "68553",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.217Z",
+    "originalFilename": "capture_070_6b10f02005b7.png"
+  },
+  "e99aae5a3dfbb0992eb4e1649a12f77846ac3f7780f0bd59037c6af48badb77d": {
+    "label": "69813",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.220Z",
+    "originalFilename": "capture_071_e99aae5a3dfb.png"
+  },
+  "af2ae84772d43004f90d1269d52501fd8058ab3343b316c7a78abec1ba356a88": {
+    "label": "23122",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.223Z",
+    "originalFilename": "capture_072_af2ae84772d4.png"
+  },
+  "d6e08124cc43b87ab15724c879b6dfb6a6ae67fe316c8a587d79fbd5210f167e": {
+    "label": "24462",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.226Z",
+    "originalFilename": "capture_073_d6e08124cc43.png"
+  },
+  "b9ac6a9c7602925a539c486d5e039343dbf05587f42eb309c2260b6bd5e91a42": {
+    "label": "41437",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.229Z",
+    "originalFilename": "capture_074_b9ac6a9c7602.png"
+  },
+  "9c383471e3f72ac86a01def17cfbf5a92b1b3c875b28876a3d2d64c276775599": {
+    "label": "94546",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.231Z",
+    "originalFilename": "capture_075_9c383471e3f7.png"
+  },
+  "811c9ef9db4a49e19ff98c907ff3faf9618e342f6e27197878214e9bb0a1f0c1": {
+    "label": "32138",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.234Z",
+    "originalFilename": "capture_076_811c9ef9db4a.png"
+  },
+  "03dc28390d361ca907f0301e7fa68d3b07b602cf17af9dfaa830e7396858e2cd": {
+    "label": "86346",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.237Z",
+    "originalFilename": "capture_077_03dc28390d36.png"
+  },
+  "431e6f796a03cc2c17acad3a966a4840c1c625bd4e3de72ac457493914ab4225": {
+    "label": "33962",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.239Z",
+    "originalFilename": "capture_078_431e6f796a03.png"
+  },
+  "c7d58b28d2943e7ece9688447908d41384ff9aae0070e6b8a7116f235f880082": {
+    "label": "49795",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.241Z",
+    "originalFilename": "capture_079_c7d58b28d294.png"
+  },
+  "1d4657ae2abb89b8af4ddcd039b60426de86cf85bbf71dea7175ed5741341cef": {
+    "label": "14913",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.244Z",
+    "originalFilename": "capture_080_1d4657ae2abb.png"
+  },
+  "59bca2925547fb1458139b15bc566dda3475a646bc6fbd6b038d72691e3e8234": {
+    "label": "67221",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.246Z",
+    "originalFilename": "capture_081_59bca2925547.png"
+  },
+  "9674bc0acde7a16950ac0d048a164d921dfa5a1f6baa829e0b4e77b605448496": {
+    "label": "22329",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.249Z",
+    "originalFilename": "capture_082_9674bc0acde7.png"
+  },
+  "a50b13e3b7058a0fe45f6bf2f94288f77ed0018f077b45f6a8ee897d1417e895": {
+    "label": "85537",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.251Z",
+    "originalFilename": "capture_083_a50b13e3b705.png"
+  },
+  "52242f174d858c12e8445be8f7be8bb041077c04c64e69a53c94589d16858e4b": {
+    "label": "55227",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.253Z",
+    "originalFilename": "capture_084_52242f174d85.png"
+  },
+  "cb048c4b1a0f4b2534103f5a744331aaa0acc0f318048bb45fa87047b7cb6ed8": {
+    "label": "28335",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.256Z",
+    "originalFilename": "capture_085_cb048c4b1a0f.png"
+  },
+  "7ebb31752ef675a6814f184830164b1e5bb80a1d4ec32bfdcfc831bc95586884": {
+    "label": "72534",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.258Z",
+    "originalFilename": "capture_086_7ebb31752ef6.png"
+  },
+  "14d27e37b2c0b03f70b730445404fed7b7097505801190f587ac841ee93731c7": {
+    "label": "46642",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.260Z",
+    "originalFilename": "capture_087_14d27e37b2c0.png"
+  },
+  "a67e3612c40b8da77c9047bcae749a31bd896e5db0114564d467fc3968ae74f6": {
+    "label": "99859",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.263Z",
+    "originalFilename": "capture_088_a67e3612c40b.png"
+  },
+  "4e9771e93e21c44d663c1e581d69ffab11de19e07a85863ac024b5e8d02f3de3": {
+    "label": "53168",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.266Z",
+    "originalFilename": "capture_089_4e9771e93e21.png"
+  },
+  "171bc90404e5ac182817bd148198365cb0fedd2f7ae229fd1622f1eefc5f9dcd": {
+    "label": "27266",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.268Z",
+    "originalFilename": "capture_090_171bc90404e5.png"
+  },
+  "0e7c400b5b1ef9d398552ed22ef877bf5e8992f096532d11897798c16a6a15bc": {
+    "label": "17526",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.270Z",
+    "originalFilename": "capture_091_0e7c400b5b1e.png"
+  },
+  "59c6ee31badd31e64f5c2bf12448c9a6d7418dcb393f1abd55873bffc0fa50f0": {
+    "label": "72734",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.273Z",
+    "originalFilename": "capture_092_59c6ee31badd.png"
+  },
+  "15c5d863e900510953d528a9cc6bcd6a1620b4cce2539b1e0d4efa8e4e020997": {
+    "label": "41425",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.275Z",
+    "originalFilename": "capture_093_15c5d863e900.png"
+  },
+  "6e6befc492bdaaac51c4b188712c2ca36fa556de3236c89acd3dfd3d891912e5": {
+    "label": "15623",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.278Z",
+    "originalFilename": "capture_094_6e6befc492bd.png"
+  },
+  "65220a88211c1c90adbce6e6453b850020f80bd4a71b61e3c8699d04ebfe2cc2": {
+    "label": "68731",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.280Z",
+    "originalFilename": "capture_095_65220a88211c.png"
+  },
+  "7d4bbc5930fb33e44a7aad7897be9c4f87b6391d29b2390534a52e84e9cff804": {
+    "label": "22949",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.283Z",
+    "originalFilename": "capture_096_7d4bbc5930fb.png"
+  },
+  "c67b3d5b920889069f64a788c632e79ffccf793e69bf7ece928b80733239a172": {
+    "label": "23389",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.285Z",
+    "originalFilename": "capture_097_c67b3d5b9208.png"
+  },
+  "4eb13be22db59ef33e0a42e6003816396283707b2cef36f3768e7a75bfe6cc21": {
+    "label": "49355",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.288Z",
+    "originalFilename": "capture_098_4eb13be22db5.png"
+  },
+  "ecd4693479a84de76dd31cd9a151fcc0ab964fbc962e8bd933e665104c099321": {
+    "label": "13463",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.290Z",
+    "originalFilename": "capture_099_ecd4693479a8.png"
+  },
+  "988904cd112ce2a83e1eb919f7732e98191c152e6f285419da3a1cfe946525e4": {
+    "label": "29396",
+    "source": "visual-review",
+    "reviewedAt": "2026-09-12T04:59:08.294Z",
+    "originalFilename": "capture_100_988904cd112c.png"
+  },
+  "3284b265c7d05fb968803146f66d62cd128293177b4753bbc031a1621f32f5c8": {
+    "label": "11231",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.868Z",
+    "originalFilename": "11231.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660": {
+    "label": "12656",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.870Z",
+    "originalFilename": "12656.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "aeb2685ae9d6e20d81060563fcd8ac9cf0ba16945ffdab9249000c4aa9b20152": {
+    "label": "21367",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.871Z",
+    "originalFilename": "21367.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "372e75dfea60ea6dd14e08958e3c5cdbfeba7da246d81ded0ddad52e74d882d5": {
+    "label": "44853",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.871Z",
+    "originalFilename": "44853.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "1e93a4cf7bde296b457d6d6b4e1c1d7c4489a5d9873cd26204d130be1f3a8a86": {
+    "label": "51795",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.872Z",
+    "originalFilename": "51795.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "2463006fdb616458df339b9fe394f33ad190414b92c84b49c6ec44acca53e4c2": {
+    "label": "65774",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.873Z",
+    "originalFilename": "65774.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "020a5d92b593040fbd9339d421908661ab89ab83fd04a1e887b7ad09f7010b2e": {
+    "label": "83752",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.873Z",
+    "originalFilename": "83752.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "aceafb360d2ce6f202bf5aae421c05f4e73346292be524455f4e59713f1d8d0d": {
+    "label": "88758",
+    "source": "user-review",
+    "reviewedAt": "2026-09-12T06:10:15.874Z",
+    "originalFilename": "88758.png",
+    "batchId": "user-captcha-20260912"
+  },
+  "ba2a72f944ffac70072f0f85748d0acaed21b33c7116932a3f4c963c13957496": {
+    "label": "85819",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.089Z",
+    "originalFilename": "hard-20260912_001_ba2a72f944ff.png",
+    "batchId": "hard-20260912"
+  },
+  "cae5d5dc97e932039ffc3cb240ea40dea2ba17a42dafd6be6042c9a2ab97943e": {
+    "label": "82787",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_002_cae5d5dc97e9.png",
+    "batchId": "hard-20260912"
+  },
+  "35e8dd6101e61c8d57cc5679fcb5d57e0bf687787303a12ba417cb9b781b0e11": {
+    "label": "63659",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_003_35e8dd6101e6.png",
+    "batchId": "hard-20260912"
+  },
+  "8961a2d44f9ff191b050e536bb31ddd381f8c794a2c5510f73415d277863b4b8": {
+    "label": "34657",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_004_8961a2d44f9f.png",
+    "batchId": "hard-20260912"
+  },
+  "9e388953c4ec46743a8086c2d081b82ce05d5a0f4704bb30c15812ee008c664a": {
+    "label": "42145",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_005_9e388953c4ec.png",
+    "batchId": "hard-20260912"
+  },
+  "16ff7f54a7f11a13f6134daca4885f2c659e70d44cdf5c0c247318fa0351369f": {
+    "label": "11996",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_006_16ff7f54a7f1.png",
+    "batchId": "hard-20260912"
+  },
+  "c583d5adafab1b54d6f5d5fc9c903a4cd008fc9c87e06900f080cc7f67380dd9": {
+    "label": "93353",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_007_c583d5adafab.png",
+    "batchId": "hard-20260912"
+  },
+  "e78471232e2b32f6dc1011c8f513ad5674b277dbd4fcfe6cbc881c3282b7b1ce": {
+    "label": "59754",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_008_e78471232e2b.png",
+    "batchId": "hard-20260912"
+  },
+  "f90a7c90d9286658b128ea80d4507c55e4580982e8aaec316c0611adaac91591": {
+    "label": "81353",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_009_f90a7c90d928.png",
+    "batchId": "hard-20260912"
+  },
+  "e38fc7a15aeb0c28ba2a126e22b882046f6ad541e968b3ee5c05c542fa95fcc6": {
+    "label": "47754",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_010_e38fc7a15aeb.png",
+    "batchId": "hard-20260912"
+  },
+  "78092194302ed81759a224363c4d3927592bca071349bde5b78e70c45a940fd8": {
+    "label": "59764",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_011_78092194302e.png",
+    "batchId": "hard-20260912"
+  },
+  "c3693cfbae07f546aa5be25af2f20b2e2e5e52f6e4161a6e4155dc8040a09220": {
+    "label": "95255",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_012_c3693cfbae07.png",
+    "batchId": "hard-20260912"
+  },
+  "370a58e310c83d376ced806dc9c19394167bb6555cc6c944f6755638c6f69328": {
+    "label": "41636",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_013_370a58e310c8.png",
+    "batchId": "hard-20260912"
+  },
+  "627c19ddf2c1f87b53a83e98195899fb108cad773b85463e9bbf7d133f94766d": {
+    "label": "59428",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_014_627c19ddf2c1.png",
+    "batchId": "hard-20260912"
+  },
+  "fe42f1138888a9f45a6a8d7979d78f4483549056db65584648027ef50a16a79b": {
+    "label": "42324",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_015_fe42f1138888.png",
+    "batchId": "hard-20260912"
+  },
+  "dc99f5024ee1e35f8bacac0864f2f37b4373ba6e15d56a518939a6605c0298f6": {
+    "label": "11276",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_016_dc99f5024ee1.png",
+    "batchId": "hard-20260912"
+  },
+  "4ec3051adf28ad1855882cd3b9eccd8f0caf9ab3e34eb2bb4228d6c989eee685": {
+    "label": "31185",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_017_4ec3051adf28.png",
+    "batchId": "hard-20260912"
+  },
+  "fd6bb96c7b7b09c28a0f4c78e6fe60c86be1ca40d3432e25ea6d208bac635a95": {
+    "label": "51444",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_018_fd6bb96c7b7b.png",
+    "batchId": "hard-20260912"
+  },
+  "d9fcf15036fbbaca7ce8be94b061b8477314f1f9c624b38ee307fa8fd7322ee6": {
+    "label": "86725",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_019_d9fcf15036fb.png",
+    "batchId": "hard-20260912"
+  },
+  "7f17fe3e53ee0e9f5467d2fc0ebc71fa7c0214f64b5346d2fb06f2bb292bc83c": {
+    "label": "31455",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:14:37.090Z",
+    "originalFilename": "hard-20260912_020_7f17fe3e53ee.png",
+    "batchId": "hard-20260912"
+  },
+  "04f4247ea07b40c5fb57080e46246ba1f7fa2787bba6d697b5322b6e4f9029b9": {
+    "label": "84735",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_021_04f4247ea07b.png",
+    "batchId": "hard-20260912"
+  },
+  "cb1cfcad34d4fa21376a9066b97ffeefd1373c6067f8e25c1709bf48411f567f": {
+    "label": "66458",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_022_cb1cfcad34d4.png",
+    "batchId": "hard-20260912"
+  },
+  "35d53dc941b3d05b4623aa8d9f099a4da17968e6e4502c72756344a00843f102": {
+    "label": "57454",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_023_35d53dc941b3.png",
+    "batchId": "hard-20260912"
+  },
+  "833a5182b81f32b86ca2d6a1592ad21ef45e1d226529dc90f2e1043666998fe4": {
+    "label": "51657",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_024_833a5182b81f.png",
+    "batchId": "hard-20260912"
+  },
+  "fca01472b5453cc2782c4089bd52b957a6c8c8bc2b48a5f211e543e82745d9a4": {
+    "label": "24458",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_025_fca01472b545.png",
+    "batchId": "hard-20260912"
+  },
+  "eaaabcced42c56efdbe71a69e05c32f2aa6b4c3f088e468e984da1b549673882": {
+    "label": "47739",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_026_eaaabcced42c.png",
+    "batchId": "hard-20260912"
+  },
+  "a0b76f1fa8acae712213b1ea00abde6945e39b6f1f5528b1881bb9a5b4084eb8": {
+    "label": "59849",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_027_a0b76f1fa8ac.png",
+    "batchId": "hard-20260912"
+  },
+  "09fb7743954323139f72465e019158eaa68482c70285e6e63f2bf96c8c6cb061": {
+    "label": "82459",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_028_09fb77439543.png",
+    "batchId": "hard-20260912"
+  },
+  "b19427646d94c37ca9a432545af3629fdffb4317ac76a2f275481b561b03c944": {
+    "label": "48851",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_029_b19427646d94.png",
+    "batchId": "hard-20260912"
+  },
+  "bedc38a720950e6a20761eba54e6f898e7f383fb7d7deb36ece9c00562ea6e65": {
+    "label": "99718",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_030_bedc38a72095.png",
+    "batchId": "hard-20260912"
+  },
+  "05aef509b01d2c6bd676a0808b7efda3d1a7d756c2d44de19b3cad941a9feb5a": {
+    "label": "51576",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_031_05aef509b01d.png",
+    "batchId": "hard-20260912"
+  },
+  "ee439159ea8086c66c740b7b6c6dc8e096bcb3fe33e24e73a99c87d6ebc65512": {
+    "label": "64958",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_032_ee439159ea80.png",
+    "batchId": "hard-20260912"
+  },
+  "cc727f682f9bb10e6b9aca742d184fcb47f68ed82357851ca1e514ba0b015944": {
+    "label": "21559",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_033_cc727f682f9b.png",
+    "batchId": "hard-20260912"
+  },
+  "7db45fde7f1b439121a5a9c9708f6405694a0e65974d8c4b4d458c29e552fcfe": {
+    "label": "75739",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_034_7db45fde7f1b.png",
+    "batchId": "hard-20260912"
+  },
+  "15ed9656f8553df5e3d577c3802a8851db01360f29ce6eaecf88a3fdc368172a": {
+    "label": "31561",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_035_15ed9656f855.png",
+    "batchId": "hard-20260912"
+  },
+  "593cfd91740c1dfb09b5908f12b4ba66c2c4e0eb97f8967c6a0c7ce0c1ca21c0": {
+    "label": "51729",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_036_593cfd91740c.png",
+    "batchId": "hard-20260912"
+  },
+  "b22b20c4249d933c009df35bd77ed0e3fcc1efda6fea32f3d9ef30c7249d0404": {
+    "label": "13348",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.840Z",
+    "originalFilename": "hard-20260912_037_b22b20c4249d.png",
+    "batchId": "hard-20260912"
+  },
+  "06b300eec5ab968025a139177852ee375b5165e4646352be0aa3948cf9a44451": {
+    "label": "72759",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z",
+    "originalFilename": "hard-20260912_038_06b300eec5ab.png",
+    "batchId": "hard-20260912"
+  },
+  "f474d2fd4788d0efe89ee6e0fac8596200ca85bc22075b14ccd58a7173710257": {
+    "label": "31486",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z",
+    "originalFilename": "hard-20260912_039_f474d2fd4788.png",
+    "batchId": "hard-20260912"
+  },
+  "f48633f97b60fdf76a218dd7428cddc054269ccdf7467081b158591f77d88537": {
+    "label": "12358",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:20:45.841Z",
+    "originalFilename": "hard-20260912_040_f48633f97b60.png",
+    "batchId": "hard-20260912"
+  },
+  "d49de698b06308ae58ea6abd5bb5664428f782c1ddc2fbc148c052fdf6b579f4": {
+    "label": "57749",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_041_d49de698b063.png",
+    "batchId": "hard-20260912"
+  },
+  "53709a6d57c5163b0d5259c7a63caf4d2e0fa0d9f009c9c9ea46d8fe045fa67a": {
+    "label": "81769",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_042_53709a6d57c5.png",
+    "batchId": "hard-20260912"
+  },
+  "3bf6c144e0ed3888dafd614fe80212640d9c0a0fec29093ff781b87d51a93495": {
+    "label": "41596",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_043_3bf6c144e0ed.png",
+    "batchId": "hard-20260912"
+  },
+  "0a7fffa457cd6c4ded12393dc705531d748d43f0a72726b70860fa0f7ac77d19": {
+    "label": "77459",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_044_0a7fffa457cd.png",
+    "batchId": "hard-20260912"
+  },
+  "c02dfed099bf63341f5eb571727016f97f1e4a27612e578be0c79700405478b1": {
+    "label": "41577",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_045_c02dfed099bf.png",
+    "batchId": "hard-20260912"
+  },
+  "245f67ef7cf7333b7c0f79519bb7629740c568cdc1574bb1b05075d5525f2cab": {
+    "label": "45354",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_046_245f67ef7cf7.png",
+    "batchId": "hard-20260912"
+  },
+  "43c9c17ea7689b9d7f3b05ad625b549b1c3c02e38b367990b8eba5dba5fa24fd": {
+    "label": "57725",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_047_43c9c17ea768.png",
+    "batchId": "hard-20260912"
+  },
+  "210e047dde61662f4d5b7763cc26bb7c41d4e1f5b63a37f40ddf100fb98f5983": {
+    "label": "59597",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_048_210e047dde61.png",
+    "batchId": "hard-20260912"
+  },
+  "73423541d96393078667b4bf4b58a821df185fec37d8d30f04ab6f45bcc14a68": {
+    "label": "42854",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_049_73423541d963.png",
+    "batchId": "hard-20260912"
+  },
+  "36d5dbf473a399c928a116cab8698aa018b77696d117a4b005b9048c2b47f353": {
+    "label": "41293",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_050_36d5dbf473a3.png",
+    "batchId": "hard-20260912"
+  },
+  "61b526980f6104a1d6d14444652cd5ff9ebae02690ff7b9cc57a2316d7eeae28": {
+    "label": "47782",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_051_61b526980f61.png",
+    "batchId": "hard-20260912"
+  },
+  "d0ad061f6ae93cc374461373415fc1c5b8d53771480e87394c4962b55c531f76": {
+    "label": "51274",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_052_d0ad061f6ae9.png",
+    "batchId": "hard-20260912"
+  },
+  "2c5112fcaf7234b2e367995c8caf0f805311b40c197905ac262352cff9691d94": {
+    "label": "58752",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_053_2c5112fcaf72.png",
+    "batchId": "hard-20260912"
+  },
+  "8990ce122dc926b9aa798b4a9614197e13246ae4d6b46a5580cd62759f4a70da": {
+    "label": "79762",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_054_8990ce122dc9.png",
+    "batchId": "hard-20260912"
+  },
+  "3e4ab0d7964abd50de96b9b8dd613d07a0531dba218fb31d9e2c6e78dc587021": {
+    "label": "15253",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_055_3e4ab0d7964a.png",
+    "batchId": "hard-20260912"
+  },
+  "e815b4c82880616d496b02d13838bf577dd1762d1b9519674ca52ce64dbef592": {
+    "label": "59874",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_056_e815b4c82880.png",
+    "batchId": "hard-20260912"
+  },
+  "14db4b6b31cf76bc6f77aa5656af2228366ef716aee3bb7a8e36a20de720039e": {
+    "label": "31539",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_057_14db4b6b31cf.png",
+    "batchId": "hard-20260912"
+  },
+  "bfa4bd24d5366367a0157af635cb19e685f67764182efd439ffed18aef0a4e17": {
+    "label": "64651",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_058_bfa4bd24d536.png",
+    "batchId": "hard-20260912"
+  },
+  "0924ca0dcdfd66ad36926d3d42e4439ae8d64ed937a03e8117ee697de1768a08": {
+    "label": "24753",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_059_0924ca0dcdfd.png",
+    "batchId": "hard-20260912"
+  },
+  "fba36b5fe3c2518571c9bd4c0e22bedfd1379ef94616afbbf05cc452a36e6f31": {
+    "label": "21641",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:23:43.385Z",
+    "originalFilename": "hard-20260912_060_fba36b5fe3c2.png",
+    "batchId": "hard-20260912"
+  },
+  "d9d8380cecd7a23f15683db28e57c4ac0e0bd22a4bb5daa20f24a84cd0efbeed": {
+    "label": "91253",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.843Z",
+    "originalFilename": "hard-20260912_061_d9d8380cecd7.png",
+    "batchId": "hard-20260912"
+  },
+  "f877f1af8ad7f81f963eea218fa3e150c9b8020462a61d8d4b62da9ad52c5bcf": {
+    "label": "59899",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_062_f877f1af8ad7.png",
+    "batchId": "hard-20260912"
+  },
+  "a538820a305356e2533d79e2cefe23a3f7486d64c30dc1a555d9e6a182521682": {
+    "label": "76742",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_063_a538820a3053.png",
+    "batchId": "hard-20260912"
+  },
+  "e1c9d1811b72b87cc23302afbeeb0c7d4c316a481b8d97117768d1c4c0f1d3f7": {
+    "label": "97753",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_064_e1c9d1811b72.png",
+    "batchId": "hard-20260912"
+  },
+  "2089f0dfdb32cf63674b638cb5d87cb9b21814a248d8ae8cf7a5f53f9a866a06": {
+    "label": "19763",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_065_2089f0dfdb32.png",
+    "batchId": "hard-20260912"
+  },
+  "c03687901fc5a149cda77cec4bf732debf1406c7e01a59e65ec6c79ac0e01684": {
+    "label": "88758",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_066_c03687901fc5.png",
+    "batchId": "hard-20260912"
+  },
+  "430c5b46b74d3ce79d55f04502a111ebfd91f4e103a87c841cdd67bae09c6581": {
+    "label": "26251",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_067_430c5b46b74d.png",
+    "batchId": "hard-20260912"
+  },
+  "5980a4575271b44899db9770f0137a0dbb8915b238532dbac7bc0b02aa025513": {
+    "label": "57759",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_068_5980a4575271.png",
+    "batchId": "hard-20260912"
+  },
+  "3f6514bb70d22664ba2342e73ea22f7be97d3a283aa3558e0794b368cfc59c38": {
+    "label": "78769",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_069_3f6514bb70d2.png",
+    "batchId": "hard-20260912"
+  },
+  "4cb37297850c9c3f80b9695b0f14564464b125caedb9af5ac9fb6a9dd081bb87": {
+    "label": "33758",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_070_4cb37297850c.png",
+    "batchId": "hard-20260912"
+  },
+  "d31996f394f6c98d2ef8c1daf7c6212ff553bfcadd1595f82b14bf13746ccbb4": {
+    "label": "11499",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_071_d31996f394f6.png",
+    "batchId": "hard-20260912"
+  },
+  "94223896df6ea57859e107047dd9f925d6ae4f7e39535c209fa4de79f9b787d7": {
+    "label": "51657",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_072_94223896df6e.png",
+    "batchId": "hard-20260912"
+  },
+  "48b4814c6a9d9304038a98643ef16772c87d5a3a61abbc9d6276af86383fa822": {
+    "label": "41279",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_073_48b4814c6a9d.png",
+    "batchId": "hard-20260912"
+  },
+  "a160fb12a49388e4fbe0db38a0d9bdb6fa391a46aacd34a92b392d14c5b75edc": {
+    "label": "95158",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_074_a160fb12a493.png",
+    "batchId": "hard-20260912"
+  },
+  "3701bf8c6c8c68ddeb2a0c065915086919a0fc59ad3e138e2f5860591a0e60a3": {
+    "label": "13357",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_075_3701bf8c6c8c.png",
+    "batchId": "hard-20260912"
+  },
+  "e1265cd0ca7fd946cc0424ae2c790288e76603d718746e7438cc8574fedbbd21": {
+    "label": "17745",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_076_e1265cd0ca7f.png",
+    "batchId": "hard-20260912"
+  },
+  "b829aa1f5b48e4ef1271678813ece52971181c340e45c029b5384873bf8dbf37": {
+    "label": "78358",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_077_b829aa1f5b48.png",
+    "batchId": "hard-20260912"
+  },
+  "485a9c1af12e63e7db66e1fe14a308c6cc88688270252a2cfcf7d141f3cb4eaa": {
+    "label": "31877",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:28:56.844Z",
+    "originalFilename": "hard-20260912_078_485a9c1af12e.png",
+    "batchId": "hard-20260912"
+  },
+  "33190b8d4e260ec5cb4900127c5a9ab73b6ff24e9ed14cb1d46df9af704c085b": {
+    "label": "51876",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z",
+    "originalFilename": "hard-20260912_079_33190b8d4e26.png",
+    "batchId": "hard-20260912"
+  },
+  "1c79a62878f74e20aa8c9912bc7a128b57fa0fe88c75b9e2a5544a573c886df7": {
+    "label": "59896",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z",
+    "originalFilename": "hard-20260912_080_1c79a62878f7.png",
+    "batchId": "hard-20260912"
+  },
+  "41c808bcb9ab7af6bd9acdf964d23e32265319fa48261237afbec15556f5b78f": {
+    "label": "62257",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:29:57.521Z",
+    "originalFilename": "hard-20260912_081_41c808bcb9ab.png",
+    "batchId": "hard-20260912"
+  },
+  "00356ff5b9e9c05d5ec403724e37b177c679ee6f8ff77c8ccc0bbedfeaf53789": {
+    "label": "49779",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.644Z",
+    "originalFilename": "hard-20260912_082_00356ff5b9e9.png",
+    "batchId": "hard-20260912"
+  },
+  "26a9123c3c9a9f620ee01f386a135097980b8015b82eeb68266cc71f5bd00adf": {
+    "label": "43716",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z",
+    "originalFilename": "hard-20260912_083_26a9123c3c9a.png",
+    "batchId": "hard-20260912"
+  },
+  "f9a177b47dbb56ccc49820250af64d134d9de1daea20067deccbc9cc842c92ea": {
+    "label": "81658",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z",
+    "originalFilename": "hard-20260912_084_f9a177b47dbb.png",
+    "batchId": "hard-20260912"
+  },
+  "ed9308d880245acb2d98d79a20eee07c2dfb7d304f268b824a5b92f609a858b9": {
+    "label": "16785",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z",
+    "originalFilename": "hard-20260912_085_ed9308d88024.png",
+    "batchId": "hard-20260912"
+  },
+  "c34a160e9aa45c6974efdfa29c5e03942c23ed4cf63fc0437fe9b5ed185cf9f9": {
+    "label": "31156",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:31:33.645Z",
+    "originalFilename": "hard-20260912_086_c34a160e9aa4.png",
+    "batchId": "hard-20260912"
+  },
+  "a26e2ae844e98c7f8f6c2d7f1dbf0ab12a81d62608ee2bd13334c66ce2658633": {
+    "label": "51165",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.431Z",
+    "originalFilename": "hard-20260912_087_a26e2ae844e9.png",
+    "batchId": "hard-20260912"
+  },
+  "770dd49612eeee063624d6ab5228659e8ff2362434b16b85988c90d4de4be790": {
+    "label": "11439",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z",
+    "originalFilename": "hard-20260912_088_770dd49612ee.png",
+    "batchId": "hard-20260912"
+  },
+  "a3bec561a0804a6ab674fd8ed3fa65cf114303c337fc5c3ebdaccb3921faa5f7": {
+    "label": "41848",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z",
+    "originalFilename": "hard-20260912_089_a3bec561a080.png",
+    "batchId": "hard-20260912"
+  },
+  "f373ef1ba8fa06ff4ddb039ccfdf963e5ab66316a89563d97a2b728d1f5a34b5": {
+    "label": "37726",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z",
+    "originalFilename": "hard-20260912_090_f373ef1ba8fa.png",
+    "batchId": "hard-20260912"
+  },
+  "bc8437bbd40f3d66c9fec63c94874d76e477c2dc840d1b466f9179b3d819c75e": {
+    "label": "59958",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:33:08.432Z",
+    "originalFilename": "hard-20260912_091_bc8437bbd40f.png",
+    "batchId": "hard-20260912"
+  },
+  "dc4e2526b50f21a7987fd2e6bbd0dc1dc4e06a63184af6b412c1d0834dff9133": {
+    "label": "11726",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.780Z",
+    "originalFilename": "hard-20260912_092_dc4e2526b50f.png",
+    "batchId": "hard-20260912"
+  },
+  "a852dd4a4fa684f86244c113d63afbb258dd1550b05e0ac2362202aa4c7727c5": {
+    "label": "66456",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z",
+    "originalFilename": "hard-20260912_093_a852dd4a4fa6.png",
+    "batchId": "hard-20260912"
+  },
+  "78a1d7b7954cffe5dab83189aafcf4c838f114b3c523798aca6e95a9c63900b4": {
+    "label": "51685",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z",
+    "originalFilename": "hard-20260912_094_78a1d7b7954c.png",
+    "batchId": "hard-20260912"
+  },
+  "1c99b3c57e2fb10e81b624ca7cd0ddd5d78c8d05608e2b783050a50805a18b51": {
+    "label": "75737",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z",
+    "originalFilename": "hard-20260912_095_1c99b3c57e2f.png",
+    "batchId": "hard-20260912"
+  },
+  "0cd123a12274cd7b609016b01332b42068ba0294e3e5336f0e20efc2a2f6d3c4": {
+    "label": "41127",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z",
+    "originalFilename": "hard-20260912_096_0cd123a12274.png",
+    "batchId": "hard-20260912"
+  },
+  "34ddad423e1b377f0b4f5b57b3af3de81fbeb36dabf975e46a064fd20a79fa91": {
+    "label": "31238",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:35:37.781Z",
+    "originalFilename": "hard-20260912_097_34ddad423e1b.png",
+    "batchId": "hard-20260912"
+  },
+  "83e1c2a3da06286210be225a7d920ade605f0c4bc01e661a11123d7b3678e880": {
+    "label": "59247",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.268Z",
+    "originalFilename": "hard-20260912_098_83e1c2a3da06.png",
+    "batchId": "hard-20260912"
+  },
+  "27e909c38c039ab664078b98974df30c56eea9e2e3827b44faed474738da0cb5": {
+    "label": "52368",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z",
+    "originalFilename": "hard-20260912_099_27e909c38c03.png",
+    "batchId": "hard-20260912"
+  },
+  "7babba701c1c526d99df02d744b55a5ee9b5031db1f2a8c45663776b085495cb": {
+    "label": "37258",
+    "source": "visual-review",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:37:02.269Z",
+    "originalFilename": "hard-20260912_100_7babba701c1c.png",
+    "batchId": "hard-20260912"
+  }
+}

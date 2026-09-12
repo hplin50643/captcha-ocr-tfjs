@@ -1,7 +1,7 @@
 const path = require("path");
 const { solveCaptchaFile } = require("../src/ocr");
 
-const PROJECT_ROOT = path.resolve(__dirname, "..");
+const { ROOT: PROJECT_ROOT } = require("../src/config");
 
 function parseArgs(argv) {
   const out = {

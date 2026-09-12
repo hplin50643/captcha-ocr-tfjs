@@ -33,7 +33,7 @@
                 "scale": 1,
                 "mode": "fan_avg",
                 "distribution": "normal",
-                "seed": null
+                "seed": 42
               }
             },
             "bias_initializer": {
@@ -54,7 +54,7 @@
           "config": {
             "rate": 0.25,
             "noise_shape": null,
-            "seed": null,
+            "seed": 43,
             "name": "dropout_Dropout1",
             "trainable": true
           }
@@ -71,7 +71,7 @@
                 "scale": 1,
                 "mode": "fan_avg",
                 "distribution": "normal",
-                "seed": null
+                "seed": 44
               }
             },
             "bias_initializer": {
@@ -99,7 +99,7 @@
                 "scale": 1,
                 "mode": "fan_avg",
                 "distribution": "normal",
-                "seed": null
+                "seed": 45
               }
             },
             "bias_initializer": {

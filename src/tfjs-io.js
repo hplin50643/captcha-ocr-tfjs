@@ -72,4 +72,3 @@ async function loadLayersModel(tf, modelDir) {
 }
 
 module.exports = { loadLayersModel, saveLayersModel };
-

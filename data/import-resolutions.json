@@ -1,0 +1,8 @@
+{
+  "1915fe03461b2ae7f2bcf969d7672340696dd2b58a6ff7f5b6a8091cabbe1660": {
+    "label": "12656",
+    "reason": "Independent visual inspection reads 12656. 51189.png and 12656.png have identical bytes; keep one original with the visible answer.",
+    "reviewer": "assistant-visual",
+    "reviewedAt": "2026-09-12T06:10:15.729Z"
+  }
+}

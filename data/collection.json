@@ -1,0 +1,812 @@
+{
+  "version": 1,
+  "batchId": "2026-09-12T04-51-23-663Z",
+  "origin": "https://admis.nhri.edu.tw",
+  "target": 100,
+  "entries": [
+    {
+      "sha256": "1907220a1ab7caa09a27e031a0f070c61927be0859371df800581a2b2a74a384",
+      "originalFilename": "capture_001_1907220a1ab7.png",
+      "path": "data/review/raw/capture_001_1907220a1ab7.png",
+      "collectedAt": "2026-09-12T04:51:25.858Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "dba3f8eb921be03c85d7312b6fc44c375de4201340e8f42b69d2b19e8db782a9",
+      "originalFilename": "capture_002_dba3f8eb921b.png",
+      "path": "data/review/raw/capture_002_dba3f8eb921b.png",
+      "collectedAt": "2026-09-12T04:51:27.909Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "ad35516dc29477eb9b4b1f107fddb1e10cda771b9148a629072b3de619c6ca49",
+      "originalFilename": "capture_003_ad35516dc294.png",
+      "path": "data/review/raw/capture_003_ad35516dc294.png",
+      "collectedAt": "2026-09-12T04:51:29.962Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "195fe7e7e759c479592ff47fca658b17885b33eb6553db7e1f5a6fbbbeb5082c",
+      "originalFilename": "capture_004_195fe7e7e759.png",
+      "path": "data/review/raw/capture_004_195fe7e7e759.png",
+      "collectedAt": "2026-09-12T04:51:32.004Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "78764ea23834feb2aedb3177c12c06600855ad0a3f51c42c0c824231d1e33703",
+      "originalFilename": "capture_005_78764ea23834.png",
+      "path": "data/review/raw/capture_005_78764ea23834.png",
+      "collectedAt": "2026-09-12T04:51:34.055Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "346beb733717f09cca7975fac4c4e1c0ac2a914b64cea39535b54b6e67930dbf",
+      "originalFilename": "capture_006_346beb733717.png",
+      "path": "data/review/raw/capture_006_346beb733717.png",
+      "collectedAt": "2026-09-12T04:51:36.105Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "53440f0e3fbc3384c8b7e0462e1870fff960b9d5025c18e809fce2599f9fec54",
+      "originalFilename": "capture_007_53440f0e3fbc.png",
+      "path": "data/review/raw/capture_007_53440f0e3fbc.png",
+      "collectedAt": "2026-09-12T04:51:38.162Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "ae4703f5500170914dd8b3a9d01737c43d2e1d20f1318069ba1fdf464eae45b4",
+      "originalFilename": "capture_008_ae4703f55001.png",
+      "path": "data/review/raw/capture_008_ae4703f55001.png",
+      "collectedAt": "2026-09-12T04:51:40.195Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "7f87c01d659d6180731f3010eca481d547b5256e26bbe3c639fd4a7b8d0bd58f",
+      "originalFilename": "capture_009_7f87c01d659d.png",
+      "path": "data/review/raw/capture_009_7f87c01d659d.png",
+      "collectedAt": "2026-09-12T04:51:42.256Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "f145c6c9c46793039bca39be4253b8ed9d917482a638450de1c0b07b1b16cdfc",
+      "originalFilename": "capture_010_f145c6c9c467.png",
+      "path": "data/review/raw/capture_010_f145c6c9c467.png",
+      "collectedAt": "2026-09-12T04:51:44.302Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "8e8f275e946a249d291f8c5f9114fbae16902a8e20af250d2acf3d3de41af27b",
+      "originalFilename": "capture_011_8e8f275e946a.png",
+      "path": "data/review/raw/capture_011_8e8f275e946a.png",
+      "collectedAt": "2026-09-12T04:51:46.342Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "76572ca5c42d75afa5d510de76098622461426ff665f2ec99770f796ede46a6c",
+      "originalFilename": "capture_012_76572ca5c42d.png",
+      "path": "data/review/raw/capture_012_76572ca5c42d.png",
+      "collectedAt": "2026-09-12T04:51:48.390Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "d4b2d43f7d03c502a94a9905a9e3a60c362ccf99d7c9e40cc1ffbcef69157d9f",
+      "originalFilename": "capture_013_d4b2d43f7d03.png",
+      "path": "data/review/raw/capture_013_d4b2d43f7d03.png",
+      "collectedAt": "2026-09-12T04:51:50.437Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "f874776111cf453b4df35a0ba3c16008e6acf8ca0e8f700152fd098022fa089a",
+      "originalFilename": "capture_014_f874776111cf.png",
+      "path": "data/review/raw/capture_014_f874776111cf.png",
+      "collectedAt": "2026-09-12T04:51:52.489Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "9a08a6206c9f6352d14a8825f710bf3dc0f8f21e5590245e52d8265c0b574686",
+      "originalFilename": "capture_015_9a08a6206c9f.png",
+      "path": "data/review/raw/capture_015_9a08a6206c9f.png",
+      "collectedAt": "2026-09-12T04:51:54.538Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "af0e57417e0107dfbaeb492223d005bc3dd3b5a38f9257c91432e1fe37e683e0",
+      "originalFilename": "capture_016_af0e57417e01.png",
+      "path": "data/review/raw/capture_016_af0e57417e01.png",
+      "collectedAt": "2026-09-12T04:51:56.597Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "5f362556a98f6b2d475b47d638f9b5944ff7b3737d9ece7fc2452cea098f9518",
+      "originalFilename": "capture_017_5f362556a98f.png",
+      "path": "data/review/raw/capture_017_5f362556a98f.png",
+      "collectedAt": "2026-09-12T04:51:58.645Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "95fed95f39a0e13db7901fdde17d982946a6407de7979cce9edd11b3ebc86c4b",
+      "originalFilename": "capture_018_95fed95f39a0.png",
+      "path": "data/review/raw/capture_018_95fed95f39a0.png",
+      "collectedAt": "2026-09-12T04:52:00.700Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "bcbdbded6df06d0c083d165cfaa168b824d4d15a29f263ae23fa748b099decdd",
+      "originalFilename": "capture_019_bcbdbded6df0.png",
+      "path": "data/review/raw/capture_019_bcbdbded6df0.png",
+      "collectedAt": "2026-09-12T04:52:02.725Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "b983c6ab9c442baf6e62b736728ce00880ecbfa7fbaf43a1bd6d0ab9e79ee2c5",
+      "originalFilename": "capture_020_b983c6ab9c44.png",
+      "path": "data/review/raw/capture_020_b983c6ab9c44.png",
+      "collectedAt": "2026-09-12T04:52:04.753Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "6ced4d2b1306a34c9b66463667ba7a1590d0c76f7516cee05bd01285b3f547f2",
+      "originalFilename": "capture_021_6ced4d2b1306.png",
+      "path": "data/review/raw/capture_021_6ced4d2b1306.png",
+      "collectedAt": "2026-09-12T04:52:06.797Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "4b471f947f25c5419b3e1f2bf42be8e03880eb29ac1b90f418459af926f22ea6",
+      "originalFilename": "capture_022_4b471f947f25.png",
+      "path": "data/review/raw/capture_022_4b471f947f25.png",
+      "collectedAt": "2026-09-12T04:52:08.843Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "00988c3f56b5c1808e2cab815b7da01ed75680fef4d6a3c4efa794dbab1f3834",
+      "originalFilename": "capture_023_00988c3f56b5.png",
+      "path": "data/review/raw/capture_023_00988c3f56b5.png",
+      "collectedAt": "2026-09-12T04:52:10.891Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "a856db039f30e7446d7ac40e14f04a79efd3b7890dddaaadaa919ec5cb3b07dd",
+      "originalFilename": "capture_024_a856db039f30.png",
+      "path": "data/review/raw/capture_024_a856db039f30.png",
+      "collectedAt": "2026-09-12T04:52:12.944Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "855535f0e31af28f9f80887816db8f16242ddb0a301097e41b7fc6b8f27c6198",
+      "originalFilename": "capture_025_855535f0e31a.png",
+      "path": "data/review/raw/capture_025_855535f0e31a.png",
+      "collectedAt": "2026-09-12T04:52:14.986Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "a00f4846a7190058f9ebe605d10b1f85fec510e066b066332e4e2a162bc33ee2",
+      "originalFilename": "capture_026_a00f4846a719.png",
+      "path": "data/review/raw/capture_026_a00f4846a719.png",
+      "collectedAt": "2026-09-12T04:52:17.020Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "d5399292cef4c53acccad1e9d89e13c3badf9a36c668a592ff9958d11f5a26dd",
+      "originalFilename": "capture_027_d5399292cef4.png",
+      "path": "data/review/raw/capture_027_d5399292cef4.png",
+      "collectedAt": "2026-09-12T04:52:19.072Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "5f960188a9953849a3f36307b3f32ff8030b0131d3d11f86f3e71c0cebfe81a6",
+      "originalFilename": "capture_028_5f960188a995.png",
+      "path": "data/review/raw/capture_028_5f960188a995.png",
+      "collectedAt": "2026-09-12T04:52:21.118Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "c0367fcbb3cc88aa1757101c6e6131261731bd091c8a12349b47f2e431b96145",
+      "originalFilename": "capture_029_c0367fcbb3cc.png",
+      "path": "data/review/raw/capture_029_c0367fcbb3cc.png",
+      "collectedAt": "2026-09-12T04:52:23.161Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "0c2508996fafe582c98bd93a484deb2bd99393559a29cefdc2965919f98bff2a",
+      "originalFilename": "capture_030_0c2508996faf.png",
+      "path": "data/review/raw/capture_030_0c2508996faf.png",
+      "collectedAt": "2026-09-12T04:52:25.205Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "78de2693664ada55a7af24fe684e864db4f9133a5320276a679c34d47411c1aa",
+      "originalFilename": "capture_031_78de2693664a.png",
+      "path": "data/review/raw/capture_031_78de2693664a.png",
+      "collectedAt": "2026-09-12T04:52:27.264Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "419be65a003401dd7a63e4a98a1ac9e409594925c16c11da43985c98eb7967aa",
+      "originalFilename": "capture_032_419be65a0034.png",
+      "path": "data/review/raw/capture_032_419be65a0034.png",
+      "collectedAt": "2026-09-12T04:52:29.306Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "253a421cd85d3f89e2fed71cafe4b6849b865033033cc06921b24b799082f135",
+      "originalFilename": "capture_033_253a421cd85d.png",
+      "path": "data/review/raw/capture_033_253a421cd85d.png",
+      "collectedAt": "2026-09-12T04:52:31.354Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "2f16b63f9392022aa73495d32a7866b8e566e0c4ef2d727953531aa6695de96d",
+      "originalFilename": "capture_034_2f16b63f9392.png",
+      "path": "data/review/raw/capture_034_2f16b63f9392.png",
+      "collectedAt": "2026-09-12T04:52:33.408Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "fdb9391396f90ff2ca7544f946f31824800cd76acd3431b1d6c5c2756e83a4be",
+      "originalFilename": "capture_035_fdb9391396f9.png",
+      "path": "data/review/raw/capture_035_fdb9391396f9.png",
+      "collectedAt": "2026-09-12T04:52:35.460Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "3ee234e76b8be42e4af1bf18e33df7c2e8479f51ce7e71bd7c8ad244ae51a503",
+      "originalFilename": "capture_036_3ee234e76b8b.png",
+      "path": "data/review/raw/capture_036_3ee234e76b8b.png",
+      "collectedAt": "2026-09-12T04:52:37.495Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "4d7a1a794ab539bc11134f92f85a5bbf1cc8424acc019d657c23c9fb102929be",
+      "originalFilename": "capture_037_4d7a1a794ab5.png",
+      "path": "data/review/raw/capture_037_4d7a1a794ab5.png",
+      "collectedAt": "2026-09-12T04:52:39.536Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "243c8bb8b5b0bf7bd16338bc39cccb7b18af320fea0891214f7ea5ca95dd0411",
+      "originalFilename": "capture_038_243c8bb8b5b0.png",
+      "path": "data/review/raw/capture_038_243c8bb8b5b0.png",
+      "collectedAt": "2026-09-12T04:52:41.597Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "5c798a5c66e8b1582286f2c91c54604241ece3e1bfc36098769cf592f3d8a948",
+      "originalFilename": "capture_039_5c798a5c66e8.png",
+      "path": "data/review/raw/capture_039_5c798a5c66e8.png",
+      "collectedAt": "2026-09-12T04:52:43.644Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "66d8a0ad940a03843a377e5cc1a4c408e0512672f6c232f6298bf79192a1c9bb",
+      "originalFilename": "capture_040_66d8a0ad940a.png",
+      "path": "data/review/raw/capture_040_66d8a0ad940a.png",
+      "collectedAt": "2026-09-12T04:52:45.689Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "a515a5be700d23ffc97a9c9f8c414c265287738780fe89b10941960869dfb71b",
+      "originalFilename": "capture_041_a515a5be700d.png",
+      "path": "data/review/raw/capture_041_a515a5be700d.png",
+      "collectedAt": "2026-09-12T04:52:47.746Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "7d846b99836e6bf46bf2967e938c8a74d9214359a999a28c7101f342ec41ead0",
+      "originalFilename": "capture_042_7d846b99836e.png",
+      "path": "data/review/raw/capture_042_7d846b99836e.png",
+      "collectedAt": "2026-09-12T04:52:49.789Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "b8fde391d29689958201d035e82ac78dea59988b9d78cf3c480d30c634d6a96b",
+      "originalFilename": "capture_043_b8fde391d296.png",
+      "path": "data/review/raw/capture_043_b8fde391d296.png",
+      "collectedAt": "2026-09-12T04:52:51.838Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "17fea0371cbc1232ece895cd59d893feddde413f64db8245cb1ae35ea92869a0",
+      "originalFilename": "capture_044_17fea0371cbc.png",
+      "path": "data/review/raw/capture_044_17fea0371cbc.png",
+      "collectedAt": "2026-09-12T04:52:53.888Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "d38ec456c817663c6379095ef0423ef8821de8ffa94a27eb9aff58ac2d9cd579",
+      "originalFilename": "capture_045_d38ec456c817.png",
+      "path": "data/review/raw/capture_045_d38ec456c817.png",
+      "collectedAt": "2026-09-12T04:52:55.942Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "3ef234a534c23c11947753383ef81d1aba94b994a1c8dcb4132f3421eff6c936",
+      "originalFilename": "capture_046_3ef234a534c2.png",
+      "path": "data/review/raw/capture_046_3ef234a534c2.png",
+      "collectedAt": "2026-09-12T04:52:57.978Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "2dc6eb6807b9cf3a22a556ed7ad204a462c612620ed63736b1e50a809bdfef7c",
+      "originalFilename": "capture_047_2dc6eb6807b9.png",
+      "path": "data/review/raw/capture_047_2dc6eb6807b9.png",
+      "collectedAt": "2026-09-12T04:53:00.022Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "52ce63fabf34588259b0125b4010a04d608611ea75a17cfb1dff92a4de8ab4b7",
+      "originalFilename": "capture_048_52ce63fabf34.png",
+      "path": "data/review/raw/capture_048_52ce63fabf34.png",
+      "collectedAt": "2026-09-12T04:53:02.067Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "3eb0ad036e925674b3a94c3a773508f620cd544af56335847a6c4388719610be",
+      "originalFilename": "capture_049_3eb0ad036e92.png",
+      "path": "data/review/raw/capture_049_3eb0ad036e92.png",
+      "collectedAt": "2026-09-12T04:53:04.098Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "c4c44c9e73388644ebc7eb55745861feb2f60e56ed1b73a27c10e8384b175f3f",
+      "originalFilename": "capture_050_c4c44c9e7338.png",
+      "path": "data/review/raw/capture_050_c4c44c9e7338.png",
+      "collectedAt": "2026-09-12T04:53:06.141Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "dc4e6006da08a92e81d8e956f3f8d7829765f4fb3b7152f4bf36af41453f4ecb",
+      "originalFilename": "capture_051_dc4e6006da08.png",
+      "path": "data/review/raw/capture_051_dc4e6006da08.png",
+      "collectedAt": "2026-09-12T04:53:08.172Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "a442da740d311def886d14356d3e3f6f0853fa963bac179f8638022747b5a668",
+      "originalFilename": "capture_052_a442da740d31.png",
+      "path": "data/review/raw/capture_052_a442da740d31.png",
+      "collectedAt": "2026-09-12T04:53:10.222Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "ccd4bb8f2a5dc589f7731981c7638dc4ac0c534d725fd276d00ba9842de6af97",
+      "originalFilename": "capture_053_ccd4bb8f2a5d.png",
+      "path": "data/review/raw/capture_053_ccd4bb8f2a5d.png",
+      "collectedAt": "2026-09-12T04:53:12.267Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "6e44125ad6ebabd53cc5706d6992cb8946554a9b7f7df42017bba8dda9091699",
+      "originalFilename": "capture_054_6e44125ad6eb.png",
+      "path": "data/review/raw/capture_054_6e44125ad6eb.png",
+      "collectedAt": "2026-09-12T04:53:14.312Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "858410f571835b32f5909b1f70bc93f3fb717bc6a6fcea1a2f7fd87c47062c38",
+      "originalFilename": "capture_055_858410f57183.png",
+      "path": "data/review/raw/capture_055_858410f57183.png",
+      "collectedAt": "2026-09-12T04:53:16.353Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "523e7e8591a7ad987e7ab28af427c20fc81163b8b8e954cbeaf98bb4c0dfb432",
+      "originalFilename": "capture_056_523e7e8591a7.png",
+      "path": "data/review/raw/capture_056_523e7e8591a7.png",
+      "collectedAt": "2026-09-12T04:53:18.395Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "198269acae5270f48f845af546e684425d8a50e0b65580f27a5c9d12b8a78a7c",
+      "originalFilename": "capture_057_198269acae52.png",
+      "path": "data/review/raw/capture_057_198269acae52.png",
+      "collectedAt": "2026-09-12T04:53:20.439Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "81ddb4dde8b58f527af973044391620acf7f980b90adceb53c5f87ecfc7400be",
+      "originalFilename": "capture_058_81ddb4dde8b5.png",
+      "path": "data/review/raw/capture_058_81ddb4dde8b5.png",
+      "collectedAt": "2026-09-12T04:53:22.477Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "d2679a5d42e8bf4dd11c7acb4b4cb0d6f3e3901788349905ce45f36ebeb3841e",
+      "originalFilename": "capture_059_d2679a5d42e8.png",
+      "path": "data/review/raw/capture_059_d2679a5d42e8.png",
+      "collectedAt": "2026-09-12T04:53:24.530Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "de6cfbfb9fde450053ca766c23b96a14f671e9b29c9e20e15f5da4788301aa4b",
+      "originalFilename": "capture_060_de6cfbfb9fde.png",
+      "path": "data/review/raw/capture_060_de6cfbfb9fde.png",
+      "collectedAt": "2026-09-12T04:53:26.587Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "f10b6a7c4921afba9c02d67dfbdf800c749057f3559f9bf94903dcc9771a6229",
+      "originalFilename": "capture_061_f10b6a7c4921.png",
+      "path": "data/review/raw/capture_061_f10b6a7c4921.png",
+      "collectedAt": "2026-09-12T04:53:28.637Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "9bac7d5b7419f202ee1d295f17e1f18ba0dacb6bbe3c4b329e2dac8afba39960",
+      "originalFilename": "capture_062_9bac7d5b7419.png",
+      "path": "data/review/raw/capture_062_9bac7d5b7419.png",
+      "collectedAt": "2026-09-12T04:53:30.681Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "3fb7932e996dcbe2624e16bd9c9b2b7fab913e41be022db17e04f845f2ba6707",
+      "originalFilename": "capture_063_3fb7932e996d.png",
+      "path": "data/review/raw/capture_063_3fb7932e996d.png",
+      "collectedAt": "2026-09-12T04:53:32.728Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "6eb01a0a9c9cd22b8430fe8693f2c80a24efc4ebc90ee1700f3021b16503e65c",
+      "originalFilename": "capture_064_6eb01a0a9c9c.png",
+      "path": "data/review/raw/capture_064_6eb01a0a9c9c.png",
+      "collectedAt": "2026-09-12T04:53:34.772Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "f5f519d0d0b177d2b155d505dec87b91c81f9c7b03f99ae0e45604930876194f",
+      "originalFilename": "capture_065_f5f519d0d0b1.png",
+      "path": "data/review/raw/capture_065_f5f519d0d0b1.png",
+      "collectedAt": "2026-09-12T04:53:36.826Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "78fbe8495884f621f1685e66609ea2278f64e2c30f70e32d91a48e8e14b1950c",
+      "originalFilename": "capture_066_78fbe8495884.png",
+      "path": "data/review/raw/capture_066_78fbe8495884.png",
+      "collectedAt": "2026-09-12T04:53:38.865Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "3d603780b18c9acd0411989e7c88425d8511069990f5dec4043cbc1740a6e6ce",
+      "originalFilename": "capture_067_3d603780b18c.png",
+      "path": "data/review/raw/capture_067_3d603780b18c.png",
+      "collectedAt": "2026-09-12T04:53:40.908Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "e1f0c16d2b35df7f92cf629cf0b730993282cedfcf2ce99b5272508523ec6eb1",
+      "originalFilename": "capture_068_e1f0c16d2b35.png",
+      "path": "data/review/raw/capture_068_e1f0c16d2b35.png",
+      "collectedAt": "2026-09-12T04:53:42.947Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "3cf36c5110eaf8b99f273077f4fac4ea61a551b844ecc9a33b851d9480ccfc53",
+      "originalFilename": "capture_069_3cf36c5110ea.png",
+      "path": "data/review/raw/capture_069_3cf36c5110ea.png",
+      "collectedAt": "2026-09-12T04:53:44.999Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "6b10f02005b785853e046648f3c8a0c03d4c9782ca262ba19fe88e8bc141ad1c",
+      "originalFilename": "capture_070_6b10f02005b7.png",
+      "path": "data/review/raw/capture_070_6b10f02005b7.png",
+      "collectedAt": "2026-09-12T04:53:47.041Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "e99aae5a3dfbb0992eb4e1649a12f77846ac3f7780f0bd59037c6af48badb77d",
+      "originalFilename": "capture_071_e99aae5a3dfb.png",
+      "path": "data/review/raw/capture_071_e99aae5a3dfb.png",
+      "collectedAt": "2026-09-12T04:53:49.087Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "af2ae84772d43004f90d1269d52501fd8058ab3343b316c7a78abec1ba356a88",
+      "originalFilename": "capture_072_af2ae84772d4.png",
+      "path": "data/review/raw/capture_072_af2ae84772d4.png",
+      "collectedAt": "2026-09-12T04:53:51.129Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "d6e08124cc43b87ab15724c879b6dfb6a6ae67fe316c8a587d79fbd5210f167e",
+      "originalFilename": "capture_073_d6e08124cc43.png",
+      "path": "data/review/raw/capture_073_d6e08124cc43.png",
+      "collectedAt": "2026-09-12T04:53:53.166Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "b9ac6a9c7602925a539c486d5e039343dbf05587f42eb309c2260b6bd5e91a42",
+      "originalFilename": "capture_074_b9ac6a9c7602.png",
+      "path": "data/review/raw/capture_074_b9ac6a9c7602.png",
+      "collectedAt": "2026-09-12T04:53:55.219Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "9c383471e3f72ac86a01def17cfbf5a92b1b3c875b28876a3d2d64c276775599",
+      "originalFilename": "capture_075_9c383471e3f7.png",
+      "path": "data/review/raw/capture_075_9c383471e3f7.png",
+      "collectedAt": "2026-09-12T04:53:57.264Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "811c9ef9db4a49e19ff98c907ff3faf9618e342f6e27197878214e9bb0a1f0c1",
+      "originalFilename": "capture_076_811c9ef9db4a.png",
+      "path": "data/review/raw/capture_076_811c9ef9db4a.png",
+      "collectedAt": "2026-09-12T04:53:59.299Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "03dc28390d361ca907f0301e7fa68d3b07b602cf17af9dfaa830e7396858e2cd",
+      "originalFilename": "capture_077_03dc28390d36.png",
+      "path": "data/review/raw/capture_077_03dc28390d36.png",
+      "collectedAt": "2026-09-12T04:54:01.335Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "431e6f796a03cc2c17acad3a966a4840c1c625bd4e3de72ac457493914ab4225",
+      "originalFilename": "capture_078_431e6f796a03.png",
+      "path": "data/review/raw/capture_078_431e6f796a03.png",
+      "collectedAt": "2026-09-12T04:54:03.363Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "c7d58b28d2943e7ece9688447908d41384ff9aae0070e6b8a7116f235f880082",
+      "originalFilename": "capture_079_c7d58b28d294.png",
+      "path": "data/review/raw/capture_079_c7d58b28d294.png",
+      "collectedAt": "2026-09-12T04:54:05.405Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "1d4657ae2abb89b8af4ddcd039b60426de86cf85bbf71dea7175ed5741341cef",
+      "originalFilename": "capture_080_1d4657ae2abb.png",
+      "path": "data/review/raw/capture_080_1d4657ae2abb.png",
+      "collectedAt": "2026-09-12T04:54:07.456Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "59bca2925547fb1458139b15bc566dda3475a646bc6fbd6b038d72691e3e8234",
+      "originalFilename": "capture_081_59bca2925547.png",
+      "path": "data/review/raw/capture_081_59bca2925547.png",
+      "collectedAt": "2026-09-12T04:54:09.499Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "9674bc0acde7a16950ac0d048a164d921dfa5a1f6baa829e0b4e77b605448496",
+      "originalFilename": "capture_082_9674bc0acde7.png",
+      "path": "data/review/raw/capture_082_9674bc0acde7.png",
+      "collectedAt": "2026-09-12T04:54:11.548Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "a50b13e3b7058a0fe45f6bf2f94288f77ed0018f077b45f6a8ee897d1417e895",
+      "originalFilename": "capture_083_a50b13e3b705.png",
+      "path": "data/review/raw/capture_083_a50b13e3b705.png",
+      "collectedAt": "2026-09-12T04:54:13.603Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "52242f174d858c12e8445be8f7be8bb041077c04c64e69a53c94589d16858e4b",
+      "originalFilename": "capture_084_52242f174d85.png",
+      "path": "data/review/raw/capture_084_52242f174d85.png",
+      "collectedAt": "2026-09-12T04:54:15.655Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "cb048c4b1a0f4b2534103f5a744331aaa0acc0f318048bb45fa87047b7cb6ed8",
+      "originalFilename": "capture_085_cb048c4b1a0f.png",
+      "path": "data/review/raw/capture_085_cb048c4b1a0f.png",
+      "collectedAt": "2026-09-12T04:54:17.700Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "7ebb31752ef675a6814f184830164b1e5bb80a1d4ec32bfdcfc831bc95586884",
+      "originalFilename": "capture_086_7ebb31752ef6.png",
+      "path": "data/review/raw/capture_086_7ebb31752ef6.png",
+      "collectedAt": "2026-09-12T04:54:19.755Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "14d27e37b2c0b03f70b730445404fed7b7097505801190f587ac841ee93731c7",
+      "originalFilename": "capture_087_14d27e37b2c0.png",
+      "path": "data/review/raw/capture_087_14d27e37b2c0.png",
+      "collectedAt": "2026-09-12T04:54:21.807Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "a67e3612c40b8da77c9047bcae749a31bd896e5db0114564d467fc3968ae74f6",
+      "originalFilename": "capture_088_a67e3612c40b.png",
+      "path": "data/review/raw/capture_088_a67e3612c40b.png",
+      "collectedAt": "2026-09-12T04:54:23.855Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "4e9771e93e21c44d663c1e581d69ffab11de19e07a85863ac024b5e8d02f3de3",
+      "originalFilename": "capture_089_4e9771e93e21.png",
+      "path": "data/review/raw/capture_089_4e9771e93e21.png",
+      "collectedAt": "2026-09-12T04:54:25.896Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "171bc90404e5ac182817bd148198365cb0fedd2f7ae229fd1622f1eefc5f9dcd",
+      "originalFilename": "capture_090_171bc90404e5.png",
+      "path": "data/review/raw/capture_090_171bc90404e5.png",
+      "collectedAt": "2026-09-12T04:54:27.931Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "0e7c400b5b1ef9d398552ed22ef877bf5e8992f096532d11897798c16a6a15bc",
+      "originalFilename": "capture_091_0e7c400b5b1e.png",
+      "path": "data/review/raw/capture_091_0e7c400b5b1e.png",
+      "collectedAt": "2026-09-12T04:54:29.975Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "59c6ee31badd31e64f5c2bf12448c9a6d7418dcb393f1abd55873bffc0fa50f0",
+      "originalFilename": "capture_092_59c6ee31badd.png",
+      "path": "data/review/raw/capture_092_59c6ee31badd.png",
+      "collectedAt": "2026-09-12T04:54:32.022Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "15c5d863e900510953d528a9cc6bcd6a1620b4cce2539b1e0d4efa8e4e020997",
+      "originalFilename": "capture_093_15c5d863e900.png",
+      "path": "data/review/raw/capture_093_15c5d863e900.png",
+      "collectedAt": "2026-09-12T04:54:34.076Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "6e6befc492bdaaac51c4b188712c2ca36fa556de3236c89acd3dfd3d891912e5",
+      "originalFilename": "capture_094_6e6befc492bd.png",
+      "path": "data/review/raw/capture_094_6e6befc492bd.png",
+      "collectedAt": "2026-09-12T04:54:36.122Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "65220a88211c1c90adbce6e6453b850020f80bd4a71b61e3c8699d04ebfe2cc2",
+      "originalFilename": "capture_095_65220a88211c.png",
+      "path": "data/review/raw/capture_095_65220a88211c.png",
+      "collectedAt": "2026-09-12T04:54:38.168Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "7d4bbc5930fb33e44a7aad7897be9c4f87b6391d29b2390534a52e84e9cff804",
+      "originalFilename": "capture_096_7d4bbc5930fb.png",
+      "path": "data/review/raw/capture_096_7d4bbc5930fb.png",
+      "collectedAt": "2026-09-12T04:54:40.214Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "c67b3d5b920889069f64a788c632e79ffccf793e69bf7ece928b80733239a172",
+      "originalFilename": "capture_097_c67b3d5b9208.png",
+      "path": "data/review/raw/capture_097_c67b3d5b9208.png",
+      "collectedAt": "2026-09-12T04:54:42.261Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "4eb13be22db59ef33e0a42e6003816396283707b2cef36f3768e7a75bfe6cc21",
+      "originalFilename": "capture_098_4eb13be22db5.png",
+      "path": "data/review/raw/capture_098_4eb13be22db5.png",
+      "collectedAt": "2026-09-12T04:54:44.318Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "ecd4693479a84de76dd31cd9a151fcc0ab964fbc962e8bd933e665104c099321",
+      "originalFilename": "capture_099_ecd4693479a8.png",
+      "path": "data/review/raw/capture_099_ecd4693479a8.png",
+      "collectedAt": "2026-09-12T04:54:46.363Z",
+      "width": 250,
+      "height": 50
+    },
+    {
+      "sha256": "988904cd112ce2a83e1eb919f7732e98191c152e6f285419da3a1cfe946525e4",
+      "originalFilename": "capture_100_988904cd112c.png",
+      "path": "data/review/raw/capture_100_988904cd112c.png",
+      "collectedAt": "2026-09-12T04:54:48.440Z",
+      "width": 250,
+      "height": 50
+    }
+  ],
+  "attempts": 100,
+  "status": "complete",
+  "updatedAt": "2026-09-12T05:22:49.884Z",
+  "remaining": 0
+}
