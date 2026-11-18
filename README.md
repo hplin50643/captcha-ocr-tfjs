@@ -1,6 +1,6 @@
 # Captcha OCR TFJS
 
-[![CI](https://github.com/root50643/captcha-ocr-tfjs/actions/workflows/ci.yml/badge.svg)](https://github.com/root50643/captcha-ocr-tfjs/actions/workflows/ci.yml)
+[![CI](https://github.com/hplin50643/captcha-ocr-tfjs/actions/workflows/ci.yml/badge.svg)](https://github.com/hplin50643/captcha-ocr-tfjs/actions/workflows/ci.yml)
 
 使用 TensorFlow.js 辨識固定五位數驗證碼，支援數字 **1–9**。包含已訓練模型、已確認資料、單張／批次推論、人工標註、訓練與回歸測試；安裝後可直接在本機執行。
 
@@ -14,7 +14,7 @@
 需要 **Node.js 22 以上**及 npm。套件版本由 `package-lock.json` 鎖定；CI 檢查 Node.js 22、24 與 Windows、Linux。
 
 ```bash
-git clone https://github.com/root50643/captcha-ocr-tfjs.git
+git clone https://github.com/hplin50643/captcha-ocr-tfjs.git
 cd captcha-ocr-tfjs
 npm ci
 npm run solve -- data/raw/14662.png
